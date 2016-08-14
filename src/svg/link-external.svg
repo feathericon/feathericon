@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="link-external" fill="#000000">
+            <path d="M0,14.0169581 L0,5.99999999 C0,3.99999999 2,3.99999999 2,3.99999999 L7,4 L5,6 L2,6 L2,14 L10,14 L10,11 L12,8.99999999 L12,14 C12,16 10,16 10,16 L2,16 C2,16 1.23502722e-16,16.0339162 0,14.0169581 Z M14,4 L14,7 C14,7 14,8 15,8 C16,8 16,7 16,7 C16,7 16.0000001,3.15601112 16,1 C16,0 15,0 15,0 L9,0 C9,0 8,0 8.00000001,1 C8.00000002,2 9,2 9,2 L12,2 L7,7 L9,9 L14,4 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

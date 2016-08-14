@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="12px" height="16px" viewBox="0 0 12 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="location" fill="#000000">
+            <path d="M6,16 C7,16 12,8.76584329 12,6 C12,2.52827435 9.3137085,0 6,0 C2.6862915,0 0,2.52827435 0,6 C0,8.76584329 5,16 6,16 Z M6,9 C7.65685425,9 9,7.65685425 9,6 C9,4.34314575 7.65685425,3 6,3 C4.34314575,3 3,4.34314575 3,6 C3,7.65685425 4.34314575,9 6,9 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "gulp": "gulp default"
+    "gulp": "gulp default",
+    "export": "gulp export:sketch",
+    "icons": "gulp create:icons"
   },
   "repository": {
     "type": "git",
@@ -27,6 +29,7 @@
   "homepage": "https://github.com/featherplain/feathericon#readme",
   "devDependencies": {
     "browser-sync": "^2.13.0",
+    "del": "^2.2.2",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.0",
     "gulp-changed": "^1.3.0",
@@ -36,9 +39,11 @@
     "gulp-iconfont": "^8.0.1",
     "gulp-jade": "^1.1.0",
     "gulp-load-plugins": "^1.2.4",
+    "gulp-rename": "^1.2.2",
     "gulp-sass": "^2.3.2",
     "gulp-sketch": "^1.0.3",
     "gulp-svg-sprite": "^1.3.3",
-    "gulp-svgmin": "^1.2.2"
+    "gulp-svgmin": "^1.2.2",
+    "gulp-watch": "^4.3.9"
   }
 }
