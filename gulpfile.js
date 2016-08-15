@@ -7,7 +7,7 @@ var gulp             = require('gulp'),
     browserSync      = require('browser-sync'),
     runTimestamp     = Math.round(Date.now()/1000),
     // runSequence      = require('run-sequence'),
-    del              = require('del'),
+    del              = require('del')
 ;
 
 //---------------------------------------------------------------------------
@@ -43,6 +43,9 @@ gulp.task('create:icons', function() {
     .pipe($.iconfont({
       fontName: 'feathericon',
       formats: ['svg', 'ttf', 'eot', 'woff', 'woff2'],
+      normalize: true,
+      fontHeight: 1001,
+      startUnicode: 0xf101,
       timestamp: runTimestamp
     }))
     .on('glyphs', function(glyphs) {
@@ -56,6 +59,9 @@ gulp.task('create:icons', function() {
         .pipe($.consolidate('lodash', options))
         .pipe($.rename({ baseName: 'feathericon' }))
         .pipe(gulp.dest(paths.css))
+      gulp.src(paths.templates + 'index.html')
+        .pipe($.consolidate('lodash', options))
+        .pipe(gulp.dest('./'))
     })
     .pipe(gulp.dest(paths.fonts));
 });

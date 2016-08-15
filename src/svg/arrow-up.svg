@@ -3,7 +3,7 @@
     <defs></defs>
     <g id="directional" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="arrow-up" fill="#000000">
-            <polygon id="Shape" transform="translate(6.000000, 7.998835) scale(1, -1) translate(-6.000000, -7.998835) " points="10 4.00067 6 7.99967 2 4.00067 0 5.99767 6 11.99767 12 5.99767"></polygon>
+            <polygon id="Shape" points="6 3.99999 0 9.99999 1.999 11.99699 6 7.99899 10 11.99699 11.999 9.99999"></polygon>
         </g>
     </g>
 </svg>

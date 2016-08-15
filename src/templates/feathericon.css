@@ -5,7 +5,7 @@
 /*---------------------------------------------------------------------------*/
 
 /**
- * @font-face
+ * font path
  */
 @font-face {
   font-family: "<%= fontName %>";
@@ -20,14 +20,16 @@
 /**
  * classes
  */
-.<%= className %>:before {
+.<%= className %> {
   display: inline-block;
-  font-family: "<%= fontName %>";
-  font-style: normal;
-  font-weight: normal;
+  font: normal normal normal 16px/1 <%= fontName %>;
+  font-size: inherit;
   line-height: 1;
+  text-rendering: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-<% _.each(glyphs, function(glyph) { %>.<%= className %>-<%= glyph.name %>:before { content: "\<%= glyph.codepoint.toString(16).toLowerCase() %>" }
+<% _.each(glyphs, function(glyph) { %>.<%= className %>-<%= glyph.name %>:before {
+  content: "\<%= glyph.codepoint.toString(16).toLowerCase() %>";
+}
 <% }); %>

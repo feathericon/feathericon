@@ -1,0 +1,9 @@
+header
+  nav
+    ul.gnav
+      - var items = {start: 'Getting Started', release: 'Release Notes', github: 'GitHub Projects', license: 'license'}
+      for val, key in items
+        li(class="gnav__item gnav__item--#{key}"): +link('',val)
+  h1 feathericon
+  p Scalale vector icons for websites
+  a(href="#") Download
