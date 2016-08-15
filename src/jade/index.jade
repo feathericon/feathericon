@@ -1,19 +1,15 @@
-nclude inc/core/_config
-include inc/core/_mixins
 extends inc/core/_base
 block title
   title= page.top.title
 block prepend meta
-  - var sitename = name
-  - var keywords = page.top.keywords
-  - var description = page.top.description
-  - var ogpimage = page.top.ogpimage
   - var bodyClass = 'home'
 block append meta
 block body
-  .l-container
-    include inc/layout/_header
-    .l-main
-      .l-primary
-    include inc/layout/_footer
+  block content
+    .glyph
+      ul.glyph__list
+        li.glyph__item
+          span.fe.fe-#{}
+          span.glyph__name fe-#{}
+          span.glyph__codepoint #{}
 block append scriptFooter

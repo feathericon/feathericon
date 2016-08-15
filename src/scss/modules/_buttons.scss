@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+/* -------------------------------------------------------------- */
+/* buttons
+/* -------------------------------------------------------------- */
+
+.button {
+  display: block;
+  text-align: center;
+  padding: 1em 1.4em;
+  background-color: #fff;
+  color: $colorGreen;
+  margin: 0 auto 20px auto;
+  border-radius: 6px;
+  text-decoration: none;
+  box-shadow: 0 2px 0 darken($colorCyan, 10%);
+  &-download {
+   width: 260px;
+  }
+}

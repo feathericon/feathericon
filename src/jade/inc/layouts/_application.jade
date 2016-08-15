@@ -1,20 +1,23 @@
 doctype html
 html(xmlns:og="http://ogp.me/ns#", xmlns:fb='https://www.facebook.com/2008/fbml')
   head
-    meta(charset='UTF-8')
+    meta(charset='utf-8')
     block title
     block meta
-      meta(name='description', content=description)
-      meta(name='keywords', content=keywords)
+      meta(name='description', content= page.top.description)
       meta(name='viewport', content='width=device-width, initial-scale=1.0')
     block link
       link(rel='icon', href='/favicon.png')
       link(rel='shortcut icon', href='/favicon.ico')
       link(rel='apple-touch-icon', href='/apple-touch-icon.png')
-      link(rel='stylesheet', href='css/app.css')
+      link(rel='stylesheet', href='../css/application.css')
     block script
   body(class=bodyClass)
     block body
+      include inc/layouts/_header
+      .l-main
+        block content
+      include inc/layouts/_footer
     block scriptFooter
       script(src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js")
-      script(src="js/bundle.js")
+      script(src="../js/bundle.js")

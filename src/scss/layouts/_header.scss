@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+/* -------------------------------------------------------------- */
+/* header
+/* -------------------------------------------------------------- */
+
+.l-header {
+  padding: 3em 0;
+  background-color: $colorCyan;
+  color: #fff;
+  h1 {
+    margin: 1em 0;
+    text-align: center;
+    font-size: 3em;
+  }
+}
