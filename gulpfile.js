@@ -13,6 +13,7 @@ var gulp             = require('gulp'),
 // File Destinations
 //---------------------------------------------------------------------------
 var paths = {
+  'root'        : './',
   'sketch'      : 'src/*.sketch',
   'destSvg'     : 'src/svg/',
   'srcSvg'      : 'src/svg/*.svg',
@@ -28,7 +29,7 @@ var paths = {
 //---------------------------------------------------------------------------
 // Export artboards in Sketch to svg icons
 //---------------------------------------------------------------------------
-gulp.task('export:sketch', function(){
+gulp.task('export:svg', function(){
   return gulp.src(paths.sketch)
     .pipe($.sketch({
       export: 'artboards',
@@ -54,6 +55,11 @@ gulp.task('bs:reload', function() {
 });
 
 //---------------------------------------------------------------------------
+// Delete
+//---------------------------------------------------------------------------
+gulp.task('clean', del.bind(null, ['build/*', 'src/svg/*']));
+
+//---------------------------------------------------------------------------
 // Create icon fonts and stylesheets
 //---------------------------------------------------------------------------
 gulp.task('create:icons', function() {
@@ -70,7 +76,7 @@ gulp.task('create:icons', function() {
       var options = {
         fontName: 'feathericon',
         className: 'fe',
-        fontPath: '../fonts/',
+        fontPath: 'fonts/',
         glyphs: glyphs.map(mapGlyphs)
       }
       gulp.src(paths.templates + '*.css')
@@ -79,6 +85,9 @@ gulp.task('create:icons', function() {
       gulp.src(paths.templates + '*.scss')
         .pipe($.consolidate('lodash', options))
         .pipe(gulp.dest(paths.build))
+      gulp.src(paths.templates + '*.json')
+        .pipe($.consolidate('lodash', options))
+        .pipe(gulp.dest(paths.root))
     })
     .pipe(gulp.dest(paths.destFonts))
 });
@@ -116,11 +125,10 @@ gulp.task('sprite:svg', function() {
 //---------------------------------------------------------------------------
 // Jade Tasks
 //---------------------------------------------------------------------------
-
 gulp.task('jade', function() {
   return gulp.src(paths.srcJade + '*.jade')
     .pipe($.data(function(file) {
-      return require(paths.srcJade + 'setting.json');
+      return require('./setting.json');
     }))
     .pipe($.plumber())
     .pipe($.jade({ pretty: true }))
@@ -131,7 +139,6 @@ gulp.task('jade', function() {
 //---------------------------------------------------------------------------
 // Sass Tasks
 //---------------------------------------------------------------------------
-
 gulp.task('sass', function () {
   return gulp.src(paths.srcScss + '**/*.scss')
     .pipe($.cssGlobbing({ extensions: ['.scss'] }))
@@ -151,9 +158,7 @@ gulp.task('sass', function () {
 //---------------------------------------------------------------------------
 // Gulp Tasks
 //---------------------------------------------------------------------------
-
 gulp.task('watch', function() {
-  gulp.watch([paths.srcSvg],                  ['create:icons', 'bs:reload']);
   gulp.watch([paths.srcSvg],                  ['sprite:svg']);
   gulp.watch([paths.srcHtml  + '*.html'],     ['bs:reload']);
   gulp.watch([paths.srcJade  + '**/*.jade'],  ['jade']);
@@ -161,7 +166,7 @@ gulp.task('watch', function() {
 });
 
 gulp.task('webfont',function() {
-  rs('create:icons', 'minify:css', 'sprite:svg');
+  rs('clean', 'export:svg', 'create:icons', 'minify:css', 'sprite:svg' );
 });
 
 gulp.task('server', [

@@ -40,6 +40,7 @@
     "gulp-iconfont": "^8.0.1",
     "gulp-jade": "^1.1.0",
     "gulp-load-plugins": "^1.2.4",
+    "gulp-plumber": "^1.1.0",
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^2.3.2",
     "gulp-sketch": "^1.0.3",
