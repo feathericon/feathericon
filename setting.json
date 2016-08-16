@@ -8,7 +8,7 @@
     "top": {
       "title": "feathericon",
       "description": "Vector icons embedded in a webfont",
-      "ogpimage":""
+      "ogpimage": "images/ogpimage.png",
     }
   }
 }

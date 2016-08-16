@@ -6,6 +6,11 @@ html(xmlns:og="http://ogp.me/ns#", xmlns:fb='https://www.facebook.com/2008/fbml'
     block meta
       meta(name='description', content= page.top.description)
       meta(name='viewport', content='width=device-width, initial-scale=1.0')
+      meta(property='og:url', content='http://www.your-domain.com/your-page.html')
+      meta(property='og:type', content='website')
+      meta(property='og:title', content= page.top.name)
+      meta(property='og:description', content= page.top.description)
+      meta(property='og:image', content= page.top.ogpimage)
     block link
       link(rel='icon', href='/favicon.png')
       link(rel='shortcut icon', href='/favicon.ico')

@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+/* -------------------------------------------------------------- */
+/* share buttons
+/* -------------------------------------------------------------- */
+.shareButtons {
+  background-color: $colorGrayLighten;
+  &__list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 30px 0;
+  }
+  &__item {
+    margin: 0 5px;
+  }
+}
