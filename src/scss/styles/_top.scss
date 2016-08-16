@@ -6,7 +6,6 @@
 .glyph {
   display: flex;
   justify-content: space-between;
-  // align-items: center;
   flex-wrap: wrap;
   padding: 0;
   margin: 2em 0;
@@ -16,6 +15,17 @@
     padding: 10px;
     text-align: center;
     list-style-type: none;
+    transition: .3s;
+    &:hover {
+      background-color: $colorCyan;
+      span {
+        color: #fff;
+      }
+    }
+  }
+  &__icon {
+    font-size: 1.6em;
+    color: #555;
   }
   &__name {
     margin-top: 8px;
@@ -26,10 +36,4 @@
     color: #999;
     display: block;
   }
-}
-.fe {
-  font-size: 1.6em;
-  color: #555;
-}
-.glyph-name {
 }
