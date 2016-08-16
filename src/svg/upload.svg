@@ -3,7 +3,7 @@
     <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="upload" fill="#000000">
-            <path d="M13.5,3 L13,3 L12,2 L2,2 L1,3 L0.5,3 C0.5,3 0,3 0,2.5 L0,1 C0,1 0,0 1,0 L13,0 C14,0 14,1 14,1 L14,2.5 C14,3 13.5,3 13.5,3 L13.5,3 Z M5,9 L5,14 C5,15 6,15 6,15 L8,15 C8,15 9,15 9,14 L9,9 L12,9 L7,3 L2,9 L5,9 Z" id="Shape"></path>
+            <path d="M14,3 L12,3 L12,2 L2,2 L2,3 L0,3 L0,1 C0,1 0,0 1,0 L13,0 C14,0 14,1 14,1 L14,3 Z M5,9 L5,15 L9,15 L9,9 L12,9 L7,3 L2,9 L5,9 Z" id="Shape"></path>
         </g>
     </g>
 </svg>
