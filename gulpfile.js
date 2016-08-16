@@ -85,9 +85,9 @@ gulp.task('create:icons', function() {
       gulp.src(paths.templates + '*.scss')
         .pipe($.consolidate('lodash', options))
         .pipe(gulp.dest(paths.build))
-      gulp.src(paths.templates + '*.json')
+      gulp.src(paths.templates + '*.jade')
         .pipe($.consolidate('lodash', options))
-        .pipe(gulp.dest(paths.root))
+        .pipe(gulp.dest(paths.srcJade + 'inc/modules/'))
     })
     .pipe(gulp.dest(paths.destFonts))
 });

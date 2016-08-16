@@ -22,6 +22,18 @@ $imgPath           : '../images/';
 $fontFamily         : 'Lato', Sans-Serif;
 $fontFamilyCode     : Menlo, Consolas, Courier, sans-serif;
 
+@mixin fe($glyph: '\f101', $fontSize: inherit, $valign: baseline) {
+  display: inline-block;
+  content: $glyph;
+  font: normal normal normal 16px/1 feathericon;
+  font-size: $fontSize;
+  line-height: 1;
+  vertical-align: $valign;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 //----------------------------------------------------------------------------
 // grid
 //----------------------------------------------------------------------------

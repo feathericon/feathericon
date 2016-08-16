@@ -3,3 +3,34 @@
 /* -------------------------------------------------------------- */
 /* footer
 /* -------------------------------------------------------------- */
+.footerMenu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  li {
+    margin: 0 10px;
+    a {
+      color: $colorGrayDarken;
+      font-size: 0.85rem;
+      font-weight: 300;
+    }
+  }
+}
+
+.siteinfo {
+  padding: 40px 0;
+  background-color: $colorGrayLighten;
+  text-align: center;
+  color: $colorGray;
+  font-weight: 300;
+  &__text {
+    margin: 0;
+  }
+  &__author {
+    &:before {
+      @include fe('\f12f', $fontSize: 1.1rem);
+      margin: 0 5px;
+    }
+  }
+}

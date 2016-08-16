@@ -18,3 +18,9 @@
    width: 260px;
   }
 }
+.button-download {
+  &:before {
+    @include fe('\f121', $valign: text-bottom);
+    margin-right: 5px;
+  }
+}

@@ -2,10 +2,10 @@
   "name": "feathericon",
   "url": {
     "github": "https://github.com/featherplain/feathericon",
-    "pages": "https://feathericon.com",
+    "pages": "https://feathericon.com"
   },
-  "page":{
-    "top":{
+  "page": {
+    "top": {
       "title": "feathericon",
       "description": "Vector icons embedded in a webfont",
       "ogpimage":""

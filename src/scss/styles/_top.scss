@@ -5,28 +5,31 @@
 /* -------------------------------------------------------------- */
 .glyph {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: space-between;
+  // align-items: center;
   flex-wrap: wrap;
   padding: 0;
   margin: 2em 0;
-  li {
+  &__item {
     margin: 10px;
     width: 5em;
     padding: 10px;
     text-align: center;
+    list-style-type: none;
+  }
+  &__name {
+    margin-top: 8px;
+  }
+  &__name,
+  &__codepoint {
+    font-size: .5em;
+    color: #999;
+    display: block;
   }
 }
 .fe {
   font-size: 1.6em;
   color: #555;
 }
-.glyph-name,
-.glyph-codepoint {
-  font-size: .5em;
-  color: #999;
-  display: block;
-}
 .glyph-name {
-  margin-top: 8px;
 }

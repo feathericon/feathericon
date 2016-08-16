@@ -10,14 +10,11 @@ html(xmlns:og="http://ogp.me/ns#", xmlns:fb='https://www.facebook.com/2008/fbml'
       link(rel='icon', href='/favicon.png')
       link(rel='shortcut icon', href='/favicon.ico')
       link(rel='apple-touch-icon', href='/apple-touch-icon.png')
-      link(rel='stylesheet', href='../css/application.css')
+      link(rel='stylesheet', href='build/feathericon.min.css')
+      link(rel='stylesheet', href='src/css/application.css')
     block script
   body(class=bodyClass)
     block body
-      include inc/layouts/_header
-      .l-main
-        block content
-      include inc/layouts/_footer
     block scriptFooter
       script(src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js")
-      script(src="../js/bundle.js")
+      //- script(src="../js/bundle.js")

@@ -1,0 +1,6 @@
+<% _.each(glyphs, function(glyph) { %>
+li.glyph__item
+  span.<%= className %>.<%= className %>-<%= glyph.name %>.glyph__icon
+  span.glyph__name fe-<%= glyph.name %>
+  span.glyph__codepoint <%= glyph.codepoint.toString(16).toLowerCase() %>
+<% }); %>

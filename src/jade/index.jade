@@ -1,15 +1,13 @@
-extends inc/core/_base
+extends inc/layouts/_application
 block title
   title= page.top.title
 block prepend meta
   - var bodyClass = 'home'
 block append meta
 block body
-  block content
+  include inc/layouts/_header
+  .l-main
     .glyph
-      ul.glyph__list
-        li.glyph__item
-          span.fe.fe-#{}
-          span.glyph__name fe-#{}
-          span.glyph__codepoint #{}
+      include inc/modules/_icons
+  include inc/layouts/_footer
 block append scriptFooter

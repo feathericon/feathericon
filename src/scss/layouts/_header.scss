@@ -4,13 +4,24 @@
 /* header
 /* -------------------------------------------------------------- */
 
+/**
+ * l-header
+ */
 .l-header {
-  padding: 3em 0;
-  background-color: $colorCyan;
-  color: #fff;
-  h1 {
-    margin: 1em 0;
-    text-align: center;
-    font-size: 3em;
+  margin-bottom: 40px;
+}
+
+/**
+ * siteBrand
+ */
+.siteBrand {
+  &__title {
+    font-size: 2.4rem;
+    margin-top: 0;
+    margin-bottom: 10px;
+  }
+  &__description {
+    margin-top: 0;
+    font-weight: 300;
   }
 }
