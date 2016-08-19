@@ -1,4 +1,4 @@
-![image alt](https://raw.githubusercontent.com/featherplain/feathericon/master/src/images/ogpimage.png "title")
+![image alt](https://raw.githubusercontent.com/featherplain/feathericon/master/ogpimage.png "title")
 
 <h1 style="text-align: center; border-bottom: none;">feathericon</h1>
 
