@@ -5,7 +5,7 @@
   "main": "gulpfile.js",
   "scripts": {
     "webfont": "gulp webfont",
-    "server": "gulp server",
+    "server": "gulp server"
   },
   "repository": {
     "type": "git",
