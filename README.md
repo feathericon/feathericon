@@ -5,7 +5,7 @@
 <div style="text-align: center;">feathericon is simple, scalable vector icon font for websites, apps.<br/>
 <a href="http://feathericon.com/">feathericon.com</a></div>
 
-
+[![Build Status](https://travis-ci.org/featherplain/feathericon.svg?branch=master)](https://travis-ci.org/featherplain/feathericon)
 
 ## Getting Started
 [Download zip](https://github.com/featherplain/feathericon/archive/master.zip) 
