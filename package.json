@@ -4,10 +4,9 @@
   "description": "A scalable set of icons",
   "main": "index.js",
   "scripts": {
-    "export": "gulp export:sketch",
     "webfont": "gulp webfont",
     "server": "gulp server",
-    "test": "npm run webfont && npm run server"
+    "test": "npm run webfont"
   },
   "repository": {
     "type": "git",
