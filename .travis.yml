@@ -17,8 +17,13 @@ before_script:
 
 script:
   - npm test
-  - ls -al build/css/*.css build/css/*.min.css
-  - ls -al build/fonts/*.eot build/fonts/*.svg build/fonts/*.ttf build/fonts/*.woff build/fonts/*.woff2
+  - ls -al build/css/*.css
+  - ls -al build/css/*.min.css
+  - ls -al build/fonts/*.eot
+  - ls -al build/fonts/*.svg
+  - ls -al build/fonts/*.ttf
+  - ls -al build/fonts/*.woff
+  - ls -al build/fonts/*.woff2
   - ls -al build/scss/_*.scss
   - ls -al build/svg/sprite.*.svg
 
