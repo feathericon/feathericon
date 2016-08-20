@@ -8,15 +8,7 @@ node_js:
 branches:
   - master
 
-cache:
- directories:
-  - node_modules
-
-before_script:
-  - npm install
-
 script:
-  - npm test
   - ls -al build/css/feathericon.css
   - ls -al build/css/feathericon.min.css
   - ls -al build/fonts/feathericon.eot
