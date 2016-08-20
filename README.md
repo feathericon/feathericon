@@ -1,17 +1,43 @@
-![feathericon](https://raw.githubusercontent.com/featherplain/feathericon/master/docs/ogpimage.png "title")
+feathericon
+===
 
-<h1 style="text-align: center; border-bottom: none;">feathericon</h1>
+feathericon is simple, scalable vector icon font for websites, apps.
 
-<div style="text-align: center;">feathericon is simple, scalable vector icon font for websites, apps.<br/>
-<a href="http://feathericon.com/">feathericon.com</a></div>
-
+[![npm](https://img.shields.io/npm/v/npm.svg?maxAge=2592000)](https://www.npmjs.com/package/feathericon)
 [![Build Status](https://travis-ci.org/featherplain/feathericon.svg?branch=master)](https://travis-ci.org/featherplain/feathericon)
 
-## Getting Started
-[Download zip](https://github.com/featherplain/feathericon/archive/master.zip) 
+![feathericon](https://raw.githubusercontent.com/featherplain/feathericon/master/docs/ogpimage.png "title")
 
-or 
+## Install
+You can install via [npm](https://npmjs.org).
 
 ```
-$ git@github.com:featherplain/feathericon.git feathericon
+$ npm install feathericon --save
 ```
+
+## Usage
+You can simply point your Sass `include-path` at your `node_modules/` directory and import it like this.
+
+```
+@import "feathericon/build/scss/feathericon";
+```
+
+## Customize feathericon
+### 1. Edit Sketch document
+Open the Sketch document in `src/feathericons.sketch`. Each icon exists as an artboard within the Sketch document. If you’re adding an icon, duplicate one of the artboards and add your shapes to it. **Be sure to give your artboard a name that makes sense**.
+
+### 2. Build icons
+1. Open the feathericon directory in Terminal .
+1. Run this command to install dependencies for building icons.
+  
+  ```
+  $ npm install
+  ```
+1. Run this command. Running the gulp task will generate the font, css, scss and SVGs, placing them in the `build/` directory.
+
+  ```
+  $ npm run webfont
+  ```
+
+## License
+[MIT](https://github.com/featherplain/feathericon/blob/master/LICENSE) (C) 2016 Megumi Hano
