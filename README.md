@@ -10,14 +10,14 @@ feathericon is simple, scalable vector icon font for websites, apps.
 ## Install
 You can install via [npm](https://npmjs.org).
 
-```
+```bash
 $ npm install feathericon --save
 ```
 
 ## Usage
 You can simply point your Sass `include-path` at your `node_modules/` directory and import it like this.
 
-```
+```scss
 @import "feathericon/build/scss/feathericon";
 ```
 
@@ -29,12 +29,12 @@ Open the Sketch document in `src/feathericons.sketch`. Each icon exists as an ar
 1. Open the feathericon directory in Terminal .
 1. Run this command to install dependencies for building icons.
   
-  ```
+  ```bash
   $ npm install
   ```
 1. Run this command. Running the gulp task will generate the font, css, scss and SVGs, placing them in the `build/` directory.
 
-  ```
+  ```bash
   $ npm run webfont
   ```
 
