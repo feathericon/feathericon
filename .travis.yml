@@ -1,12 +1,29 @@
 language: node_js
 
 node_js:
-  - '0.11'
-  - '0.10'
+  - '4'
+  - '5'
+  - '6'
+
+branches:
+  - master
+
+cache:
+ directories:
+  - node_modules
+
+before_script:
+  - npm install
+
+script:
+  - npm test
+  - ls -al build/css/*.css build/css/*.min.css
+  - ls -al build/fonts/*.eot build/fonts/*.svg build/fonts/*.ttf build/fonts/*.woff build/fonts/*.woff2
+  - ls -al build/scss/_*.scss
+  - ls -al build/svg/sprite.*.svg
 
 # deploy:
 #   provider: npm
-#   email: ${NPM_EMAIL}
 #   api_key: ${NPM_API_KEY}
 #   skip_cleanup: true
 #   on:

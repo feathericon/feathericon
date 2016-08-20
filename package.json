@@ -4,10 +4,10 @@
   "description": "A scalable set of icons",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "export": "gulp export:sketch",
     "webfont": "gulp webfont",
-    "server": "gulp server"
+    "server": "gulp server",
+    "test": "npm run webfont && npm run server"
   },
   "repository": {
     "type": "git",
@@ -36,7 +36,6 @@
     "gulp-clean-css": "^2.0.12",
     "gulp-consolidate": "^0.2.0",
     "gulp-css-globbing": "^0.1.8",
-    "gulp-cssmin": "^0.1.7",
     "gulp-data": "^1.2.1",
     "gulp-iconfont": "^8.0.1",
     "gulp-jade": "^1.1.0",
