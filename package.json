@@ -36,6 +36,7 @@
     "gulp-clean-css": "^2.0.12",
     "gulp-consolidate": "^0.2.0",
     "gulp-css-globbing": "^0.1.8",
+    "gulp-cssmin": "^0.1.7",
     "gulp-data": "^1.2.1",
     "gulp-iconfont": "^8.0.1",
     "gulp-jade": "^1.1.0",

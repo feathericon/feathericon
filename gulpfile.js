@@ -13,18 +13,40 @@ var gulp             = require('gulp'),
 // File Destinations
 //---------------------------------------------------------------------------
 var paths = {
+  // dir
   'root'        : './',
-  'sketch'      : 'src/*.sketch',
-  'destSvg'     : 'src/svg/',
-  'srcSvg'      : 'src/svg/*.svg',
-  'templates'   : 'src/templates/',
-  'destFonts'   : 'build/fonts/',
   'build'       : 'build/',
+  'docs'        : 'docs/',
+  // sketch
+  'sketch'      : 'src/*.sketch',
+  //svg
+  'srcSvg'      : 'src/svg/',
+  'destSvg'     : 'build/svg/',
+  // templates
+  'templates'   : 'src/templates/',
+  // fonts
+  'destFonts'   : 'build/fonts/',
+  // scss
+  'destScss'    : 'build/scss/',
   'srcScss'     : 'src/scss/',
-  'srcCss'      : 'src/css/',
-  'srcHtml'     : './',
+  // css
+  'destCss'     : 'build/css/',
+  // jade
   'srcJade'     : 'src/jade/'
 };
+
+//---------------------------------------------------------------------------
+// Delete
+//---------------------------------------------------------------------------
+gulp.task('clean', del.bind(null, [
+  paths.srcSvg     + '*.svg',
+  paths.destSvg    + '*.svg',
+  paths.destFonts  + '*.*',
+  paths.destScss   + '*.scss',
+  paths.destCss    + '*.css',
+  paths.srcJade    + 'imc/modules/*.jade',
+  paths.docs       + 'fonts/*.*',
+]));
 
 //---------------------------------------------------------------------------
 // Export artboards in Sketch to svg icons
@@ -36,34 +58,16 @@ gulp.task('export:svg', function(){
       formats: 'svg',
       compact: true
     }))
-    .pipe(gulp.dest(paths.destSvg));
+    .pipe(gulp.dest(paths.srcSvg));
 });
-
-//---------------------------------------------------------------------------
-// BrowserSync
-//---------------------------------------------------------------------------
-gulp.task('browserSync', function() {
-  browserSync.init({
-    server: {
-      baseDir: paths.srcHtml
-    }
-  });
-});
-
-gulp.task('bs:reload', function() {
-  browserSync.reload()
-});
-
-//---------------------------------------------------------------------------
-// Delete
-//---------------------------------------------------------------------------
-gulp.task('clean', del.bind(null, ['build/*', 'src/svg/*']));
 
 //---------------------------------------------------------------------------
 // Create icon fonts and stylesheets
 //---------------------------------------------------------------------------
+
+//create icons
 gulp.task('create:icons', function() {
-  return gulp.src(paths.srcSvg)
+  return gulp.src(paths.srcSvg + '*.svg')
     .pipe($.iconfont({
       fontName: 'feathericon',
       formats: ['svg', 'ttf', 'eot', 'woff', 'woff2'],
@@ -76,40 +80,43 @@ gulp.task('create:icons', function() {
       var options = {
         fontName: 'feathericon',
         className: 'fe',
-        fontPath: 'fonts/',
+        fontPath: '../fonts/',
         glyphs: glyphs.map(mapGlyphs)
       }
       gulp.src(paths.templates + '*.css')
         .pipe($.consolidate('lodash', options))
-        .pipe(gulp.dest(paths.build))
+        .pipe(gulp.dest(paths.destCss))
       gulp.src(paths.templates + '*.scss')
         .pipe($.consolidate('lodash', options))
-        .pipe(gulp.dest(paths.build))
+        .pipe(gulp.dest(paths.destScss))
       gulp.src(paths.templates + '*.jade')
         .pipe($.consolidate('lodash', options))
         .pipe(gulp.dest(paths.srcJade + 'inc/modules/'))
     })
-    .pipe(gulp.dest(paths.destFonts))
+    .pipe(gulp.dest(paths.docs + 'fonts/'))
+    .pipe(gulp.dest(paths.destFonts));
 });
 
 function mapGlyphs(glyph) {
   return { name: glyph.name, codepoint: glyph.unicode[0].charCodeAt(0) }
 }
 
+// minify css file
 gulp.task('minify:css', function() {
-  return gulp.src(paths.build + '*.css')
+  gulp.src(paths.destCss + '*.css')
     .pipe($.cleanCss())
     .pipe($.rename({
       suffix: '.min'
     }))
-    .pipe(gulp.dest(paths.build));
+    .pipe(gulp.dest(paths.destCss))
+    .pipe(gulp.dest(paths.docs + 'css/'));
 });
 
 //---------------------------------------------------------------------------
 // Generate sprite svg file
 //---------------------------------------------------------------------------
 gulp.task('sprite:svg', function() {
-  return gulp.src(paths.srcSvg)
+  return gulp.src(paths.srcSvg + '*.svg')
     .pipe($.svgSprite({
       dest: './',
       mode: { symbol: { dest: './' } }
@@ -119,7 +126,22 @@ gulp.task('sprite:svg', function() {
       dirname: './',
       prefix: 'sprite' + '.'
     }))
-    .pipe(gulp.dest(paths.build));
+    .pipe(gulp.dest(paths.destSvg));
+});
+
+//---------------------------------------------------------------------------
+// BrowserSync
+//---------------------------------------------------------------------------
+gulp.task('browserSync', function() {
+  browserSync.init({
+    server: {
+      baseDir: paths.docs
+    }
+  });
+});
+
+gulp.task('bs:reload', function() {
+  browserSync.reload()
 });
 
 //---------------------------------------------------------------------------
@@ -132,7 +154,7 @@ gulp.task('jade', function() {
     }))
     .pipe($.plumber())
     .pipe($.jade({ pretty: true }))
-    .pipe(gulp.dest(paths.srcHtml))
+    .pipe(gulp.dest(paths.docs))
     .pipe(browserSync.reload({ stream: true }));
 });
 
@@ -150,7 +172,7 @@ gulp.task('sass', function () {
       browsers: 'last 2 versions',
       cascade: false
     }))
-    .pipe(gulp.dest(paths.srcCss))
+    .pipe(gulp.dest(paths.docs + 'css/'))
     .pipe(browserSync.reload({ stream: true }));
 });
 
@@ -160,13 +182,19 @@ gulp.task('sass', function () {
 //---------------------------------------------------------------------------
 gulp.task('watch', function() {
   gulp.watch([paths.srcSvg],                  ['sprite:svg']);
-  gulp.watch([paths.srcHtml  + '*.html'],     ['bs:reload']);
+  gulp.watch([paths.docs     + '*.html'],     ['bs:reload']);
   gulp.watch([paths.srcJade  + '**/*.jade'],  ['jade']);
   gulp.watch([paths.srcScss  + '**/*.scss'],  ['sass']);
 });
 
 gulp.task('webfont',function() {
-  rs('clean', 'export:svg', 'create:icons', 'minify:css', 'sprite:svg' );
+  rs(
+    'clean',
+    'export:svg',
+    'create:icons',
+    'minify:css',
+    'sprite:svg'
+  );
 });
 
 gulp.task('server', [

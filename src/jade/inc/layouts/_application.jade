@@ -6,6 +6,9 @@ html(xmlns:og="http://ogp.me/ns#", xmlns:fb='https://www.facebook.com/2008/fbml'
     block meta
       meta(name='description', content= page.top.description)
       meta(name='viewport', content='width=device-width, initial-scale=1.0')
+      meta(property='twitter:card', content='summary_large_image')
+      meta(property='twitter:site', content='@featherplain')
+      meta(property='fb:app_id', content='1774381786134166')
       meta(property='og:url', content= url.pages)
       meta(property='og:type', content='website')
       meta(property='og:title', content= page.top.title)
@@ -15,8 +18,9 @@ html(xmlns:og="http://ogp.me/ns#", xmlns:fb='https://www.facebook.com/2008/fbml'
       link(rel='icon', href='/favicon.png')
       link(rel='shortcut icon', href='/favicon.ico')
       link(rel='apple-touch-icon', href='/apple-touch-icon.png')
-      link(rel='stylesheet', href='build/feathericon.min.css')
-      link(rel='stylesheet', href='src/css/application.css')
+      link(rel='stylesheet', href='css/feathericon.min.css')
+      link(rel='stylesheet', href='css/application.css')
+      link(rel='stylesheet', href='https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i')
     block script
   body(class=bodyClass)
     block body
