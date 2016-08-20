@@ -3,7 +3,6 @@ feathericon
 
 feathericon is simple, scalable vector icon font for websites, apps.
 
-[![npm](https://img.shields.io/npm/v/npm.svg?maxAge=2592000)](https://www.npmjs.com/package/feathericon)
 [![Build Status](https://travis-ci.org/featherplain/feathericon.svg?branch=master)](https://travis-ci.org/featherplain/feathericon)
 
 ![feathericon](https://raw.githubusercontent.com/featherplain/feathericon/master/docs/ogpimage.png "title")
