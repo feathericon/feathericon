@@ -17,15 +17,15 @@ before_script:
 
 script:
   - npm test
-  - ls -al build/css/*.css
-  - ls -al build/css/*.min.css
-  - ls -al build/fonts/*.eot
-  - ls -al build/fonts/*.svg
-  - ls -al build/fonts/*.ttf
-  - ls -al build/fonts/*.woff
-  - ls -al build/fonts/*.woff2
-  - ls -al build/scss/_*.scss
-  - ls -al build/svg/sprite.*.svg
+  - ls -al build/css/feathericon.css
+  - ls -al build/css/feathericon.min.css
+  - ls -al build/fonts/feathericon.eot
+  - ls -al build/fonts/feathericon.svg
+  - ls -al build/fonts/feathericon.ttf
+  - ls -al build/fonts/feathericon.woff
+  - ls -al build/fonts/feathericon.woff2
+  - ls -al build/scss/_feathericon.scss
+  - ls -al build/svg/sprite.feathericon.svg
 
 # deploy:
 #   provider: npm
