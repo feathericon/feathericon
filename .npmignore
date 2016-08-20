@@ -1,3 +1,2 @@
 .travis.yml
-node_modules/
-CNAME
+docs/CNAME

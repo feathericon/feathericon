@@ -19,10 +19,10 @@ script:
   - ls -al build/scss/_feathericon.scss
   - ls -al build/svg/sprite.feathericon.svg
 
-# deploy:
-#   provider: npm
-#   api_key: ${NPM_API_KEY}
-#   skip_cleanup: true
-#   on:
-#     branch: master
-#     repo: ${TRAVIS_REPO_SLUG}
+deploy:
+  provider: npm
+  api_key: ${NPM_API_KEY}
+  skip_cleanup: true
+  on:
+    branch: master
+    repo: ${TRAVIS_REPO_SLUG}
