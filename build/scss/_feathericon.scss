@@ -5,17 +5,20 @@
 //---------------------------------------------------------------------------
 
 //
+// variables
+//
+$feathericon-font-path: '../fonts/' !default;
+
+//
 // font path
 //
 @font-face {
-  $path: '../fonts/';
   font-family: 'feathericon';
-  src: url('#{$path}/feathericon.eot');
-  src: url('#{$path}/feathericon.eot?#iefix') format('embedded-opentype'),
-    url('#{$path}/feathericon.woff2') format('woff2'),
-    url('#{$path}/feathericon.woff') format('woff'),
-    url('#{$path}/feathericon.ttf') format('truetype'),
-    url('#{$path}/feathericon.svg#fontawesomeregular') format('svg');
+  src: url('#{$feathericon-font-path}feathericon.eot');
+  src: url('#{$feathericon-font-path}feathericon.eot?#iefix') format('embedded-opentype'),
+    url('#{$feathericon-font-path}feathericon.woff') format('woff'),
+    url('#{$feathericon-font-path}feathericon.ttf') format('truetype'),
+    url('#{$feathericon-font-path}feathericon.svg#fontawesomeregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -23,9 +26,9 @@
 //
 // feathericon
 //
-.fe{
+.fe {
   display: inline-block;
-  font: normal normal normal 1/16 feathericon;
+  font: normal normal normal 16px feathericon;
   font-size: inherit;
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;

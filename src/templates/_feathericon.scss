@@ -5,17 +5,20 @@
 //---------------------------------------------------------------------------
 
 //
+// variables
+//
+$<%= font_name %>-font-path: '<%= @options[:preprocessor_path] %>' !default;
+
+//
 // font path
 //
 @font-face {
-  $path: '<%= @options[:preprocessor_path] %>';
   font-family: '<%= font_name %>';
-  src: url('#{$path}/<%= font_name %>.eot');
-  src: url('#{$path}/<%= font_name %>.eot?#iefix') format('embedded-opentype'),
-    url('#{$path}/<%= font_name %>.woff2') format('woff2'),
-    url('#{$path}/<%= font_name %>.woff') format('woff'),
-    url('#{$path}/<%= font_name %>.ttf') format('truetype'),
-    url('#{$path}/<%= font_name %>.svg#fontawesomeregular') format('svg');
+  src: url('#{$<%= font_name %>-font-path}<%= font_name %>.eot');
+  src: url('#{$<%= font_name %>-font-path}<%= font_name %>.eot?#iefix') format('embedded-opentype'),
+    url('#{$<%= font_name %>-font-path}<%= font_name %>.woff') format('woff'),
+    url('#{$<%= font_name %>-font-path}<%= font_name %>.ttf') format('truetype'),
+    url('#{$<%= font_name %>-font-path}<%= font_name %>.svg#fontawesomeregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -23,9 +26,9 @@
 //
 // feathericon
 //
-.fe{
+.fe {
   display: inline-block;
-  font: normal normal normal 1/16 <%= font_name %>;
+  font: normal normal normal 16px <%= font_name %>;
   font-size: inherit;
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;

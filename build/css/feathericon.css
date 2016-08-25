@@ -7,34 +7,28 @@
 /**
  * font path
  */
-@font-face {
-  font-family: "feathericon";
-  src: url("../fonts/feathericon.eot");
-  src: url("../fonts/feathericon.eot?#iefix") format("embedded-opentype"),
-       url("../fonts/feathericon.woff") format("woff"),
-       url("../fonts/feathericon.ttf") format("truetype"),
-       url("../fonts/feathericon.svg#feathericon") format("svg");
+ @font-face {
+  font-family: 'feathericon';
+  src: url('../fonts/feathericon.eot');
+  src: url('../fonts/feathericon.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/feathericon.woff') format('woff'),
+    url('../fonts/feathericon.ttf') format('truetype'),
+    url('../fonts/feathericon.svg#fontawesomeregular') format('svg');
   font-weight: normal;
   font-style: normal;
-}
+ }
 
-@media screen and (-webkit-min-device-pixel-ratio:0) {
-  @font-face {
-    font-family: "feathericon";
-    src: url("../fonts/feathericon.svg#feathericon") format("svg");
-  }
-}
 
 /**
  * feathericon
  */
- .fe {
-   display: inline-block;
-   font: normal normal normal 1/16 feathericon;
-   font-size: inherit;
-   text-rendering: auto;
-   -webkit-font-smoothing: antialiased;
-   -moz-osx-font-smoothing: grayscale;
+.fe {
+  display: inline-block;
+  font: normal normal normal 16px feathericon;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
  }
 
 /**
