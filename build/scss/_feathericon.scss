@@ -8,21 +8,16 @@
 // font path
 //
 @font-face {
-  font-family: "feathericon";
-  src: url("../fonts/feathericon.eot");
-  src: url("../fonts/feathericon.eot?#iefix") format("embedded-opentype"),
-       url("../fonts/feathericon.woff") format("woff"),
-       url("../fonts/feathericon.ttf") format("truetype"),
-       url("../fonts/feathericon.svg#feathericon") format("svg");
+  $path: '../fonts/';
+  font-family: 'feathericon';
+  src: url('#{$path}/feathericon.eot');
+  src: url('#{$path}/feathericon.eot?#iefix') format('embedded-opentype'),
+    url('#{$path}/feathericon.woff2') format('woff2'),
+    url('#{$path}/feathericon.woff') format('woff'),
+    url('#{$path}/feathericon.ttf') format('truetype'),
+    url('#{$path}/feathericon.svg#fontawesomeregular') format('svg');
   font-weight: normal;
   font-style: normal;
-}
-
-@media screen and (-webkit-min-device-pixel-ratio:0) {
-  @font-face {
-    font-family: "feathericon";
-    src: url("../fonts/feathericon.svg#feathericon") format("svg");
-  }
 }
 
 //

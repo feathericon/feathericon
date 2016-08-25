@@ -7,7 +7,18 @@
 //
 // font path
 //
-<%= font_face %>
+@font-face {
+  $path: '<%= @options[:preprocessor_path] %>';
+  font-family: '<%= font_name %>';
+  src: url('#{$path}/<%= font_name %>.eot');
+  src: url('#{$path}/<%= font_name %>.eot?#iefix') format('embedded-opentype'),
+    url('#{$path}/<%= font_name %>.woff2') format('woff2'),
+    url('#{$path}/<%= font_name %>.woff') format('woff'),
+    url('#{$path}/<%= font_name %>.ttf') format('truetype'),
+    url('#{$path}/<%= font_name %>.svg#fontawesomeregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
 
 //
 // feathericon
