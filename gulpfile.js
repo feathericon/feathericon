@@ -44,8 +44,7 @@ gulp.task('clean', del.bind(null, [
   paths.destFonts  + '*.*',
   paths.destScss   + '*.scss',
   paths.destCss    + '*.css',
-  paths.srcJade    + 'imc/modules/*.jade',
-  paths.docs       + 'fonts/*.*',
+  paths.srcJade    + 'imc/modules/*.jade'
 ]));
 
 //---------------------------------------------------------------------------
@@ -62,46 +61,8 @@ gulp.task('export:svg', function(){
 });
 
 //---------------------------------------------------------------------------
-// Create icon fonts and stylesheets
-//---------------------------------------------------------------------------
-
-//create icons
-gulp.task('create:icons', function() {
-  return gulp.src(paths.srcSvg + '*.svg')
-    .pipe($.iconfont({
-      fontName: 'feathericon',
-      formats: ['svg', 'ttf', 'eot', 'woff', 'woff2'],
-      normalize: true,
-      fontHeight: 1001,
-      startUnicode: 0xf101,
-      timestamp: runTimestamp
-    }))
-    .on('glyphs', function(glyphs) {
-      var options = {
-        fontName: 'feathericon',
-        className: 'fe',
-        fontPath: '../fonts/',
-        glyphs: glyphs.map(mapGlyphs)
-      }
-      gulp.src(paths.templates + '*.css')
-        .pipe($.consolidate('lodash', options))
-        .pipe(gulp.dest(paths.destCss))
-      gulp.src(paths.templates + '*.scss')
-        .pipe($.consolidate('lodash', options))
-        .pipe(gulp.dest(paths.destScss))
-      gulp.src(paths.templates + '*.jade')
-        .pipe($.consolidate('lodash', options))
-        .pipe(gulp.dest(paths.srcJade + 'inc/modules/'))
-    })
-    .pipe(gulp.dest(paths.docs + 'fonts/'))
-    .pipe(gulp.dest(paths.destFonts));
-});
-
-function mapGlyphs(glyph) {
-  return { name: glyph.name, codepoint: glyph.unicode[0].charCodeAt(0) }
-}
-
 // minify css file
+//---------------------------------------------------------------------------
 gulp.task('minify:css', function() {
   gulp.src(paths.destCss + '*.css')
     .pipe($.cleanCss())
@@ -180,21 +141,19 @@ gulp.task('sass', function () {
 //---------------------------------------------------------------------------
 // Gulp Tasks
 //---------------------------------------------------------------------------
+gulp.task('before:compile',function() {
+  rs('clean', 'export:svg');
+});
+
+gulp.task('after:compile', function() {
+  rs('minify:css', 'sprite:svg');
+});
+
 gulp.task('watch', function() {
   gulp.watch([paths.srcSvg],                  ['sprite:svg']);
   gulp.watch([paths.docs     + '*.html'],     ['bs:reload']);
   gulp.watch([paths.srcJade  + '**/*.jade'],  ['jade']);
   gulp.watch([paths.srcScss  + '**/*.scss'],  ['sass']);
-});
-
-gulp.task('webfont',function() {
-  rs(
-    'clean',
-    'export:svg',
-    'create:icons',
-    'minify:css',
-    'sprite:svg'
-  );
 });
 
 gulp.task('server', [
@@ -204,5 +163,3 @@ gulp.task('server', [
   'sass',
   'watch'
 ]);
-
-
