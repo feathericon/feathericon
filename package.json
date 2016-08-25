@@ -6,8 +6,8 @@
   "scripts": {
     "before:compile": "gulp before:compile",
     "after:compile": "gulp after:compile",
-    "setup": "npm install && brew install fontforge --with-python && brew install eot-utils && gem install fontcustom",
-    "webfont": "npm run before:compile && fontcustom compile && npm run after:compile",
+    "setup": "bash ./bin/setup.sh",
+    "webfont": "bash ./bin/webfont.sh",
     "server": "gulp server"
   },
   "repository": {
