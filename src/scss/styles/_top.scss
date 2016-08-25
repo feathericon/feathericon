@@ -4,11 +4,13 @@
 /* top
 /* -------------------------------------------------------------- */
 .glyph {
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  padding: 0;
-  margin: 2em 0;
+  &__list {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 0;
+    margin: 2em 0;
+  }
   &__item {
     margin: 10px;
     width: 5em;
@@ -18,7 +20,7 @@
     transition: .3s;
     &:hover {
       background-color: $colorCyan;
-      span {
+      i, span {
         color: #fff;
       }
     }

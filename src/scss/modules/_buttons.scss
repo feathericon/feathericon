@@ -20,7 +20,7 @@
 }
 .button-download {
   &:before {
-    @include fe('\f121', $valign: text-bottom);
+    @include fe('\f120', $valign: text-bottom);
     margin-right: 5px;
   }
 }
