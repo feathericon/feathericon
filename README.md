@@ -14,15 +14,32 @@
 </div>
 <p align="center"><a href="http://feathericon.com">http://feathericon.com</a></p>
 
-## Install
-You can install via [npm](https://npmjs.org).
+## Getting Started
+### 1. Download
+You can download [zip](https://github.com/featherplain/feathericon/archive/master.zip) folder.
+
+Or, clone this repository. Open your Terminal, run this command.
+
+```bash
+$ git clone git@github.com:featherplain/feathericon.git feathericon
+```
+
+### 2. Using feathericon
+1. Copy the entire `build/` directory to your project.
+1. In the `<head>` of your html, reference the location to your `feathericon.min.css`.
+
+  ```html
+  <link rel="stylesheet" href="path/to/build/css/feathericon.min.css">
+  ```
+
+### For developers
+Install via [npm](https://npmjs.org).
 
 ```bash
 $ npm install feathericon --save
 ```
 
-## Usage
-You can simply point your Sass(SCSS) `include-path` at your `node_modules/` directory and import it like this in your scss file.
+You can simply point your Sass (SCSS) `include-path` at your `node_modules/` directory and import it like this in your scss file.
 
 ```scss
 @import "feathericon/build/scss/feathericon";
