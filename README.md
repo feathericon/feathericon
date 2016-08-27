@@ -15,7 +15,7 @@
 <p align="center"><a href="http://feathericon.com">http://feathericon.com</a></p>
 
 ## Getting Started
-1. Download **[Zip folder from here](https://github.com/featherplain/feathericon/archive/master.zip)**.
+1. Download **[ZIP folder from here](https://github.com/featherplain/feathericon/archive/master.zip)**.
 1. Copy the entire `build/` directory to your project.
 1. In the `<head>` of your html, reference the location to your `feathericon.min.css`.
 
@@ -64,7 +64,7 @@ Node.js comes with npm ([See more](https://docs.npmjs.com/getting-started/instal
   ```
 
 ## FontCustom
-feathericon is using [FontCustom](https://github.com/FontCustom/fontcustom) to build fonts, stylesheets such as `feathericon.css` and `_feathericon.scss`. If you need more information for FontCustom, Visit their GitHub Repository.
+feathericon is using [FontCustom](https://github.com/FontCustom/fontcustom) to build fonts, stylesheets such as `feathericon.css` and `_feathericon.scss`. If you need more information for FontCustom, visit their GitHub Repository.
 
 ## Bugs, Ideas, Pull Requests
 If you have any ideas or find bugs, please send me Pull Requests or let me know with GitHub Issues :)
