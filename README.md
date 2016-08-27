@@ -1,14 +1,18 @@
-feathericon
-===
-
-feathericon is simple, scalable vector icon font for websites, apps.
-
-[![Build Status](https://travis-ci.org/featherplain/feathericon.svg?branch=master)](https://travis-ci.org/featherplain/feathericon)
-[![npm version](https://badge.fury.io/js/feathericon.svg)](https://badge.fury.io/js/feathericon)
 
 ![feathericon](https://raw.githubusercontent.com/featherplain/feathericon/master/docs/ogpimage.png "title")
 
-Website: [http://feathericon.com](http://feathericon.com)
+<h1 align="center">feathericon</h1>
+<p align="center">feathericon is simple, scalable vector icon font for websites, apps.</p>
+
+<div align="center">
+  <a href="https://travis-ci.org/featherplain/feathericon">
+    <img src="https://travis-ci.org/featherplain/feathericon.svg?branch=master" alt="Build Status">
+  </a>
+  <a href="https://badge.fury.io/js/feathericon">
+    <img src="https://badge.fury.io/js/feathericon.svg" alt="npm version" height="18">
+  </a>
+</div>
+<p align="center"><a href="http://feathericon.com">http://feathericon.com</a></p>
 
 ## Install
 You can install via [npm](https://npmjs.org).
