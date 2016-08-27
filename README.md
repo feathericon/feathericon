@@ -15,16 +15,7 @@
 <p align="center"><a href="http://feathericon.com">http://feathericon.com</a></p>
 
 ## Getting Started
-### 1. Download
-You can download [zip](https://github.com/featherplain/feathericon/archive/master.zip) folder.
-
-Or, clone this repository. Open your Terminal, run this command.
-
-```bash
-$ git clone git@github.com:featherplain/feathericon.git feathericon
-```
-
-### 2. Using feathericon
+1. Download **[Zip folder from here](https://github.com/featherplain/feathericon/archive/master.zip)**.
 1. Copy the entire `build/` directory to your project.
 1. In the `<head>` of your html, reference the location to your `feathericon.min.css`.
 
