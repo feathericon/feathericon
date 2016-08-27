@@ -6,21 +6,7 @@ block prepend meta
 block append meta
 block body
   #fb-root
-  script.
-    window.fbAsyncInit = function() {
-      FB.init({
-        appId      : '1774381786134166',
-        xfbml      : true,
-        version    : 'v2.7'
-      });
-    };
-    (function(d, s, id){
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) {return;}
-      js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_US/sdk.js";
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
+  include inc/scripts/_facebook
   include inc/layouts/_header
   .shareButtons
     include inc/modules/_share_buttons
@@ -29,3 +15,4 @@ block body
   include inc/layouts/_footer
 block append scriptFooter
   script(async='', defer='', src='https://buttons.github.io/buttons.js')
+  include inc/scripts/_analytics
