@@ -22,7 +22,7 @@
   ```html
   <link rel="stylesheet" href="path/to/build/css/feathericon.min.css">
   ```
-1. Place feathicon with `<i>` tag in your html like this. `fe` class is required to use our icons correctly. Check out [our website](http://feathericon.com) to start using icons! 
+1. Place feathicon with `<i>` tag in your html like this. `fe` class is required to use our icons correctly. Check out [our website](http://feathericon.com) to start using icons!
 
   ```html
   <i class="fe fe-heart"></i>
@@ -69,7 +69,8 @@ Node.js comes with npm ([See more](https://docs.npmjs.com/getting-started/instal
   ```
 
 ## FontCustom
-feathericon is using [FontCustom](https://github.com/FontCustom/fontcustom) to build fonts, stylesheets such as `feathericon.css` and `_feathericon.scss`. If you need more information for FontCustom, visit their GitHub Repository.
+If you want to tweak font settings, edit `fontcustom.yml`. feathericon is using [FontCustom](https://github.com/FontCustom/fontcustom) to build fonts, stylesheets such as `feathericon.css` and `_feathericon.scss`. If you need more information for FontCustom, visit their GitHub Repository.
+
 
 ## Bugs, Ideas, Pull Requests
 If you have any ideas or find bugs, please send me Pull Requests or let me know with GitHub Issues :)
