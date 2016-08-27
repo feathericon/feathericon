@@ -1,36 +1,41 @@
 @charset "utf-8";
 
 //---------------------------------------------------------------------------
-// <%= fontName %>
+// <%= font_name %>
 //---------------------------------------------------------------------------
+
+//
+// variables
+//
+$<%= font_name %>-font-path: '<%= @options[:preprocessor_path] %>' !default;
 
 //
 // font path
 //
 @font-face {
-  font-family: "<%= fontName %>";
-  src: url('#{$feathericon-font-path}<%= fontName %>.eot');
-  src: url('#{$feathericon-font-path}<%= fontName %>.eot?#iefix') format('eot'),
-    url('#{$feathericon-font-path}<%= fontName %>.woff') format('woff'),
-    url('#{$feathericon-font-path}<%= fontName %>.ttf') format('truetype'),
-    url('#{$feathericon-font-path}<%= fontName %>.svg#<%= fontName %>') format('svg');
+  font-family: '<%= font_name %>';
+  src: url('#{$<%= font_name %>-font-path}<%= font_name %>.eot');
+  src: url('#{$<%= font_name %>-font-path}<%= font_name %>.eot?#iefix') format('embedded-opentype'),
+    url('#{$<%= font_name %>-font-path}<%= font_name %>.woff') format('woff'),
+    url('#{$<%= font_name %>-font-path}<%= font_name %>.ttf') format('truetype'),
+    url('#{$<%= font_name %>-font-path}<%= font_name %>.svg#fontawesomeregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
+
 //
-// classes
+// feathericon
 //
-.<%= className %> {
+.fe {
   display: inline-block;
-  font: normal normal normal 16px/1 <%= fontName %>;
+  font: normal normal normal 16px <%= font_name %>;
   font-size: inherit;
-  line-height: 1;
-  vertical-align: baseline;
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-<% _.each(glyphs, function(glyph) { %>.<%= className %>-<%= glyph.name %>:before {
-  content: "\<%= glyph.codepoint.toString(16).toLowerCase() %>";
-}
-<% }); %>
+
+//
+// all icons
+//
+<%= glyphs %>

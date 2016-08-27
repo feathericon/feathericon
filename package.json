@@ -4,7 +4,10 @@
   "description": "Simple, scalable vector icon font for websites, apps.",
   "main": "gulpfile.js",
   "scripts": {
-    "webfont": "gulp webfont",
+    "before:compile": "gulp before:compile",
+    "after:compile": "gulp after:compile",
+    "setup": "bash ./bin/setup.sh",
+    "webfont": "bash ./bin/webfont.sh",
     "server": "gulp server"
   },
   "repository": {
@@ -34,7 +37,6 @@
     "gulp-consolidate": "^0.2.0",
     "gulp-css-globbing": "^0.1.8",
     "gulp-data": "^1.2.1",
-    "gulp-iconfont": "^8.0.1",
     "gulp-jade": "^1.1.0",
     "gulp-load-plugins": "^1.2.4",
     "gulp-plumber": "^1.1.0",

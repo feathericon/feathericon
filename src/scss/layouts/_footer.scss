@@ -29,7 +29,7 @@
   }
   &__author {
     &:before {
-      @include fe('\f12f', $fontSize: 1.1rem);
+      @include fe('\f12e', $fontSize: 1.1rem);
       margin: 0 5px;
     }
   }
