@@ -1,8 +1,11 @@
 {
   "name": "feathericon",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Simple, scalable vector icon font for websites, apps.",
   "main": "gulpfile.js",
+  "author": "featherplain",
+  "homepage": "http://feathericon.com",
+  "license": "MIT",
   "scripts": {
     "before:compile": "gulp before:compile",
     "after:compile": "gulp after:compile",
@@ -22,12 +25,9 @@
     "svg",
     "feathericon"
   ],
-  "author": "featherplain",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/featherplain/feathericon/issues"
   },
-  "homepage": "http://feathericon.com",
   "devDependencies": {
     "browser-sync": "^2.13.0",
     "del": "^2.2.2",
