@@ -22,6 +22,11 @@
   ```html
   <link rel="stylesheet" href="path/to/build/css/feathericon.min.css">
   ```
+1. Place feathicon with `<i>` tag in your html like this. `fe` class is required to use our icons correctly. Check out [our website](http://feathericon.com) to start using icons! 
+
+  ```html
+  <i class="fe fe-heart"></i>
+  ```
 
 ### For developers
 Install via [npm](https://npmjs.org).
