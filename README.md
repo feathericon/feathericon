@@ -31,17 +31,28 @@
   ```
 
 ### For developers
-Install via [npm](https://npmjs.org).
+1. Install via [npm](https://npmjs.org).
 
-```bash
-$ npm install feathericon --save
-```
+  ```bash
+  $ npm install feathericon --save
+  ```
+1. You can simply point your Sass (SCSS) `include-path` at your `node_modules/` directory. This case is using [gulp-sass](https://www.npmjs.com/package/gulp-sass).
 
-You can simply point your Sass (SCSS) `include-path` at your `node_modules/` directory and import it like this in your scss file.
+  ```javascript
+  gulp.task('sass', function () {
+    return gulp.src('path/to/*.scss')
+      .pipe(.sass({
+        loadPath     : 'node_modules',
+        outputStyle  : 'compressed'
+      }).on('error', $.sass.logError))
+      .pipe(gulp.dest('path/to/css/'));
+  });
+  ```
+  Then you can import it in your scss(sass) file.
 
-```scss
-@import "feathericon/build/scss/feathericon";
-```
+  ```scss
+  @import "feathericon/build/scss/feathericon";
+  ```
 
 ## Customize feathericon
 ### 1. Edit Sketch document
