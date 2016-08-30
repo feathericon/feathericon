@@ -3,16 +3,18 @@
 
 <h1 align="center">feathericon</h1>
 <p align="center">feathericon is simple, scalable vector icon font for websites, apps.</p>
-
 <div align="center">
   <a href="https://travis-ci.org/featherplain/feathericon">
     <img src="https://travis-ci.org/featherplain/feathericon.svg?branch=master" alt="Build Status">
   </a>
-  <a href="https://badge.fury.io/js/feathericon">
+  <a href="https://npmjs.org/packages/feathericon">
     <img src="https://badge.fury.io/js/feathericon.svg" alt="npm version" height="18">
   </a>
+  <a href="https://npmjd.org/packages/feathericon">
+    <img src="https://img.shields.io/npm/dm/feathericon.svg?style=flat" alt="npm downloads">
+  </a>
 </div>
-<p align="center"><a href="http://feathericon.com">http://feathericon.com</a></p>
+<p align="center">Website: <a href="http://feathericon.com">http://feathericon.com</a></p>
 
 ## Getting Started
 1. Download **[ZIP folder from here](https://github.com/featherplain/feathericon/archive/master.zip)**.
