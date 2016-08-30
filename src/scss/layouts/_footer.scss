@@ -13,7 +13,6 @@
     a {
       color: $colorGrayDarken;
       font-size: 0.85rem;
-      font-weight: 300;
     }
   }
 }
@@ -22,10 +21,18 @@
   padding: 40px 0;
   background-color: $colorGrayLighten;
   text-align: center;
-  color: $colorGray;
-  font-weight: 300;
+  color: $colorGrayDarken;
   &__text {
-    margin: 0;
+    margin-top: 0;
+    margin-bottom: 10px;
+    line-height: 1.1;
+    &:last-child {
+      margin-bottom: 0;
+    }
+    a {
+      color: $colorGrayDarken;
+      font-weight: bold;
+    }
   }
   &__author {
     &:before {

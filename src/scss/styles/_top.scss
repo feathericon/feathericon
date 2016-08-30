@@ -4,18 +4,20 @@
 /* top
 /* -------------------------------------------------------------- */
 .glyph {
+  max-width: 840px;
+  margin: 0 auto;
   &__list {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
     flex-wrap: wrap;
     padding: 0;
-    margin: 2em 0;
+    margin: 0;
   }
   &__item {
-    margin: 10px;
-    width: 5em;
-    padding: 10px;
-    text-align: center;
+    @extend %clearfix;
+    width: 25%;
+    margin-bottom: 32px;
+    padding: 5px 10px;
     list-style-type: none;
     transition: .3s;
     &:hover {
@@ -26,16 +28,25 @@
     }
   }
   &__icon {
-    font-size: 28px;
-    color: #555;
-  }
-  &__name {
-    margin-top: 8px;
+    display: block;
+    float: left;
+    vertical-align: baseline;
+    color: #666;
   }
   &__name,
   &__codepoint {
-    font-size: .5em;
-    color: #999;
+    margin-left: 26px;
     display: block;
+    line-height: 1;
+  }
+  &__name {
+    color: #444;
+    font-size: 16px;
+    margin-bottom: 4px;
+  }
+  &__codepoint {
+    color: $colorGreen;
+    font-size: 12px;
+    font-style: italic;
   }
 }

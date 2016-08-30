@@ -4,21 +4,41 @@
 /* buttons
 /* -------------------------------------------------------------- */
 
-.button {
-  display: block;
+%btnBase {
+  display: inline-block;
   text-align: center;
-  padding: 1em 1.4em;
-  background-color: #fff;
-  color: $colorGreen;
+  padding: 0.75rem 1rem 0.8rem 1rem;
   margin: 0 auto 20px auto;
-  border-radius: 6px;
+  border-radius: 8px;
+  line-height: 1.1;
+}
+
+.m-btn {
+  @extend %btnBase;
+  margin: 0 auto 20px auto;
   text-decoration: none;
   box-shadow: 0 2px 0 darken($colorCyan, 10%);
-  &-download {
-   width: 260px;
+  &--white {
+    background: #fff;
+    color: $colorGreen;
+    &:hover {
+      background: $colorGreen;
+      color: #fff;
+    }
+  }
+  &--green {
+    background: $colorGreen;
+    border: 1px solid $colorGreen;
+    color: #fff;
+    &:hover {
+      background: #fff;
+      color: $colorGreen;
+    }
   }
 }
-.button-download {
+.m-btn-download {
+  width: 200px;
+  font-weight: 600;
   &:before {
     @include fe('\f120', $valign: text-bottom);
     margin-right: 5px;
