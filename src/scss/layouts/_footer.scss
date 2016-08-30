@@ -23,7 +23,16 @@
   text-align: center;
   color: $colorGrayDarken;
   &__text {
-    margin: 0;
+    margin-top: 0;
+    margin-bottom: 10px;
+    line-height: 1.1;
+    &:last-child {
+      margin-bottom: 0;
+    }
+    a {
+      color: $colorGrayDarken;
+      font-weight: bold;
+    }
   }
   &__author {
     &:before {
