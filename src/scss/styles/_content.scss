@@ -4,7 +4,6 @@
 /* content
 /* -------------------------------------------------------------- */
 
-
 %codeStyle {
   border-radius: 4px;
   background-color: $colorGrayLighten;
@@ -12,7 +11,11 @@
   font-size: 12px;
 }
 
-$textMargin: 48px;
+%marginStyle {
+  margin-top: $textMarginTop;
+  margin-bottom: $textMarginBottom;
+}
+
 
 .s-content {
   max-width: $contentWidth;
@@ -20,14 +23,14 @@ $textMargin: 48px;
   color: $colorBlack;
   &__title {
     margin-top: 0;
-    margin-bottom: $textMargin;
+    margin-bottom: $textMarginBottom;
     color: $colorGreen;
     font-size: 32px;
   }
   &__heading {
     line-height: 1.2;
-    margin-top: $textMargin;
-    margin-bottom: 24px;
+    margin-top: $textMarginBottom;
+    margin-bottom: $textMarginTop;
     &--3 {
       font-size: 26px;
       padding-bottom: 6px;
@@ -35,19 +38,21 @@ $textMargin: 48px;
     }
   }
   p {
-    margin-top: 0;
-    margin-bottom: $textMargin;
+    @extend %marginStyle;
     &:first-child,
     &:last-child {
       margin-bottom: 10px;
     }
   }
   ul, ol {
-    margin-bottom: $textMargin;
+    @extend %marginStyle;
     padding-left: 20px;
     line-height: 1.2;
     li {
-      margin-bottom: 20px;
+      margin-bottom: $textMarginTop;
+      &:last-child {
+        margin-bottom: 0;
+      }
     }
   }
   ol {
@@ -58,6 +63,7 @@ $textMargin: 48px;
   }
   pre {
     @extend %codeStyle;
+    margin: $baseMargin 0;
     padding: 16px 20px;
     line-height: 1.6;
   }
