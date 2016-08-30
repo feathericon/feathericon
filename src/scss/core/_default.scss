@@ -6,6 +6,14 @@
 /**
  * root element
  */
+ html {
+  box-sizing: border-box;
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+}
 body {
   font-family: $fontFamily;
   background: #fff;
