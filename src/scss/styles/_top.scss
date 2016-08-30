@@ -4,9 +4,11 @@
 /* top
 /* -------------------------------------------------------------- */
 .glyph {
+  max-width: 840px;
+  margin: 0 auto;
   &__list {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
     flex-wrap: wrap;
     padding: 0;
     margin: 2em 0;
