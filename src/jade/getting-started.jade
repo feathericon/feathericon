@@ -1,0 +1,73 @@
+extends inc/layouts/_application
+block title
+  title Getting Started - #{page.top.title}
+block prepend meta
+  - var bodyClass = 'get-start'
+block append meta
+block body
+  #fb-root
+  include inc/scripts/_facebook
+  include inc/layouts/_header
+  .shareButtons
+    include inc/modules/_share_buttons
+  .l-main
+    .s-content
+      h2.s-content__title Getting Started
+      h3.s-content__heading.s-content__heading--3#basic Basic
+      ol
+        li
+          | Download ZIP.
+          br
+          a.m-btn(href='#{url.github}/archive/master.zip', class='m-btn--green m-btn-download', style='margin-top: 10px; margin-bottom: 0;') Download
+        li
+          | Copy the entire
+          code build/
+          | directory to your project.
+        li
+          | In the
+          code &lt;head&gt;
+          | of your html, reference the location to your
+          code feathericon.min.css
+          | .
+          pre &lt;link rel=&quot;stylesheet&quot; href=&quot;path/to/build/css/feathericon.min.css&quot;&gt;
+        li
+          | Place feathericon with 
+          code &lt;i&gt;
+          | tag in your html like this.
+          code fe
+          | class is required to use the icons correctly. Check out 
+          a(href='http://feathericon.com') the website
+          |  to start using icons!
+          pre &lt;i class="fe fe-heart"&gt;&lt;/i&gt;
+      
+      h3.s-content__heading.s-content__heading--3#developers For developers
+      ol
+        li
+          | Install via 
+          a(href='https://npmjs.org') npm.
+          pre $ npm install feathericon --save
+        li
+          | You can simply point your Sass (SCSS)
+          code include-path
+          | at your
+          code node_modules/
+          | directory. This case is using 
+          a(href='https://www.npmjs.com/package/gulp-sass') gulp-sass
+          | .
+          pre
+            | gulp.task('sass', function () {
+            |  return gulp.src('path/to/*.scss')
+            |    .pipe(.sass({
+            |      loadPath     : 'node_modules',
+            |      outputStyle  : 'compressed'
+            |    }).on('error', $.sass.logError))
+            |    .pipe(gulp.dest('path/to/css/'))
+            | });
+          | Then you can import it in your scss(sass) file.
+          pre @import 'feathericon/build/scss/feathericon';
+    // /. s-content
+  // / .l-main
+  include inc/layouts/_footer
+block append scriptFooter
+  script(async='', defer='', src='https://buttons.github.io/buttons.js')
+  include inc/scripts/_analytics

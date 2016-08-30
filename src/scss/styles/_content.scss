@@ -1,0 +1,71 @@
+@charset "utf-8";
+
+/* -------------------------------------------------------------- */
+/* content
+/* -------------------------------------------------------------- */
+
+
+%codeStyle {
+  border-radius: 4px;
+  background-color: $colorGrayLighten;
+  font-family: $fontFamilyCode;
+  font-size: 12px;
+}
+
+$textMargin: 48px;
+
+.s-content {
+  max-width: $contentWidth;
+  margin: 0 auto;
+  color: $colorBlack;
+  &__title {
+    margin-top: 0;
+    margin-bottom: $textMargin;
+    color: $colorGreen;
+    font-size: 32px;
+  }
+  &__heading {
+    line-height: 1.2;
+    margin-top: $textMargin;
+    margin-bottom: 24px;
+    &--3 {
+      font-size: 26px;
+      padding-bottom: 6px;
+      border-bottom: 1px solid $colorGray;
+    }
+  }
+  p {
+    margin-top: 0;
+    margin-bottom: $textMargin;
+    &:first-child,
+    &:last-child {
+      margin-bottom: 10px;
+    }
+  }
+  ul, ol {
+    margin-bottom: $textMargin;
+    padding-left: 20px;
+    line-height: 1.2;
+    li {
+      margin-bottom: 20px;
+    }
+  }
+  ol {
+    list-style: decimal;
+  }
+  ul {
+    list-style: disc;
+  }
+  pre {
+    @extend %codeStyle;
+    padding: 16px 20px;
+    line-height: 1.6;
+  }
+  code {
+    @extend %codeStyle;
+    padding: 3px 4px;
+    margin: 0 4px;
+    vertical-align: middle;
+    color: red;
+  }
+}

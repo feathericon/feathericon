@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+  <head>
+    <meta charset="utf-8">
+    <title>Getting Started - feathericon</title>
+    <meta name="description" content="Simple, scalable vector icon font for websites, apps.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:site" content="@featherplain">
+    <meta property="fb:app_id" content="1774381786134166">
+    <meta property="og:url" content="http://feathericon.com">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="feathericon">
+    <meta property="og:description" content="Simple, scalable vector icon font for websites, apps.">
+    <meta property="og:image" content="http://feathericon.com/ogpimage.png">
+    <link rel="icon" href="/favicon.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="stylesheet" href="/css/feathericon.min.css">
+    <link rel="stylesheet" href="/css/application.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i">
+  </head>
+  <body class="get-start">
+    <div id="fb-root"></div>
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '1774381786134166',
+          xfbml      : true,
+          version    : 'v2.7'
+        });
+      };
+      (function(d, s, id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>
+    <div class="l-cover">
+      <div class="l-cover__inner">
+        <header class="l-header">
+          <nav class="l-nav">
+            <ul class="globalMenu">
+              <li><a href="https://github.com/featherplain/feathericon#getting-started">Getting Started</a></li>
+              <li><a href="https://github.com/featherplain/feathericon/releases">Releases</a></li>
+              <li><a href="https://github.com/featherplain/feathericon">GitHub</a></li>
+              <li><a href="https://github.com/featherplain/feathericon/blob/master/LICENSE">License</a></li>
+            </ul>
+          </nav>
+        </header>
+        <div class="siteBrand">
+          <h1 class="siteBrand__title">feathericon</h1>
+          <p class="siteBrand__description">Simple, scalable vector icon font for websites, apps.</p>
+        </div><a href="https://github.com/featherplain/feathericon/archive/master.zip" class="m-btn m-btn--white m-btn-download">Download</a>
+      </div>
+    </div>
+    <div class="shareButtons">
+      <div class="shareButtons">
+        <ul class="shareButtons__list">
+          <li class="shareButtons__item"><a class="github-button" href="https://github.com/featherplain/feathericon/fork" data-icon="octicon-repo-forked" data-style="small" data-count-href="/featherplain/feathericon/network" data-count-api="/repos/featherplain/feathericon#forks_count" data-count-aria-label="# forks on GitHub" aria-label="Fork featherplain/feathericon on GitHub">Fork</a>
+          </li>
+          <li class="shareButtons__item"><a class="github-button" href="https://github.com/featherplain/feathericon" data-icon="octicon-star" data-style="small" data-count-href="/featherplain/feathericon/stargazers" data-count-api="/repos/featherplain/feathericon#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star featherplain/feathericon on GitHub">Star</a>
+          </li>
+          <li class="shareButtons__item"><a href="https://badge.fury.io/js/feathericon"><img src="https://badge.fury.io/js/feathericon.svg" alt="npm version" height="18"></a>
+          </li>
+          <li class="shareButtons__item"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://feathericon.com" data-via="featherplain" data-size="small" data-hashtags="webfont,iconfont,icons,feathericon,npm">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+          </li>
+          <li class="shareButtons__item"><div class="fb-like" data-href="http://feathericon.com" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="l-main">
+      <div class="s-content">
+        <h2 class="s-content__title">Getting Started</h2>
+        <h3 id="basic" class="s-content__heading s-content__heading--3">Basic</h3>
+        <ol>
+          <li>Download ZIP.<br><a href="https://github.com/featherplain/feathericon/archive/master.zip" style="margin-top: 10px; margin-bottom: 0;" class="m-btn m-btn--green m-btn-download">Download</a></li>
+          <li>Copy the entire<code>build/</code>directory to your project.</li>
+          <li>In the<code>&lt;head&gt;</code>of your html, reference the location to your<code>feathericon.min.css</code>.
+            <pre>&lt;link rel=&quot;stylesheet&quot; href=&quot;path/to/build/css/feathericon.min.css&quot;&gt;</pre>
+          </li>
+          <li>Place feathericon with <code>&lt;i&gt;</code>tag in your html like this.<code>fe</code>class is required to use the icons correctly. Check out <a href="http://feathericon.com">the website</a> to start using icons!
+            <pre>&lt;i class="fe fe-heart"&gt;&lt;/i&gt;</pre>
+          </li>
+        </ol>
+        <h3 id="developers" class="s-content__heading s-content__heading--3">For developers</h3>
+        <ol>
+          <li>Install via <a href="https://npmjs.org">npm.</a>
+            <pre>$ npm install feathericon --save</pre>
+          </li>
+          <li>You can simply point your Sass (SCSS)<code>include-path</code>at your<code>node_modules/</code>directory. This case is using <a href="https://www.npmjs.com/package/gulp-sass">gulp-sass</a>.
+            <pre>gulp.task('sass', function () {
+ return gulp.src('path/to/*.scss')
+   .pipe(.sass({
+     loadPath     : 'node_modules',
+     outputStyle  : 'compressed'
+   }).on('error', $.sass.logError))
+   .pipe(gulp.dest('path/to/css/'))
+});</pre>Then you can import it in your scss(sass) file.
+            <pre>@import 'feathericon/build/scss/feathericon';</pre>
+          </li>
+        </ol>
+      </div>
+      <!-- /. s-content-->
+    </div>
+    <!-- / .l-main-->
+    <footer class="l-footer">
+      <nav class="l-nav l-nav--footer">
+        <ul class="footerMenu">
+          <li><a href="https://github.com/featherplain/feathericon#getting-started">Getting Started</a></li>
+          <li><a href="https://github.com/featherplain/feathericon/releases">Releases</a></li>
+          <li><a href="https://github.com/featherplain/feathericon">GitHub</a></li>
+          <li><a href="https://github.com/featherplain/feathericon/blob/master/LICENSE">License</a></li>
+        </ul>
+      </nav>
+      <div class="siteinfo">
+        <p class="siteinfo__text"><span>Created &amp; Maintained</span><span class="siteinfo__author">by <a href="https://github.com/featherplain">featherplain</a></span></p>
+        <p class="siteinfo__text"> <small><a href="https://github.com/featherplain/blob/master/LICENSE">MIT</a> &copy; 2016 Megumi Hano</small></p>
+      </div>
+    </footer>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script async="" defer="" src="https://buttons.github.io/buttons.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      
+      ga('create', 'UA-57860469-2', 'auto');
+      ga('send', 'pageview');
+    </script>
+  </body>
+</html>
