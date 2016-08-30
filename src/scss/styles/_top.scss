@@ -11,7 +11,7 @@
     justify-content: flex-start;
     flex-wrap: wrap;
     padding: 0;
-    margin: 2em 0;
+    margin: 0;
   }
   &__item {
     margin: 10px;
@@ -28,16 +28,22 @@
     }
   }
   &__icon {
+    margin-bottom: 8px;
     font-size: 28px;
-    color: #555;
-  }
-  &__name {
-    margin-top: 8px;
+    color: #777;
   }
   &__name,
   &__codepoint {
-    font-size: .5em;
-    color: #999;
     display: block;
+    line-height: 1.1;
+  }
+  &__name {
+    color: #555;
+    font-size: 12px;
+    margin-bottom: 4px;
+  }
+  &__codepoint {
+    color: $colorGreen;
+    font-size: 11px;
   }
 }
