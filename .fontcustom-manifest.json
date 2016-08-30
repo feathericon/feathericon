@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "4b4ff02a7616db9e8ea72fa58eb017e9dd1ab9b4cdeae8b8724f926d0f2bf2f0",
-    "current": "4b4ff02a7616db9e8ea72fa58eb017e9dd1ab9b4cdeae8b8724f926d0f2bf2f0"
+    "previous": "3716f39fdff01fac61579815fcee86c97fa627bf42e8db669832f20926feb1d4",
+    "current": "3716f39fdff01fac61579815fcee86c97fa627bf42e8db669832f20926feb1d4"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -46,13 +46,13 @@
       "codepoint": 61704,
       "source": "src/svg/bell.svg"
     },
+    "birthday-cake": {
+      "codepoint": 61795,
+      "source": "src/svg/birthday-cake.svg"
+    },
     "book": {
       "codepoint": 61705,
       "source": "src/svg/book.svg"
-    },
-    "borthday-cake": {
-      "codepoint": 61706,
-      "source": "src/svg/borthday-cake.svg"
     },
     "browser": {
       "codepoint": 61707,
