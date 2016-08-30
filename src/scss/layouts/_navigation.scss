@@ -27,6 +27,20 @@
     margin: 0 10px;
     a {
       color: #fff;
+      &:after {
+        display: block;
+        content: '';
+        width: 0;
+        height: 1px;
+        margin-top: 5px;
+        background-color: #fff;
+        transition: width .3s;
+      }
+      &:hover {
+        &:after {
+          width: 100%;
+        }
+      }
     }
   }
 }
