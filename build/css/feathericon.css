@@ -97,11 +97,11 @@
 .fe-mail:before { content: "\f13c"; }
 .fe-medal:before { content: "\f13d"; }
 .fe-megaphone:before { content: "\f13e"; }
-.fe-mensioned:before { content: "\f13f"; }
+.fe-mention:before { content: "\f164"; }
 .fe-minus:before { content: "\f140"; }
 .fe-mobile:before { content: "\f141"; }
 .fe-mouse:before { content: "\f142"; }
-.fe-pallette:before { content: "\f143"; }
+.fe-palette:before { content: "\f165"; }
 .fe-pencil:before { content: "\f144"; }
 .fe-phone:before { content: "\f145"; }
 .fe-pie-chart:before { content: "\f146"; }
