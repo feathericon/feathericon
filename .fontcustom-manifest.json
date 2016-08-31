@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "819a3c4c295192cbe53624e713e1e994673af746d9c634d76023c0ad7ffded7a",
-    "current": "819a3c4c295192cbe53624e713e1e994673af746d9c634d76023c0ad7ffded7a"
+    "previous": "6d184d76ba9e5dcab3a7f5aaa1793310f95cfc8e8b25164f4a381de44df5ce6b",
+    "current": "6d184d76ba9e5dcab3a7f5aaa1793310f95cfc8e8b25164f4a381de44df5ce6b"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -106,6 +106,10 @@
       "codepoint": 61719,
       "source": "src/svg/code.svg"
     },
+    "coffee": {
+      "codepoint": 61798,
+      "source": "src/svg/coffee.svg"
+    },
     "columns": {
       "codepoint": 61720,
       "source": "src/svg/columns.svg"
@@ -121,10 +125,6 @@
     "comments": {
       "codepoint": 61723,
       "source": "src/svg/comments.svg"
-    },
-    "cooffee": {
-      "codepoint": 61724,
-      "source": "src/svg/cooffee.svg"
     },
     "desktop": {
       "codepoint": 61725,
