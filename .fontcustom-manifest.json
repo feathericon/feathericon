@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "3716f39fdff01fac61579815fcee86c97fa627bf42e8db669832f20926feb1d4",
-    "current": "3716f39fdff01fac61579815fcee86c97fa627bf42e8db669832f20926feb1d4"
+    "previous": "f8cd199b2489812c3dd73993a78b605d83bf44210819328e136d253ca2c6f561",
+    "current": "f8cd199b2489812c3dd73993a78b605d83bf44210819328e136d253ca2c6f561"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -262,9 +262,9 @@
       "codepoint": 61758,
       "source": "src/svg/megaphone.svg"
     },
-    "mensioned": {
-      "codepoint": 61759,
-      "source": "src/svg/mensioned.svg"
+    "mention": {
+      "codepoint": 61796,
+      "source": "src/svg/mention.svg"
     },
     "minus": {
       "codepoint": 61760,
@@ -278,9 +278,9 @@
       "codepoint": 61762,
       "source": "src/svg/mouse.svg"
     },
-    "pallette": {
-      "codepoint": 61763,
-      "source": "src/svg/pallette.svg"
+    "palette": {
+      "codepoint": 61797,
+      "source": "src/svg/palette.svg"
     },
     "pencil": {
       "codepoint": 61764,
