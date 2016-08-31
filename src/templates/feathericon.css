@@ -13,7 +13,7 @@
   src: url('<%= @options[:preprocessor_path] %><%= font_name %>.eot?#iefix') format('embedded-opentype'),
     url('<%= @options[:preprocessor_path] %><%= font_name %>.woff') format('woff'),
     url('<%= @options[:preprocessor_path] %><%= font_name %>.ttf') format('truetype'),
-    url('<%= @options[:preprocessor_path] %><%= font_name %>.svg#fontawesomeregular') format('svg');
+    url('<%= @options[:preprocessor_path] %><%= font_name %>.svg') format('svg');
   font-weight: normal;
   font-style: normal;
  }

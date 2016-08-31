@@ -18,7 +18,7 @@ $feathericon-font-path: '../fonts/' !default;
   src: url('#{$feathericon-font-path}feathericon.eot?#iefix') format('embedded-opentype'),
     url('#{$feathericon-font-path}feathericon.woff') format('woff'),
     url('#{$feathericon-font-path}feathericon.ttf') format('truetype'),
-    url('#{$feathericon-font-path}feathericon.svg#fontawesomeregular') format('svg');
+    url('#{$feathericon-font-path}feathericon.svg') format('svg');
   font-weight: normal;
   font-style: normal;
 }

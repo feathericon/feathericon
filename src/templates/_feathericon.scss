@@ -18,7 +18,7 @@ $<%= font_name %>-font-path: '<%= @options[:preprocessor_path] %>' !default;
   src: url('#{$<%= font_name %>-font-path}<%= font_name %>.eot?#iefix') format('embedded-opentype'),
     url('#{$<%= font_name %>-font-path}<%= font_name %>.woff') format('woff'),
     url('#{$<%= font_name %>-font-path}<%= font_name %>.ttf') format('truetype'),
-    url('#{$<%= font_name %>-font-path}<%= font_name %>.svg#fontawesomeregular') format('svg');
+    url('#{$<%= font_name %>-font-path}<%= font_name %>.svg') format('svg');
   font-weight: normal;
   font-style: normal;
 }
