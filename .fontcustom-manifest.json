@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "08ee3938f3b64bb239da41544786d9459aca98213c4a3bd0ac1d4e84fe05ed76",
-    "current": "08ee3938f3b64bb239da41544786d9459aca98213c4a3bd0ac1d4e84fe05ed76"
+    "previous": "70ffa118a6b70b83a991901882d0a0abab9eec057f4778c25a6f150722697367",
+    "current": "70ffa118a6b70b83a991901882d0a0abab9eec057f4778c25a6f150722697367"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -198,6 +198,10 @@
       "codepoint": 61742,
       "source": "src/svg/heart.svg"
     },
+    "heart-o": {
+      "codepoint": 61799,
+      "source": "src/svg/heart-o.svg"
+    },
     "home": {
       "codepoint": 61743,
       "source": "src/svg/home.svg"
@@ -337,6 +341,10 @@
     "star": {
       "codepoint": 61777,
       "source": "src/svg/star.svg"
+    },
+    "star-o": {
+      "codepoint": 61800,
+      "source": "src/svg/star-o.svg"
     },
     "tablet": {
       "codepoint": 61778,

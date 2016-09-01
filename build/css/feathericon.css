@@ -81,6 +81,7 @@
 .fe-globe:before { content: "\f12c"; }
 .fe-hash:before { content: "\f12d"; }
 .fe-heart:before { content: "\f12e"; }
+.fe-heart-o:before { content: "\f167"; }
 .fe-home:before { content: "\f12f"; }
 .fe-info:before { content: "\f130"; }
 .fe-key:before { content: "\f131"; }
@@ -116,6 +117,7 @@
 .fe-share:before { content: "\f14f"; }
 .fe-sitemap:before { content: "\f150"; }
 .fe-star:before { content: "\f151"; }
+.fe-star-o:before { content: "\f168"; }
 .fe-tablet:before { content: "\f152"; }
 .fe-tag:before { content: "\f153"; }
 .fe-terminal:before { content: "\f154"; }
