@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "d5219dd7d2db93a3459f7a488f769b00fd3979c61456b9ac4b621ede0498fc93",
-    "current": "d5219dd7d2db93a3459f7a488f769b00fd3979c61456b9ac4b621ede0498fc93"
+    "previous": "bcbdd327a7bb74a8e9e8f8e1b69e9b068a1940bcb6edbfa1144059624338db75",
+    "current": "bcbdd327a7bb74a8e9e8f8e1b69e9b068a1940bcb6edbfa1144059624338db75"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -361,6 +361,10 @@
     "share": {
       "codepoint": 61775,
       "source": "src/svg/share.svg"
+    },
+    "shield": {
+      "codepoint": 61810,
+      "source": "src/svg/shield.svg"
     },
     "sitemap": {
       "codepoint": 61776,
