@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "876332b4d08fcb1ada8b2e0b3b18972c5ca6273c0e6a3c87c83dff3358554e75",
-    "current": "876332b4d08fcb1ada8b2e0b3b18972c5ca6273c0e6a3c87c83dff3358554e75"
+    "previous": "d5219dd7d2db93a3459f7a488f769b00fd3979c61456b9ac4b621ede0498fc93",
+    "current": "d5219dd7d2db93a3459f7a488f769b00fd3979c61456b9ac4b621ede0498fc93"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -53,6 +53,10 @@
     "book": {
       "codepoint": 61705,
       "source": "src/svg/book.svg"
+    },
+    "bookmark": {
+      "codepoint": 61808,
+      "source": "src/svg/bookmark.svg"
     },
     "browser": {
       "codepoint": 61707,
@@ -166,6 +170,10 @@
       "codepoint": 61734,
       "source": "src/svg/elipsis-v.svg"
     },
+    "export": {
+      "codepoint": 61806,
+      "source": "src/svg/export.svg"
+    },
     "eye": {
       "codepoint": 61735,
       "source": "src/svg/eye.svg"
@@ -205,6 +213,10 @@
     "home": {
       "codepoint": 61743,
       "source": "src/svg/home.svg"
+    },
+    "import": {
+      "codepoint": 61807,
+      "source": "src/svg/import.svg"
     },
     "info": {
       "codepoint": 61744,
@@ -309,6 +321,10 @@
     "plus": {
       "codepoint": 61768,
       "source": "src/svg/plus.svg"
+    },
+    "print": {
+      "codepoint": 61809,
+      "source": "src/svg/print.svg"
     },
     "prototype": {
       "codepoint": 61769,

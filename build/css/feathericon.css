@@ -45,6 +45,7 @@
 .fe-bell:before { content: "\f108"; }
 .fe-birthday-cake:before { content: "\f163"; }
 .fe-book:before { content: "\f109"; }
+.fe-bookmark:before { content: "\f170"; }
 .fe-browser:before { content: "\f10b"; }
 .fe-brush:before { content: "\f10c"; }
 .fe-bug:before { content: "\f10d"; }
@@ -73,6 +74,7 @@
 .fe-drop-up:before { content: "\f124"; }
 .fe-elipsis-h:before { content: "\f125"; }
 .fe-elipsis-v:before { content: "\f126"; }
+.fe-export:before { content: "\f16e"; }
 .fe-eye:before { content: "\f127"; }
 .fe-feed:before { content: "\f128"; }
 .fe-flag:before { content: "\f129"; }
@@ -83,6 +85,7 @@
 .fe-heart:before { content: "\f12e"; }
 .fe-heart-o:before { content: "\f167"; }
 .fe-home:before { content: "\f12f"; }
+.fe-import:before { content: "\f16f"; }
 .fe-info:before { content: "\f130"; }
 .fe-key:before { content: "\f131"; }
 .fe-keyboard:before { content: "\f132"; }
@@ -109,6 +112,7 @@
 .fe-pie-chart:before { content: "\f146"; }
 .fe-pizza:before { content: "\f147"; }
 .fe-plus:before { content: "\f148"; }
+.fe-print:before { content: "\f171"; }
 .fe-prototype:before { content: "\f149"; }
 .fe-question:before { content: "\f14a"; }
 .fe-quote-left:before { content: "\f14b"; }
