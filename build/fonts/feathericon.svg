@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20160407 at Thu Sep  1 23:13:29 2016
+Created by FontForge 20160407 at Thu Sep  1 23:40:56 2016
  By featherplain
 Copyright (c) 2016, featherplain
 </metadata>
@@ -22,7 +22,7 @@ Copyright (c) 2016, featherplain
     bbox="-0.408669 -64.385 512 448.03"
     underline-thickness="25.6"
     underline-position="-51.2"
-    unicode-range="U+0020-F172"
+    unicode-range="U+0020-F173"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -144,6 +144,8 @@ d="M283 101c-30 -23 -67 -37 -107 -37c-97 0 -176 79 -176 176s79 176 176 176s176 -
     <glyph glyph-name="uniF11A" unicode="&#xf11a;" 
 d="M96 74c-59 35 -96 89 -96 150c0 106 115 192 256 192s256 -86 256 -192s-115 -192 -256 -192c-16 0 -32 1 -48 3c-36 -22 -80 -48 -80 -48c-32 -19 -32 13 -32 13v74v0zM160 192c18 0 32 14 32 32s-14 32 -32 32s-32 -14 -32 -32s14 -32 32 -32zM256 192
 c18 0 32 14 32 32s-14 32 -32 32s-32 -14 -32 -32s14 -32 32 -32zM352 192c18 0 32 14 32 32s-14 32 -32 32s-32 -14 -32 -32s14 -32 32 -32z" />
+    <glyph glyph-name="uniF173" unicode="&#xf173;" horiz-adv-x="320" 
+d="M192 -64l-64 64v160l-128 128v64s0 32 32 32h256c32 0 32 -32 32 -32v-64l-128 -128v-224z" />
     <glyph glyph-name="uniF148" unicode="&#xf148;" horiz-adv-x="320" 
 d="M192 224h128v-64h-128v-128h-64v128h-128v64h128v128h64v-128z" />
     <glyph glyph-name="uniF102" unicode="&#xf102;" horiz-adv-x="192" 
