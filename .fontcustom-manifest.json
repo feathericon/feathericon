@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "d656cf8f3f77636670a49377cb5a238b887a454ec592547ccb28afac35695c3e",
-    "current": "d656cf8f3f77636670a49377cb5a238b887a454ec592547ccb28afac35695c3e"
+    "previous": "3f0fe06355c2bd10275645dd56e11abdf3e7e5b5286a096eec48ed433318eacb",
+    "current": "3f0fe06355c2bd10275645dd56e11abdf3e7e5b5286a096eec48ed433318eacb"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -177,6 +177,10 @@
     "eye": {
       "codepoint": 61735,
       "source": "src/svg/eye.svg"
+    },
+    "feather": {
+      "codepoint": 61812,
+      "source": "src/svg/feather.svg"
     },
     "feed": {
       "codepoint": 61736,
