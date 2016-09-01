@@ -130,6 +130,7 @@
 .fe-unlock:before { content: "\f169"; }
 .fe-upload:before { content: "\f159"; }
 .fe-user:before { content: "\f15a"; }
+.fe-user-minus:before { content: "\f16c"; }
 .fe-user-plus:before { content: "\f15b"; }
 .fe-users:before { content: "\f15c"; }
 .fe-vector:before { content: "\f15d"; }
