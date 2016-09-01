@@ -114,6 +114,8 @@
 .fe-quote-right:before { content: "\f14c"; }
 .fe-rocket:before { content: "\f14d"; }
 .fe-search:before { content: "\f14e"; }
+.fe-search-minus:before { content: "\f16a"; }
+.fe-search-plus:before { content: "\f16b"; }
 .fe-share:before { content: "\f14f"; }
 .fe-sitemap:before { content: "\f150"; }
 .fe-star:before { content: "\f151"; }
