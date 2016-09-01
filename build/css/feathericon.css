@@ -96,6 +96,7 @@
 .fe-login:before { content: "\f13a"; }
 .fe-logout:before { content: "\f13b"; }
 .fe-mail:before { content: "\f13c"; }
+.fe-map:before { content: "\f16d"; }
 .fe-medal:before { content: "\f13d"; }
 .fe-megaphone:before { content: "\f13e"; }
 .fe-mention:before { content: "\f164"; }

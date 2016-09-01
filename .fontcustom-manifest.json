@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "27ac619bd14357721d4aa42ec387f1f7f8ef1e5f147141ea21389991734df927",
-    "current": "27ac619bd14357721d4aa42ec387f1f7f8ef1e5f147141ea21389991734df927"
+    "previous": "876332b4d08fcb1ada8b2e0b3b18972c5ca6273c0e6a3c87c83dff3358554e75",
+    "current": "876332b4d08fcb1ada8b2e0b3b18972c5ca6273c0e6a3c87c83dff3358554e75"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -257,6 +257,10 @@
     "mail": {
       "codepoint": 61756,
       "source": "src/svg/mail.svg"
+    },
+    "map": {
+      "codepoint": 61805,
+      "source": "src/svg/map.svg"
     },
     "medal": {
       "codepoint": 61757,
