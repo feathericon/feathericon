@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "70ffa118a6b70b83a991901882d0a0abab9eec057f4778c25a6f150722697367",
-    "current": "70ffa118a6b70b83a991901882d0a0abab9eec057f4778c25a6f150722697367"
+    "previous": "c79276a249a610fbcd1f9d2c1c711204d9be8210e7e4d6694e442101cfbb9717",
+    "current": "c79276a249a610fbcd1f9d2c1c711204d9be8210e7e4d6694e442101cfbb9717"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -373,6 +373,10 @@
     "trophy": {
       "codepoint": 61784,
       "source": "src/svg/trophy.svg"
+    },
+    "unlock": {
+      "codepoint": 61801,
+      "source": "src/svg/unlock.svg"
     },
     "upload": {
       "codepoint": 61785,
