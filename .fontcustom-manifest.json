@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "84ae71068bab6a0f3ebfff0267c1dd572b624a875b8a2d54c3c2f3cb6ee9c791",
-    "current": "84ae71068bab6a0f3ebfff0267c1dd572b624a875b8a2d54c3c2f3cb6ee9c791"
+    "previous": "e240fea69a4453935cebbee62fe7936b6b00a76dcb80793d78c44c674ec0d9a4",
+    "current": "e240fea69a4453935cebbee62fe7936b6b00a76dcb80793d78c44c674ec0d9a4"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -321,6 +321,10 @@
     "palette": {
       "codepoint": 61797,
       "source": "src/svg/palette.svg"
+    },
+    "paper-plane": {
+      "codepoint": 61816,
+      "source": "src/svg/paper-plane.svg"
     },
     "pencil": {
       "codepoint": 61764,

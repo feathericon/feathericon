@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20160407 at Fri Sep  2 00:29:42 2016
+Created by FontForge 20160407 at Fri Sep  2 00:50:18 2016
  By featherplain
 Copyright (c) 2016, featherplain
 </metadata>
@@ -22,7 +22,7 @@ Copyright (c) 2016, featherplain
     bbox="-0.408669 -64.385 512 448.03"
     underline-thickness="25.6"
     underline-position="-51.2"
-    unicode-range="U+0020-F177"
+    unicode-range="U+0020-F178"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -49,6 +49,8 @@ M448 320v-32h32v32h-32zM32 256v-32h32v32h-32zM96 256v-32h32v32h-32zM160 256v-32h
 M384 128v-32h32v32h-32zM320 128v-32h32v32h-32zM448 128v-32h32v32h-32zM32 192v-32h32v32h-32zM96 192v-32h32v32h-32zM160 192v-32h32v32h-32zM224 192v-32h32v32h-32zM288 192v-32h32v32h-32zM352 192v-32h32v32h-32z" />
     <glyph glyph-name="uniF160" unicode="&#xf160;" horiz-adv-x="256" 
 d="M32 64c0 0 -32 0 -32 32v192c0 32 32 32 32 32h32v64c0 32 32 32 32 32h64s32 0 32 -32v-64h32s32 0 32 -32v-192c0 -32 -32 -32 -32 -32h-32v-64c0 -32 -32 -32 -32 -32h-64s-32 0 -32 32v64h-32zM32 288v-192h192v192h-192z" />
+    <glyph glyph-name="uniF15E" unicode="&#xf15e;" horiz-adv-x="448" 
+d="M288 262v0l132 74c15 9 28 2 28 -16v-224c0 -18 -12 -25 -28 -16l-132 74v-58c0 -18 -14 -32 -32 -32h-224c-18 0 -32 14 -32 32v224c0 18 14 32 32 32h224c18 0 32 -14 32 -32v-58z" />
     <glyph glyph-name="uniF134" unicode="&#xf134;" horiz-adv-x="448" 
 d="M0 352h288v-288h-288v288zM320 352h128v-128h-128v128zM320 192h128v-128h-128v128z" />
     <glyph glyph-name="uniF152" unicode="&#xf152;" horiz-adv-x="384" 
@@ -234,8 +236,8 @@ d="M0 288h32v-288h480v-32h-512v320zM384 144c0 -27 -21 -48 -48 -48s-48 21 -48 48c
 s48 -21 48 -48c0 -3 -1 -6 -1 -8l60 -45c6 3 14 5 21 5l58 115c-6 8 -10 18 -10 29c0 27 21 48 48 48s48 -21 48 -48s-21 -48 -48 -48l-58 -115c6 -8 10 -18 10 -29z" />
     <glyph glyph-name="uniF153" unicode="&#xf153;" 
 d="M320 448h160s32 0 32 -32v-160l-320 -320l-192 192zM307 243c25 -25 65 -25 90 0s25 65 0 90s-65 25 -90 0s-25 -65 0 -90v0z" />
-    <glyph glyph-name="uniF15E" unicode="&#xf15e;" horiz-adv-x="448" 
-d="M288 262v0l132 74c15 9 28 2 28 -16v-224c0 -18 -12 -25 -28 -16l-132 74v-58c0 -18 -14 -32 -32 -32h-224c-18 0 -32 14 -32 32v224c0 18 14 32 32 32h224c18 0 32 -14 32 -32v-58z" />
+    <glyph glyph-name="uniF178" unicode="&#xf178;" horiz-adv-x="384" 
+d="M151 107l168 222l-204 -203l-102 55c-16 9 -17 23 -1 32l345 199c16 9 28 2 27 -16l-29 -365c-1 -18 -16 -26 -32 -17l-92 50l-61 -61c-19 -11 -19 11 -19 11v93z" />
     <glyph glyph-name="uniF140" unicode="&#xf140;" horiz-adv-x="320" 
 d="M0 160v64h320v-64h-320z" />
     <glyph glyph-name="uniF10B" unicode="&#xf10b;" 
