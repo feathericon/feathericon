@@ -81,6 +81,7 @@
 .fe-filter:before { content: "\f173"; }
 .fe-flag:before { content: "\f129"; }
 .fe-folder:before { content: "\f12a"; }
+.fe-folder-open:before { content: "\f176"; }
 .fe-fork:before { content: "\f12b"; }
 .fe-globe:before { content: "\f12c"; }
 .fe-hash:before { content: "\f12d"; }
