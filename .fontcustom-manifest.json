@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "aaca2d2f9236c50b3cb9b8c90cfaa4b83a74b30e32e043428a9057d25167d43b",
-    "current": "aaca2d2f9236c50b3cb9b8c90cfaa4b83a74b30e32e043428a9057d25167d43b"
+    "previous": "dbcf125d34447ef72312d8117d933cb81a274fb93c3496c7f1130e65f2b66b15",
+    "current": "dbcf125d34447ef72312d8117d933cb81a274fb93c3496c7f1130e65f2b66b15"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -237,6 +237,10 @@
     "info": {
       "codepoint": 61744,
       "source": "src/svg/info.svg"
+    },
+    "italic": {
+      "codepoint": 61818,
+      "source": "src/svg/italic.svg"
     },
     "key": {
       "codepoint": 61745,
