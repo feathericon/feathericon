@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "dbcf125d34447ef72312d8117d933cb81a274fb93c3496c7f1130e65f2b66b15",
-    "current": "dbcf125d34447ef72312d8117d933cb81a274fb93c3496c7f1130e65f2b66b15"
+    "previous": "8a3c7dec51c8aea7b3c57727eccdf16de0f9ddedc29160673a507da5dd073752",
+    "current": "8a3c7dec51c8aea7b3c57727eccdf16de0f9ddedc29160673a507da5dd073752"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -270,6 +270,18 @@
       "codepoint": 61751,
       "source": "src/svg/link-external.svg"
     },
+    "list-bullet": {
+      "codepoint": 61820,
+      "source": "src/svg/list-bullet.svg"
+    },
+    "list-order": {
+      "codepoint": 61821,
+      "source": "src/svg/list-order.svg"
+    },
+    "list-task": {
+      "codepoint": 61822,
+      "source": "src/svg/list-task.svg"
+    },
     "location": {
       "codepoint": 61752,
       "source": "src/svg/location.svg"
@@ -421,6 +433,10 @@
     "terminal": {
       "codepoint": 61780,
       "source": "src/svg/terminal.svg"
+    },
+    "text-size": {
+      "codepoint": 61819,
+      "source": "src/svg/text-size.svg"
     },
     "ticket": {
       "codepoint": 61781,

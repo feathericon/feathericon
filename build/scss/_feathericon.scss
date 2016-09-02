@@ -103,6 +103,9 @@ $feathericon-font-path: '../fonts/' !default;
 .fe-line-chart:before { content: "\f135"; }
 .fe-link:before { content: "\f136"; }
 .fe-link-external:before { content: "\f137"; }
+.fe-list-bullet:before { content: "\f17c"; }
+.fe-list-order:before { content: "\f17d"; }
+.fe-list-task:before { content: "\f17e"; }
 .fe-location:before { content: "\f138"; }
 .fe-lock:before { content: "\f139"; }
 .fe-login:before { content: "\f13a"; }
@@ -141,6 +144,7 @@ $feathericon-font-path: '../fonts/' !default;
 .fe-tablet:before { content: "\f152"; }
 .fe-tag:before { content: "\f153"; }
 .fe-terminal:before { content: "\f154"; }
+.fe-text-size:before { content: "\f17b"; }
 .fe-ticket:before { content: "\f155"; }
 .fe-tiled:before { content: "\f156"; }
 .fe-trash:before { content: "\f157"; }
