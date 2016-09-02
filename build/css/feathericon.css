@@ -73,6 +73,7 @@
 .fe-drop-left:before { content: "\f122"; }
 .fe-drop-right:before { content: "\f123"; }
 .fe-drop-up:before { content: "\f124"; }
+.fe-edit:before { content: "\f17f"; }
 .fe-elipsis-h:before { content: "\f125"; }
 .fe-elipsis-v:before { content: "\f126"; }
 .fe-export:before { content: "\f16e"; }

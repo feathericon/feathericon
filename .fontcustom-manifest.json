@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "8a3c7dec51c8aea7b3c57727eccdf16de0f9ddedc29160673a507da5dd073752",
-    "current": "8a3c7dec51c8aea7b3c57727eccdf16de0f9ddedc29160673a507da5dd073752"
+    "previous": "fa0be94367e4f29876320f1604008b96c0393408cc75554ea0ea43790ad805c8",
+    "current": "fa0be94367e4f29876320f1604008b96c0393408cc75554ea0ea43790ad805c8"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -165,6 +165,10 @@
     "drop-up": {
       "codepoint": 61732,
       "source": "src/svg/drop-up.svg"
+    },
+    "edit": {
+      "codepoint": 61823,
+      "source": "src/svg/edit.svg"
     },
     "elipsis-h": {
       "codepoint": 61733,
