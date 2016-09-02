@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "e240fea69a4453935cebbee62fe7936b6b00a76dcb80793d78c44c674ec0d9a4",
-    "current": "e240fea69a4453935cebbee62fe7936b6b00a76dcb80793d78c44c674ec0d9a4"
+    "previous": "aaca2d2f9236c50b3cb9b8c90cfaa4b83a74b30e32e043428a9057d25167d43b",
+    "current": "aaca2d2f9236c50b3cb9b8c90cfaa4b83a74b30e32e043428a9057d25167d43b"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -49,6 +49,10 @@
     "birthday-cake": {
       "codepoint": 61795,
       "source": "src/svg/birthday-cake.svg"
+    },
+    "bold": {
+      "codepoint": 61817,
+      "source": "src/svg/bold.svg"
     },
     "book": {
       "codepoint": 61705,
