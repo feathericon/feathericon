@@ -43,6 +43,7 @@ $feathericon-font-path: '../fonts/' !default;
 .fe-arrow-right:before { content: "\f102"; }
 .fe-arrow-up:before { content: "\f103"; }
 .fe-artboard:before { content: "\f104"; }
+.fe-backward:before { content: "\f180"; }
 .fe-bar:before { content: "\f105"; }
 .fe-bar-chart:before { content: "\f106"; }
 .fe-beer:before { content: "\f107"; }
@@ -69,6 +70,7 @@ $feathericon-font-path: '../fonts/' !default;
 .fe-comment:before { content: "\f119"; }
 .fe-commenting:before { content: "\f11a"; }
 .fe-comments:before { content: "\f11b"; }
+.fe-compress:before { content: "\f181"; }
 .fe-desktop:before { content: "\f11d"; }
 .fe-diamond:before { content: "\f11e"; }
 .fe-disabled:before { content: "\f11f"; }
@@ -78,10 +80,14 @@ $feathericon-font-path: '../fonts/' !default;
 .fe-drop-right:before { content: "\f123"; }
 .fe-drop-up:before { content: "\f124"; }
 .fe-edit:before { content: "\f17f"; }
+.fe-eject:before { content: "\f182"; }
 .fe-elipsis-h:before { content: "\f125"; }
 .fe-elipsis-v:before { content: "\f126"; }
+.fe-expand:before { content: "\f183"; }
 .fe-export:before { content: "\f16e"; }
 .fe-eye:before { content: "\f127"; }
+.fe-fast-backward:before { content: "\f184"; }
+.fe-fast-forward:before { content: "\f185"; }
 .fe-feather:before { content: "\f174"; }
 .fe-feed:before { content: "\f128"; }
 .fe-filter:before { content: "\f173"; }
@@ -89,6 +95,7 @@ $feathericon-font-path: '../fonts/' !default;
 .fe-folder:before { content: "\f12a"; }
 .fe-folder-open:before { content: "\f176"; }
 .fe-fork:before { content: "\f12b"; }
+.fe-forward:before { content: "\f186"; }
 .fe-globe:before { content: "\f12c"; }
 .fe-hash:before { content: "\f12d"; }
 .fe-heart:before { content: "\f12e"; }
@@ -100,6 +107,7 @@ $feathericon-font-path: '../fonts/' !default;
 .fe-key:before { content: "\f131"; }
 .fe-keyboard:before { content: "\f132"; }
 .fe-laptop:before { content: "\f133"; }
+.fe-layer:before { content: "\f18c"; }
 .fe-layout:before { content: "\f134"; }
 .fe-line-chart:before { content: "\f135"; }
 .fe-link:before { content: "\f136"; }
@@ -123,16 +131,20 @@ $feathericon-font-path: '../fonts/' !default;
 .fe-music:before { content: "\f175"; }
 .fe-palette:before { content: "\f165"; }
 .fe-paper-plane:before { content: "\f178"; }
+.fe-pause:before { content: "\f187"; }
 .fe-pencil:before { content: "\f144"; }
 .fe-phone:before { content: "\f145"; }
 .fe-pie-chart:before { content: "\f146"; }
 .fe-pizza:before { content: "\f147"; }
+.fe-play:before { content: "\f188"; }
 .fe-plus:before { content: "\f148"; }
 .fe-print:before { content: "\f171"; }
 .fe-prototype:before { content: "\f149"; }
 .fe-question:before { content: "\f14a"; }
 .fe-quote-left:before { content: "\f14b"; }
 .fe-quote-right:before { content: "\f14c"; }
+.fe-random:before { content: "\f189"; }
+.fe-repeat:before { content: "\f18a"; }
 .fe-rocket:before { content: "\f14d"; }
 .fe-search:before { content: "\f14e"; }
 .fe-search-minus:before { content: "\f16a"; }
@@ -142,6 +154,7 @@ $feathericon-font-path: '../fonts/' !default;
 .fe-sitemap:before { content: "\f150"; }
 .fe-star:before { content: "\f151"; }
 .fe-star-o:before { content: "\f168"; }
+.fe-stop:before { content: "\f18b"; }
 .fe-tablet:before { content: "\f152"; }
 .fe-tag:before { content: "\f153"; }
 .fe-terminal:before { content: "\f154"; }

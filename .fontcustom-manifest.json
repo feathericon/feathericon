@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "fa0be94367e4f29876320f1604008b96c0393408cc75554ea0ea43790ad805c8",
-    "current": "fa0be94367e4f29876320f1604008b96c0393408cc75554ea0ea43790ad805c8"
+    "previous": "520dd68364d899e29a744af2ed2120cb867505165fb54526eb0c064f7c2ef165",
+    "current": "520dd68364d899e29a744af2ed2120cb867505165fb54526eb0c064f7c2ef165"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -29,6 +29,10 @@
     "artboard": {
       "codepoint": 61700,
       "source": "src/svg/artboard.svg"
+    },
+    "backward": {
+      "codepoint": 61824,
+      "source": "src/svg/backward.svg"
     },
     "bar": {
       "codepoint": 61701,
@@ -134,6 +138,10 @@
       "codepoint": 61723,
       "source": "src/svg/comments.svg"
     },
+    "compress": {
+      "codepoint": 61825,
+      "source": "src/svg/compress.svg"
+    },
     "desktop": {
       "codepoint": 61725,
       "source": "src/svg/desktop.svg"
@@ -170,6 +178,10 @@
       "codepoint": 61823,
       "source": "src/svg/edit.svg"
     },
+    "eject": {
+      "codepoint": 61826,
+      "source": "src/svg/eject.svg"
+    },
     "elipsis-h": {
       "codepoint": 61733,
       "source": "src/svg/elipsis-h.svg"
@@ -178,6 +190,10 @@
       "codepoint": 61734,
       "source": "src/svg/elipsis-v.svg"
     },
+    "expand": {
+      "codepoint": 61827,
+      "source": "src/svg/expand.svg"
+    },
     "export": {
       "codepoint": 61806,
       "source": "src/svg/export.svg"
@@ -185,6 +201,14 @@
     "eye": {
       "codepoint": 61735,
       "source": "src/svg/eye.svg"
+    },
+    "fast-backward": {
+      "codepoint": 61828,
+      "source": "src/svg/fast-backward.svg"
+    },
+    "fast-forward": {
+      "codepoint": 61829,
+      "source": "src/svg/fast-forward.svg"
     },
     "feather": {
       "codepoint": 61812,
@@ -213,6 +237,10 @@
     "fork": {
       "codepoint": 61739,
       "source": "src/svg/fork.svg"
+    },
+    "forward": {
+      "codepoint": 61830,
+      "source": "src/svg/forward.svg"
     },
     "globe": {
       "codepoint": 61740,
@@ -257,6 +285,10 @@
     "laptop": {
       "codepoint": 61747,
       "source": "src/svg/laptop.svg"
+    },
+    "layer": {
+      "codepoint": 61836,
+      "source": "src/svg/layer.svg"
     },
     "layout": {
       "codepoint": 61748,
@@ -350,6 +382,10 @@
       "codepoint": 61816,
       "source": "src/svg/paper-plane.svg"
     },
+    "pause": {
+      "codepoint": 61831,
+      "source": "src/svg/pause.svg"
+    },
     "pencil": {
       "codepoint": 61764,
       "source": "src/svg/pencil.svg"
@@ -365,6 +401,10 @@
     "pizza": {
       "codepoint": 61767,
       "source": "src/svg/pizza.svg"
+    },
+    "play": {
+      "codepoint": 61832,
+      "source": "src/svg/play.svg"
     },
     "plus": {
       "codepoint": 61768,
@@ -389,6 +429,14 @@
     "quote-right": {
       "codepoint": 61772,
       "source": "src/svg/quote-right.svg"
+    },
+    "random": {
+      "codepoint": 61833,
+      "source": "src/svg/random.svg"
+    },
+    "repeat": {
+      "codepoint": 61834,
+      "source": "src/svg/repeat.svg"
     },
     "rocket": {
       "codepoint": 61773,
@@ -425,6 +473,10 @@
     "star-o": {
       "codepoint": 61800,
       "source": "src/svg/star-o.svg"
+    },
+    "stop": {
+      "codepoint": 61835,
+      "source": "src/svg/stop.svg"
     },
     "tablet": {
       "codepoint": 61778,
