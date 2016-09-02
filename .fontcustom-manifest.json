@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "520dd68364d899e29a744af2ed2120cb867505165fb54526eb0c064f7c2ef165",
-    "current": "520dd68364d899e29a744af2ed2120cb867505165fb54526eb0c064f7c2ef165"
+    "previous": "aef63903d14b1fb35abec54b35afa8d58e4d2588c817c7461248d9635628a12a",
+    "current": "aef63903d14b1fb35abec54b35afa8d58e4d2588c817c7461248d9635628a12a"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -242,6 +242,10 @@
       "codepoint": 61830,
       "source": "src/svg/forward.svg"
     },
+    "gamepad": {
+      "codepoint": 61841,
+      "source": "src/svg/gamepad.svg"
+    },
     "globe": {
       "codepoint": 61740,
       "source": "src/svg/globe.svg"
@@ -249,6 +253,10 @@
     "hash": {
       "codepoint": 61741,
       "source": "src/svg/hash.svg"
+    },
+    "headphone": {
+      "codepoint": 61838,
+      "source": "src/svg/headphone.svg"
     },
     "heart": {
       "codepoint": 61742,
@@ -406,6 +414,10 @@
       "codepoint": 61832,
       "source": "src/svg/play.svg"
     },
+    "plug": {
+      "codepoint": 61839,
+      "source": "src/svg/plug.svg"
+    },
     "plus": {
       "codepoint": 61768,
       "source": "src/svg/plus.svg"
@@ -517,6 +529,10 @@
     "upload": {
       "codepoint": 61785,
       "source": "src/svg/upload.svg"
+    },
+    "usb": {
+      "codepoint": 61840,
+      "source": "src/svg/usb.svg"
     },
     "user": {
       "codepoint": 61786,
