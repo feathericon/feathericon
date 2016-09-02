@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "aef63903d14b1fb35abec54b35afa8d58e4d2588c817c7461248d9635628a12a",
-    "current": "aef63903d14b1fb35abec54b35afa8d58e4d2588c817c7461248d9635628a12a"
+    "previous": "8d00d6be892286de1e5b19b1dd41bdc1b590208f3df2b31f39aac4c556d88a80",
+    "current": "8d00d6be892286de1e5b19b1dd41bdc1b590208f3df2b31f39aac4c556d88a80"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -342,6 +342,10 @@
       "codepoint": 61755,
       "source": "src/svg/logout.svg"
     },
+    "loop": {
+      "codepoint": 61842,
+      "source": "src/svg/loop.svg"
+    },
     "magic": {
       "codepoint": 61815,
       "source": "src/svg/magic.svg"
@@ -446,9 +450,9 @@
       "codepoint": 61833,
       "source": "src/svg/random.svg"
     },
-    "repeat": {
-      "codepoint": 61834,
-      "source": "src/svg/repeat.svg"
+    "reload": {
+      "codepoint": 61843,
+      "source": "src/svg/reload.svg"
     },
     "rocket": {
       "codepoint": 61773,
@@ -489,6 +493,10 @@
     "stop": {
       "codepoint": 61835,
       "source": "src/svg/stop.svg"
+    },
+    "sync": {
+      "codepoint": 61844,
+      "source": "src/svg/sync.svg"
     },
     "tablet": {
       "codepoint": 61778,
