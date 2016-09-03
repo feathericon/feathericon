@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="15px" height="16px" viewBox="0 0 15 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs></defs>
     <g id="shape" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="star" fill="#000000">
-            <polygon id="Star" points="8 12.6175467 3.05572809 15.2169043 4 9.71137658 0 5.81234022 5.52786405 5.00909456 8 0 10.472136 5.00909456 16 5.81234022 12 9.71137658 12.9442719 15.2169043"></polygon>
+            <polygon id="Shape" points="7.5 12.6085145 2.86474508 15 3.75 9.93475242 0 6.34752416 5.18237254 5.60851449 7.5 1 9.81762746 5.60851449 15 6.34752416 11.25 9.93475242 12.1352549 15"></polygon>
         </g>
     </g>
 </svg>
