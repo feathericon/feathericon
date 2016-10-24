@@ -1,2 +1,14 @@
+bin/
+docs/
+gulp/
+src/
+
+.editorconfig
+.eslintrc.json
+.fontcustom-manifest.json
 .travis.yml
-docs/CNAME
+.gitignore
+
+fontcustom.yml
+gulpfile.babel.js
+setting.json
