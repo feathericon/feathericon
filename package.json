@@ -13,9 +13,7 @@
     "webfont": "bash ./bin/webfont.sh",
     "server": "gulp server"
   },
-  "files": {
-    "build"
-  },
+  "files": "build",
   "repository": {
     "type": "git",
     "url": "git://github.com/featherplain/feathericon.git"
