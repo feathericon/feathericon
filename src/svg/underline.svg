@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="10px" height="16px" viewBox="0 0 10 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="text-edit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="underline" fill="#000000">
+            <path d="M-5.70654635e-14,1 L2,1.0049485 C2,1.0049485 1.99695322,5.28776934 1.99695322,7 C1.99695322,8.71223066 3.49345817,10 4.99513506,10 C6.49681194,10 8,8.7634768 8,7 C8,5.2365232 8,1 8,1 L10,1 C10,1 10,4 10,7 C10,10 7.5,12 5,12 C2.5,12 -5.70654635e-14,10 -5.70654635e-14,7 L-5.70654635e-14,1 Z M-2.22044605e-16,13 L10,13 L10,15 L-2.22044605e-16,15 L-2.22044605e-16,13 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "0739b8b375e2c99b60d76fa5df59858e6d2d8ee5a9b3071bb66d4080cfd31b17",
-    "current": "0739b8b375e2c99b60d76fa5df59858e6d2d8ee5a9b3071bb66d4080cfd31b17"
+    "previous": "7922f34024825de916226b559ce28864795cb1511e612009b69644f1a48f87dd",
+    "current": "7922f34024825de916226b559ce28864795cb1511e612009b69644f1a48f87dd"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -10,6 +10,22 @@
     "build/fonts/feathericon.eot"
   ],
   "glyphs": {
+    "align-center": {
+      "codepoint": 61845,
+      "source": "src/svg/align-center.svg"
+    },
+    "align-left": {
+      "codepoint": 61846,
+      "source": "src/svg/align-left.svg"
+    },
+    "align-right": {
+      "codepoint": 61847,
+      "source": "src/svg/align-right.svg"
+    },
+    "app-menu": {
+      "codepoint": 61848,
+      "source": "src/svg/app-menu.svg"
+    },
     "arrow-down": {
       "codepoint": 61696,
       "source": "src/svg/arrow-down.svg"
@@ -29,6 +45,10 @@
     "artboard": {
       "codepoint": 61700,
       "source": "src/svg/artboard.svg"
+    },
+    "audio-player": {
+      "codepoint": 61849,
+      "source": "src/svg/audio-player.svg"
     },
     "backward": {
       "codepoint": 61824,
@@ -94,9 +114,17 @@
       "codepoint": 61713,
       "source": "src/svg/check.svg"
     },
-    "check-o": {
-      "codepoint": 61714,
-      "source": "src/svg/check-o.svg"
+    "check-circle": {
+      "codepoint": 61850,
+      "source": "src/svg/check-circle.svg"
+    },
+    "check-circle-o": {
+      "codepoint": 61851,
+      "source": "src/svg/check-circle-o.svg"
+    },
+    "check-verified": {
+      "codepoint": 61852,
+      "source": "src/svg/check-verified.svg"
     },
     "clock": {
       "codepoint": 61715,
@@ -142,6 +170,14 @@
       "codepoint": 61825,
       "source": "src/svg/compress.svg"
     },
+    "cutlery": {
+      "codepoint": 61853,
+      "source": "src/svg/cutlery.svg"
+    },
+    "delete-link": {
+      "codepoint": 61854,
+      "source": "src/svg/delete-link.svg"
+    },
     "desktop": {
       "codepoint": 61725,
       "source": "src/svg/desktop.svg"
@@ -153,6 +189,10 @@
     "disabled": {
       "codepoint": 61727,
       "source": "src/svg/disabled.svg"
+    },
+    "document": {
+      "codepoint": 61855,
+      "source": "src/svg/document.svg"
     },
     "download": {
       "codepoint": 61728,
@@ -190,6 +230,10 @@
       "codepoint": 61734,
       "source": "src/svg/elipsis-v.svg"
     },
+    "equalizer": {
+      "codepoint": 61856,
+      "source": "src/svg/equalizer.svg"
+    },
     "expand": {
       "codepoint": 61827,
       "source": "src/svg/expand.svg"
@@ -218,6 +262,38 @@
       "codepoint": 61736,
       "source": "src/svg/feed.svg"
     },
+    "file": {
+      "codepoint": 61873,
+      "source": "src/svg/file.svg"
+    },
+    "file-audio": {
+      "codepoint": 61874,
+      "source": "src/svg/file-audio.svg"
+    },
+    "file-excel": {
+      "codepoint": 61858,
+      "source": "src/svg/file-excel.svg"
+    },
+    "file-image": {
+      "codepoint": 61875,
+      "source": "src/svg/file-image.svg"
+    },
+    "file-movie": {
+      "codepoint": 61876,
+      "source": "src/svg/file-movie.svg"
+    },
+    "file-powerpoint": {
+      "codepoint": 61859,
+      "source": "src/svg/file-powerpoint.svg"
+    },
+    "file-word": {
+      "codepoint": 61860,
+      "source": "src/svg/file-word.svg"
+    },
+    "file-zip": {
+      "codepoint": 61877,
+      "source": "src/svg/file-zip.svg"
+    },
     "filter": {
       "codepoint": 61811,
       "source": "src/svg/filter.svg"
@@ -245,6 +321,10 @@
     "gamepad": {
       "codepoint": 61841,
       "source": "src/svg/gamepad.svg"
+    },
+    "gear": {
+      "codepoint": 61861,
+      "source": "src/svg/gear.svg"
     },
     "globe": {
       "codepoint": 61740,
@@ -278,6 +358,10 @@
       "codepoint": 61744,
       "source": "src/svg/info.svg"
     },
+    "insert-link": {
+      "codepoint": 61862,
+      "source": "src/svg/insert-link.svg"
+    },
     "italic": {
       "codepoint": 61818,
       "source": "src/svg/italic.svg"
@@ -289,6 +373,10 @@
     "keyboard": {
       "codepoint": 61746,
       "source": "src/svg/keyboard.svg"
+    },
+    "kitchen-cooker": {
+      "codepoint": 61863,
+      "source": "src/svg/kitchen-cooker.svg"
     },
     "laptop": {
       "codepoint": 61747,
@@ -378,6 +466,10 @@
       "codepoint": 61761,
       "source": "src/svg/mobile.svg"
     },
+    "money": {
+      "codepoint": 61864,
+      "source": "src/svg/money.svg"
+    },
     "mouse": {
       "codepoint": 61762,
       "source": "src/svg/mouse.svg"
@@ -406,6 +498,10 @@
       "codepoint": 61765,
       "source": "src/svg/phone.svg"
     },
+    "picture": {
+      "codepoint": 61865,
+      "source": "src/svg/picture.svg"
+    },
     "pie-chart": {
       "codepoint": 61766,
       "source": "src/svg/pie-chart.svg"
@@ -425,6 +521,10 @@
     "plus": {
       "codepoint": 61768,
       "source": "src/svg/plus.svg"
+    },
+    "pot": {
+      "codepoint": 61866,
+      "source": "src/svg/pot.svg"
     },
     "print": {
       "codepoint": 61809,
@@ -482,6 +582,10 @@
       "codepoint": 61776,
       "source": "src/svg/sitemap.svg"
     },
+    "speaker": {
+      "codepoint": 61867,
+      "source": "src/svg/speaker.svg"
+    },
     "star": {
       "codepoint": 61777,
       "source": "src/svg/star.svg"
@@ -497,6 +601,10 @@
     "sync": {
       "codepoint": 61844,
       "source": "src/svg/sync.svg"
+    },
+    "table": {
+      "codepoint": 61868,
+      "source": "src/svg/table.svg"
     },
     "tablet": {
       "codepoint": 61778,
@@ -522,6 +630,10 @@
       "codepoint": 61782,
       "source": "src/svg/tiled.svg"
     },
+    "timeline": {
+      "codepoint": 61869,
+      "source": "src/svg/timeline.svg"
+    },
     "trash": {
       "codepoint": 61783,
       "source": "src/svg/trash.svg"
@@ -529,6 +641,10 @@
     "trophy": {
       "codepoint": 61784,
       "source": "src/svg/trophy.svg"
+    },
+    "underline": {
+      "codepoint": 61870,
+      "source": "src/svg/underline.svg"
     },
     "unlock": {
       "codepoint": 61801,
@@ -570,9 +686,13 @@
       "codepoint": 61791,
       "source": "src/svg/warning.svg"
     },
-    "wearable": {
-      "codepoint": 61792,
-      "source": "src/svg/wearable.svg"
+    "watch": {
+      "codepoint": 61871,
+      "source": "src/svg/watch.svg"
+    },
+    "watch-alt": {
+      "codepoint": 61872,
+      "source": "src/svg/watch-alt.svg"
     },
     "wine-glass": {
       "codepoint": 61793,
