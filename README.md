@@ -17,7 +17,7 @@
 <p align="center">Website: <a href="http://feathericon.com">http://feathericon.com</a></p>
 
 ## Getting Started
-1. Download **[ZIP folder from here](https://github.com/featherplain/feathericon/archive/master.zip)**.
+1. Download **[ZIP folder from here](https://github.com/feathericon/feathericon/archive/master.zip)**.
 1. Copy the entire `build/` directory to your project.
 1. In the `<head>` of your html, reference the location to your `feathericon.min.css`.
 
