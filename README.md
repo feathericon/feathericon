@@ -5,7 +5,7 @@
 <p align="center">feathericon is simple, scalable vector icon font for websites, apps.</p>
 <div align="center">
   <a href="https://travis-ci.org/featherplain/feathericon">
-    <img src="https://travis-ci.org/featherplain/feathericon.svg?branch=master" alt="Build Status">
+    <img src="https://travis-ci.org/feathericon/feathericon.svg?branch=master" alt="Build Status">
   </a>
   <a href="https://npmjs.org/packages/feathericon">
     <img src="https://badge.fury.io/js/feathericon.svg" alt="npm version" height="18">

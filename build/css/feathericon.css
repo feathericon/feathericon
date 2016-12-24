@@ -34,11 +34,16 @@
 /**
  * all icons
  */
+.fe-align-center:before { content: "\f195"; }
+.fe-align-left:before { content: "\f196"; }
+.fe-align-right:before { content: "\f197"; }
+.fe-app-menu:before { content: "\f198"; }
 .fe-arrow-down:before { content: "\f100"; }
 .fe-arrow-left:before { content: "\f101"; }
 .fe-arrow-right:before { content: "\f102"; }
 .fe-arrow-up:before { content: "\f103"; }
 .fe-artboard:before { content: "\f104"; }
+.fe-audio-player:before { content: "\f199"; }
 .fe-backward:before { content: "\f180"; }
 .fe-bar:before { content: "\f105"; }
 .fe-bar-chart:before { content: "\f106"; }
@@ -55,7 +60,9 @@
 .fe-calendar:before { content: "\f10f"; }
 .fe-camera:before { content: "\f110"; }
 .fe-check:before { content: "\f111"; }
-.fe-check-o:before { content: "\f112"; }
+.fe-check-circle:before { content: "\f19a"; }
+.fe-check-circle-o:before { content: "\f19b"; }
+.fe-check-verified:before { content: "\f19c"; }
 .fe-clock:before { content: "\f113"; }
 .fe-close:before { content: "\f114"; }
 .fe-cloud:before { content: "\f115"; }
@@ -67,9 +74,12 @@
 .fe-commenting:before { content: "\f11a"; }
 .fe-comments:before { content: "\f11b"; }
 .fe-compress:before { content: "\f181"; }
+.fe-cutlery:before { content: "\f19d"; }
+.fe-delete-link:before { content: "\f19e"; }
 .fe-desktop:before { content: "\f11d"; }
 .fe-diamond:before { content: "\f11e"; }
 .fe-disabled:before { content: "\f11f"; }
+.fe-document:before { content: "\f19f"; }
 .fe-download:before { content: "\f120"; }
 .fe-drop-down:before { content: "\f121"; }
 .fe-drop-left:before { content: "\f122"; }
@@ -79,6 +89,7 @@
 .fe-eject:before { content: "\f182"; }
 .fe-elipsis-h:before { content: "\f125"; }
 .fe-elipsis-v:before { content: "\f126"; }
+.fe-equalizer:before { content: "\f1a0"; }
 .fe-expand:before { content: "\f183"; }
 .fe-export:before { content: "\f16e"; }
 .fe-eye:before { content: "\f127"; }
@@ -86,6 +97,14 @@
 .fe-fast-forward:before { content: "\f185"; }
 .fe-feather:before { content: "\f174"; }
 .fe-feed:before { content: "\f128"; }
+.fe-file:before { content: "\f1b1"; }
+.fe-file-audio:before { content: "\f1b2"; }
+.fe-file-excel:before { content: "\f1a2"; }
+.fe-file-image:before { content: "\f1b3"; }
+.fe-file-movie:before { content: "\f1b4"; }
+.fe-file-powerpoint:before { content: "\f1a3"; }
+.fe-file-word:before { content: "\f1a4"; }
+.fe-file-zip:before { content: "\f1b5"; }
 .fe-filter:before { content: "\f173"; }
 .fe-flag:before { content: "\f129"; }
 .fe-folder:before { content: "\f12a"; }
@@ -93,6 +112,7 @@
 .fe-fork:before { content: "\f12b"; }
 .fe-forward:before { content: "\f186"; }
 .fe-gamepad:before { content: "\f191"; }
+.fe-gear:before { content: "\f1a5"; }
 .fe-globe:before { content: "\f12c"; }
 .fe-hash:before { content: "\f12d"; }
 .fe-headphone:before { content: "\f18e"; }
@@ -101,9 +121,11 @@
 .fe-home:before { content: "\f12f"; }
 .fe-import:before { content: "\f16f"; }
 .fe-info:before { content: "\f130"; }
+.fe-insert-link:before { content: "\f1a6"; }
 .fe-italic:before { content: "\f17a"; }
 .fe-key:before { content: "\f131"; }
 .fe-keyboard:before { content: "\f132"; }
+.fe-kitchen-cooker:before { content: "\f1a7"; }
 .fe-laptop:before { content: "\f133"; }
 .fe-layer:before { content: "\f18c"; }
 .fe-layout:before { content: "\f134"; }
@@ -126,6 +148,7 @@
 .fe-mention:before { content: "\f164"; }
 .fe-minus:before { content: "\f140"; }
 .fe-mobile:before { content: "\f141"; }
+.fe-money:before { content: "\f1a8"; }
 .fe-mouse:before { content: "\f142"; }
 .fe-music:before { content: "\f175"; }
 .fe-palette:before { content: "\f165"; }
@@ -133,11 +156,13 @@
 .fe-pause:before { content: "\f187"; }
 .fe-pencil:before { content: "\f144"; }
 .fe-phone:before { content: "\f145"; }
+.fe-picture:before { content: "\f1a9"; }
 .fe-pie-chart:before { content: "\f146"; }
 .fe-pizza:before { content: "\f147"; }
 .fe-play:before { content: "\f188"; }
 .fe-plug:before { content: "\f18f"; }
 .fe-plus:before { content: "\f148"; }
+.fe-pot:before { content: "\f1aa"; }
 .fe-print:before { content: "\f171"; }
 .fe-prototype:before { content: "\f149"; }
 .fe-question:before { content: "\f14a"; }
@@ -152,18 +177,22 @@
 .fe-share:before { content: "\f14f"; }
 .fe-shield:before { content: "\f172"; }
 .fe-sitemap:before { content: "\f150"; }
+.fe-speaker:before { content: "\f1ab"; }
 .fe-star:before { content: "\f151"; }
 .fe-star-o:before { content: "\f168"; }
 .fe-stop:before { content: "\f18b"; }
 .fe-sync:before { content: "\f194"; }
+.fe-table:before { content: "\f1ac"; }
 .fe-tablet:before { content: "\f152"; }
 .fe-tag:before { content: "\f153"; }
 .fe-terminal:before { content: "\f154"; }
 .fe-text-size:before { content: "\f17b"; }
 .fe-ticket:before { content: "\f155"; }
 .fe-tiled:before { content: "\f156"; }
+.fe-timeline:before { content: "\f1ad"; }
 .fe-trash:before { content: "\f157"; }
 .fe-trophy:before { content: "\f158"; }
+.fe-underline:before { content: "\f1ae"; }
 .fe-unlock:before { content: "\f169"; }
 .fe-upload:before { content: "\f159"; }
 .fe-usb:before { content: "\f190"; }
@@ -174,6 +203,7 @@
 .fe-vector:before { content: "\f15d"; }
 .fe-video:before { content: "\f15e"; }
 .fe-warning:before { content: "\f15f"; }
-.fe-wearable:before { content: "\f160"; }
+.fe-watch:before { content: "\f1af"; }
+.fe-watch-alt:before { content: "\f1b0"; }
 .fe-wine-glass:before { content: "\f161"; }
 .fe-wrench:before { content: "\f162"; }
