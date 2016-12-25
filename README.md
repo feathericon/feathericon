@@ -84,6 +84,8 @@ Node.js comes with npm ([See more](https://docs.npmjs.com/getting-started/instal
 ## FontCustom
 If you want to tweak font settings, edit `fontcustom.yml`. feathericon is using [FontCustom](https://github.com/FontCustom/fontcustom) to build fonts, stylesheets such as `feathericon.css` and `_feathericon.scss`. If you need more information for FontCustom, visit their GitHub Repository.
 
+## For Rails users
+Please visit [feathericon-rails](https://github.com/feathericon/feathericon-rails) or [feathericon-sass](https://github.com/feathericon/feathericon-sass)
 
 ## Bugs, Ideas, Pull Requests
 If you have any ideas or find bugs, please send me Pull Requests or let me know with GitHub Issues :)
