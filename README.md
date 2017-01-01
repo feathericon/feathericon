@@ -36,13 +36,18 @@
   ```bash
   $ npm install feathericon --save
   ```
+1. Copy `fonts/` directory to your project.
+
+  ```
+  $ cp -r node_modules/build/fonts/ path/to/fonts
+  ```
 1. You can simply point your Sass (SCSS) `include-path` at your `node_modules/` directory. This case is using [gulp-sass](https://www.npmjs.com/package/gulp-sass).
 
   ```javascript
   gulp.task('sass', function () {
     return gulp.src('path/to/*.scss')
       .pipe(.sass({
-        loadPath     : 'node_modules',
+        loadPath     : 'node_modules/feathericon/build/scss/',
         outputStyle  : 'compressed'
       }).on('error', $.sass.logError))
       .pipe(gulp.dest('path/to/css/'));
@@ -51,7 +56,7 @@
   Then you can import it in your scss(sass) file.
 
   ```scss
-  @import "feathericon/build/scss/feathericon";
+  @import "feathericon";
   ```
 
 ## Customize feathericon

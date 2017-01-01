@@ -82,25 +82,28 @@
           <li>In the<code>&lt;head&gt;</code>of your html, reference the location to your<code>feathericon.min.css</code>.
             <pre>&lt;link rel=&quot;stylesheet&quot; href=&quot;path/to/build/css/feathericon.min.css&quot;&gt;</pre>
           </li>
-          <li>Place feathericon with <code>&lt;i&gt;</code>tag in your html like this.<code>fe</code>class is required to use the icons correctly. Check out <a href="http://feathericon.com">the website</a> to start using icons!
+          <li>Place feathericon with<code>&lt;i&gt;</code>tag in your html like this.<code>fe</code>class is required to use the icons correctly. Check out<a href="http://feathericon.com">the website</a> to start using icons!
             <pre>&lt;i class="fe fe-heart"&gt;&lt;/i&gt;</pre>
           </li>
         </ol>
         <h3 id="developers" class="s-content__heading s-content__heading--3">For developers</h3>
         <ol>
-          <li>Install via <a href="https://npmjs.org">npm.</a>
+          <li>Install via<a href="https://npmjs.org"> npm.</a>
             <pre>$ npm install feathericon --save</pre>
           </li>
-          <li>You can simply point your Sass (SCSS)<code>include-path</code>at your<code>node_modules/</code>directory. This case is using <a href="https://www.npmjs.com/package/gulp-sass">gulp-sass</a>.
+          <li>Copy<code>fonts/</code>directory to your project.
+            <pre>$ cp -r node_modules/build/fonts/ path/to/fonts</pre>
+          </li>
+          <li>You can simply point your Sass (SCSS)<code>include-path</code>at your<code>node_modules/</code>directory. This case is using<a href="https://www.npmjs.com/package/gulp-sass"> gulp-sass</a>.
             <pre>gulp.task('sass', function () {
  return gulp.src('path/to/*.scss')
    .pipe(.sass({
-     loadPath     : 'node_modules',
+     loadPath     : 'node_modules/feathericon/build/scss/',
      outputStyle  : 'compressed'
    }).on('error', $.sass.logError))
    .pipe(gulp.dest('path/to/css/'))
 });</pre>Then you can import it in your scss(sass) file.
-            <pre>@import 'feathericon/build/scss/feathericon';</pre>
+            <pre>@import 'feathericon';</pre>
           </li>
         </ol>
       </div>
