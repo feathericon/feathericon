@@ -4,8 +4,23 @@ set -e
 
 rm -rf .git
 rm -r .gitignore
+cp -r build/css/ css
+cp -r build/fonts/ fonts
+cp -r build/scss/ scss
+cp -r build/svg/ svg
+
+if [[ "false" != "$TRAVIS_PULL_REQUEST" ]]; then
+	echo "Not deploying pull requests."
+	exit
+fi
+
+if [[ "master" != "$TRAVIS_BRANCH" ]]; then
+	echo "Not on the 'master' branch."
+	exit
+fi
 
 echo "bin
+build/
 docs/
 gulp/
 node_modules/
