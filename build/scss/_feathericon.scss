@@ -38,9 +38,12 @@ $feathericon-font-path: '../fonts/' !default;
 //
 // all icons
 //
+.fe-align-bottom:before { content: "\f1bf"; }
 .fe-align-center:before { content: "\f195"; }
 .fe-align-left:before { content: "\f196"; }
 .fe-align-right:before { content: "\f197"; }
+.fe-align-top:before { content: "\f1c0"; }
+.fe-align-vertically:before { content: "\f1c1"; }
 .fe-angry:before { content: "\f1b6"; }
 .fe-app-menu:before { content: "\f198"; }
 .fe-arrow-down:before { content: "\f100"; }
@@ -79,13 +82,17 @@ $feathericon-font-path: '../fonts/' !default;
 .fe-commenting:before { content: "\f11a"; }
 .fe-comments:before { content: "\f11b"; }
 .fe-compress:before { content: "\f181"; }
+.fe-crop:before { content: "\f1c2"; }
 .fe-cry:before { content: "\f1b7"; }
 .fe-cutlery:before { content: "\f19d"; }
 .fe-delete-link:before { content: "\f19e"; }
 .fe-desktop:before { content: "\f11d"; }
 .fe-diamond:before { content: "\f11e"; }
+.fe-difference:before { content: "\f1c3"; }
 .fe-disabled:before { content: "\f11f"; }
 .fe-disappointed:before { content: "\f1b8"; }
+.fe-distribute-horizontally:before { content: "\f1cf"; }
+.fe-distribute-vertically:before { content: "\f1c5"; }
 .fe-document:before { content: "\f19f"; }
 .fe-download:before { content: "\f120"; }
 .fe-drop-down:before { content: "\f121"; }
@@ -97,6 +104,7 @@ $feathericon-font-path: '../fonts/' !default;
 .fe-elipsis-h:before { content: "\f125"; }
 .fe-elipsis-v:before { content: "\f126"; }
 .fe-equalizer:before { content: "\f1a0"; }
+.fe-eraser:before { content: "\f1c6"; }
 .fe-expand:before { content: "\f183"; }
 .fe-export:before { content: "\f16e"; }
 .fe-eye:before { content: "\f127"; }
@@ -130,6 +138,7 @@ $feathericon-font-path: '../fonts/' !default;
 .fe-import:before { content: "\f16f"; }
 .fe-info:before { content: "\f130"; }
 .fe-insert-link:before { content: "\f1a6"; }
+.fe-intersect:before { content: "\f1c7"; }
 .fe-italic:before { content: "\f17a"; }
 .fe-key:before { content: "\f131"; }
 .fe-keyboard:before { content: "\f132"; }
@@ -151,6 +160,7 @@ $feathericon-font-path: '../fonts/' !default;
 .fe-magic:before { content: "\f177"; }
 .fe-mail:before { content: "\f13c"; }
 .fe-map:before { content: "\f16d"; }
+.fe-mask:before { content: "\f1c8"; }
 .fe-medal:before { content: "\f13d"; }
 .fe-megaphone:before { content: "\f13e"; }
 .fe-mention:before { content: "\f164"; }
@@ -181,6 +191,7 @@ $feathericon-font-path: '../fonts/' !default;
 .fe-random:before { content: "\f189"; }
 .fe-reload:before { content: "\f193"; }
 .fe-rocket:before { content: "\f14d"; }
+.fe-scale:before { content: "\f1c9"; }
 .fe-search:before { content: "\f14e"; }
 .fe-search-minus:before { content: "\f16a"; }
 .fe-search-plus:before { content: "\f16b"; }
@@ -193,11 +204,15 @@ $feathericon-font-path: '../fonts/' !default;
 .fe-star:before { content: "\f151"; }
 .fe-star-o:before { content: "\f168"; }
 .fe-stop:before { content: "\f18b"; }
+.fe-subtract:before { content: "\f1ca"; }
 .fe-sync:before { content: "\f194"; }
 .fe-table:before { content: "\f1ac"; }
 .fe-tablet:before { content: "\f152"; }
 .fe-tag:before { content: "\f153"; }
 .fe-terminal:before { content: "\f154"; }
+.fe-text-align-center:before { content: "\f1cb"; }
+.fe-text-align-left:before { content: "\f1cc"; }
+.fe-text-align-right:before { content: "\f1cd"; }
 .fe-text-size:before { content: "\f17b"; }
 .fe-ticket:before { content: "\f155"; }
 .fe-tiled:before { content: "\f156"; }
@@ -206,6 +221,7 @@ $feathericon-font-path: '../fonts/' !default;
 .fe-trash:before { content: "\f157"; }
 .fe-trophy:before { content: "\f158"; }
 .fe-underline:before { content: "\f1ae"; }
+.fe-union:before { content: "\f1ce"; }
 .fe-unlock:before { content: "\f169"; }
 .fe-upload:before { content: "\f159"; }
 .fe-usb:before { content: "\f190"; }
