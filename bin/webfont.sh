@@ -1,4 +1,4 @@
-#!/scripts/bash
+#!/bin/ bash
 
 npm run before:compile
 fontcustom compile

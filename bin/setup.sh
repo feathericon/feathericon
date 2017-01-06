@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/ bash
 
 npm install
 brew install fontforge --with-python
