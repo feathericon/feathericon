@@ -37,6 +37,7 @@
 .fe-align-center:before { content: "\f195"; }
 .fe-align-left:before { content: "\f196"; }
 .fe-align-right:before { content: "\f197"; }
+.fe-angry:before { content: "\f1b6"; }
 .fe-app-menu:before { content: "\f198"; }
 .fe-arrow-down:before { content: "\f100"; }
 .fe-arrow-left:before { content: "\f101"; }
@@ -74,11 +75,13 @@
 .fe-commenting:before { content: "\f11a"; }
 .fe-comments:before { content: "\f11b"; }
 .fe-compress:before { content: "\f181"; }
+.fe-cry:before { content: "\f1b7"; }
 .fe-cutlery:before { content: "\f19d"; }
 .fe-delete-link:before { content: "\f19e"; }
 .fe-desktop:before { content: "\f11d"; }
 .fe-diamond:before { content: "\f11e"; }
 .fe-disabled:before { content: "\f11f"; }
+.fe-disappointed:before { content: "\f1b8"; }
 .fe-document:before { content: "\f19f"; }
 .fe-download:before { content: "\f120"; }
 .fe-drop-down:before { content: "\f121"; }
@@ -111,6 +114,7 @@
 .fe-folder-open:before { content: "\f176"; }
 .fe-fork:before { content: "\f12b"; }
 .fe-forward:before { content: "\f186"; }
+.fe-frowing:before { content: "\f1b9"; }
 .fe-gamepad:before { content: "\f191"; }
 .fe-gear:before { content: "\f1a5"; }
 .fe-globe:before { content: "\f12c"; }
@@ -151,6 +155,7 @@
 .fe-money:before { content: "\f1a8"; }
 .fe-mouse:before { content: "\f142"; }
 .fe-music:before { content: "\f175"; }
+.fe-open-mouth:before { content: "\f1ba"; }
 .fe-palette:before { content: "\f165"; }
 .fe-paper-plane:before { content: "\f178"; }
 .fe-pause:before { content: "\f187"; }
@@ -168,6 +173,7 @@
 .fe-question:before { content: "\f14a"; }
 .fe-quote-left:before { content: "\f14b"; }
 .fe-quote-right:before { content: "\f14c"; }
+.fe-rage:before { content: "\f1bb"; }
 .fe-random:before { content: "\f189"; }
 .fe-reload:before { content: "\f193"; }
 .fe-rocket:before { content: "\f14d"; }
@@ -177,6 +183,8 @@
 .fe-share:before { content: "\f14f"; }
 .fe-shield:before { content: "\f172"; }
 .fe-sitemap:before { content: "\f150"; }
+.fe-smile:before { content: "\f1bc"; }
+.fe-smile-alt:before { content: "\f1bd"; }
 .fe-speaker:before { content: "\f1ab"; }
 .fe-star:before { content: "\f151"; }
 .fe-star-o:before { content: "\f168"; }
@@ -190,6 +198,7 @@
 .fe-ticket:before { content: "\f155"; }
 .fe-tiled:before { content: "\f156"; }
 .fe-timeline:before { content: "\f1ad"; }
+.fe-tired:before { content: "\f1be"; }
 .fe-trash:before { content: "\f157"; }
 .fe-trophy:before { content: "\f158"; }
 .fe-underline:before { content: "\f1ae"; }
