@@ -18,10 +18,12 @@ block body
         li
           | Download ZIP.
           br
-          a.m-btn(href='#{url.github}/archive/master.zip', class='m-btn--green m-btn-download', style='margin-top: 10px; margin-bottom: 0;') Download
+          a.m-btn(href='#{url.github}/archive/release.zip', class='m-btn--green m-btn-download', style='margin-top: 10px; margin-bottom: 0;') Download
         li
-          | Copy the entire
-          code build/
+          | Copy the
+          code css/
+          | and
+          code fonts/
           | directory to your project.
         li
           | In the
@@ -29,7 +31,7 @@ block body
           | of your html, reference the location to your
           code feathericon.min.css
           | .
-          pre &lt;link rel=&quot;stylesheet&quot; href=&quot;path/to/build/css/feathericon.min.css&quot;&gt;
+          pre &lt;link rel=&quot;stylesheet&quot; href=&quot;path/to/css/feathericon.min.css&quot;&gt;
         li
           | Place feathericon with
           code &lt;i&gt;
@@ -44,14 +46,25 @@ block body
       ol
         li
           | Install via
-          a(href='https://npmjs.org')  npm.
-          pre $ npm install feathericon --save
+          a(href='https://npmjs.org')  npm
+          |  or
+          a(href='https://yarnpkg.com/')  yarn.
+          pre
+            | $ npm install feathericon --save
+            | or
+            | $ yarn add feathericon
+          | If you're Ruby on Rails user, you can install via
+          a(href='https://rubygems.org/')  RubyGems.
+          |  We have
+          a(href='https://github.com/feathericon/feathericon-sass')  feathericon-sass ( using with Sass )
+          |  and
+          a(href='https://github.com/feathericon/feathericon-rails')  feathericon-rails.
         li
           | Copy
           code fonts/
           | directory to your project.
           pre
-            | $ cp -r node_modules/build/fonts/ path/to/fonts
+            | $ cp -r node_modules/feathericon/build/fonts/ path/to/fonts
         li
           | You can simply point your Sass (SCSS)
           code include-path

@@ -24,12 +24,15 @@ build/
 docs/
 gulp/
 node_modules/
-src/
+src/jade/
+src/scss/
+src/templates/
 .editorconfig
 *.json
 *.yml
 gulpfile.babel.js
 .DS_store
+*.log
 .npmignore" > .gitignore
 
 git init

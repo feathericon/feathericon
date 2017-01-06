@@ -53,7 +53,7 @@
         <div class="siteBrand">
           <h1 class="siteBrand__title"><a href="/">feathericon</a></h1>
           <p class="siteBrand__description">Simple, scalable vector icon font for websites, apps.</p>
-        </div><a href="https://github.com/feathericon/feathericon/archive/master.zip" class="m-btn m-btn--white m-btn-download">Download</a>
+        </div><a href="https://github.com/feathericon/feathericon/archive/release.zip" class="m-btn m-btn--white m-btn-download">Download</a>
       </div>
     </div>
     <div class="shareButtons">
@@ -77,10 +77,10 @@
         <h2 class="s-content__title">Getting Started</h2>
         <h3 id="basic" class="s-content__heading s-content__heading--3">Basic</h3>
         <ol>
-          <li>Download ZIP.<br><a href="https://github.com/feathericon/feathericon/archive/master.zip" style="margin-top: 10px; margin-bottom: 0;" class="m-btn m-btn--green m-btn-download">Download</a></li>
-          <li>Copy the entire<code>build/</code>directory to your project.</li>
+          <li>Download ZIP.<br><a href="https://github.com/feathericon/feathericon/archive/release.zip" style="margin-top: 10px; margin-bottom: 0;" class="m-btn m-btn--green m-btn-download">Download</a></li>
+          <li>Copy the<code>css/</code>and<code>fonts/</code>directory to your project.</li>
           <li>In the<code>&lt;head&gt;</code>of your html, reference the location to your<code>feathericon.min.css</code>.
-            <pre>&lt;link rel=&quot;stylesheet&quot; href=&quot;path/to/build/css/feathericon.min.css&quot;&gt;</pre>
+            <pre>&lt;link rel=&quot;stylesheet&quot; href=&quot;path/to/css/feathericon.min.css&quot;&gt;</pre>
           </li>
           <li>Place feathericon with<code>&lt;i&gt;</code>tag in your html like this.<code>fe</code>class is required to use the icons correctly. Check out<a href="http://feathericon.com">the website</a> to start using icons!
             <pre>&lt;i class="fe fe-heart"&gt;&lt;/i&gt;</pre>
@@ -88,11 +88,13 @@
         </ol>
         <h3 id="developers" class="s-content__heading s-content__heading--3">For developers</h3>
         <ol>
-          <li>Install via<a href="https://npmjs.org"> npm.</a>
-            <pre>$ npm install feathericon --save</pre>
+          <li>Install via<a href="https://npmjs.org"> npm</a> or<a href="https://yarnpkg.com/"> yarn.</a>
+            <pre>$ npm install feathericon --save
+or
+$ yarn add feathericon</pre>If you're Ruby on Rails user, you can install via<a href="https://rubygems.org/"> RubyGems.</a> We have<a href="https://github.com/feathericon/feathericon-sass"> feathericon-sass ( using with Sass )</a> and<a href="https://github.com/feathericon/feathericon-rails"> feathericon-rails.</a>
           </li>
           <li>Copy<code>fonts/</code>directory to your project.
-            <pre>$ cp -r node_modules/build/fonts/ path/to/fonts</pre>
+            <pre>$ cp -r node_modules/feathericon/build/fonts/ path/to/fonts</pre>
           </li>
           <li>You can simply point your Sass (SCSS)<code>include-path</code>at your<code>node_modules/</code>directory. This case is using<a href="https://www.npmjs.com/package/gulp-sass"> gulp-sass</a>.
             <pre>gulp.task('sass', function () {
