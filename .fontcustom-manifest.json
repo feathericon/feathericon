@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "a5ff1a19c8cb16269cfefed4ffd9a3ddd7e123ed440ab0e8912d3d9807fadf5f",
-    "current": "a5ff1a19c8cb16269cfefed4ffd9a3ddd7e123ed440ab0e8912d3d9807fadf5f"
+    "previous": "dd91da1db7eec37aaaa2a4a91c72fca71d54b9141c2e759a20fe620211e32786",
+    "current": "dd91da1db7eec37aaaa2a4a91c72fca71d54b9141c2e759a20fe620211e32786"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -10,6 +10,10 @@
     "build/fonts/feathericon.eot"
   ],
   "glyphs": {
+    "align-bottom": {
+      "codepoint": 61887,
+      "source": "src/svg/align-bottom.svg"
+    },
     "align-center": {
       "codepoint": 61845,
       "source": "src/svg/align-center.svg"
@@ -21,6 +25,14 @@
     "align-right": {
       "codepoint": 61847,
       "source": "src/svg/align-right.svg"
+    },
+    "align-top": {
+      "codepoint": 61888,
+      "source": "src/svg/align-top.svg"
+    },
+    "align-vertically": {
+      "codepoint": 61889,
+      "source": "src/svg/align-vertically.svg"
     },
     "angry": {
       "codepoint": 61878,
@@ -174,6 +186,10 @@
       "codepoint": 61825,
       "source": "src/svg/compress.svg"
     },
+    "crop": {
+      "codepoint": 61890,
+      "source": "src/svg/crop.svg"
+    },
     "cry": {
       "codepoint": 61879,
       "source": "src/svg/cry.svg"
@@ -194,6 +210,10 @@
       "codepoint": 61726,
       "source": "src/svg/diamond.svg"
     },
+    "difference": {
+      "codepoint": 61891,
+      "source": "src/svg/difference.svg"
+    },
     "disabled": {
       "codepoint": 61727,
       "source": "src/svg/disabled.svg"
@@ -201,6 +221,14 @@
     "disappointed": {
       "codepoint": 61880,
       "source": "src/svg/disappointed.svg"
+    },
+    "distribute-horizontally": {
+      "codepoint": 61903,
+      "source": "src/svg/distribute-horizontally.svg"
+    },
+    "distribute-vertically": {
+      "codepoint": 61893,
+      "source": "src/svg/distribute-vertically.svg"
     },
     "document": {
       "codepoint": 61855,
@@ -245,6 +273,10 @@
     "equalizer": {
       "codepoint": 61856,
       "source": "src/svg/equalizer.svg"
+    },
+    "eraser": {
+      "codepoint": 61894,
+      "source": "src/svg/eraser.svg"
     },
     "expand": {
       "codepoint": 61827,
@@ -378,6 +410,10 @@
       "codepoint": 61862,
       "source": "src/svg/insert-link.svg"
     },
+    "intersect": {
+      "codepoint": 61895,
+      "source": "src/svg/intersect.svg"
+    },
     "italic": {
       "codepoint": 61818,
       "source": "src/svg/italic.svg"
@@ -461,6 +497,10 @@
     "map": {
       "codepoint": 61805,
       "source": "src/svg/map.svg"
+    },
+    "mask": {
+      "codepoint": 61896,
+      "source": "src/svg/mask.svg"
     },
     "medal": {
       "codepoint": 61757,
@@ -582,6 +622,10 @@
       "codepoint": 61773,
       "source": "src/svg/rocket.svg"
     },
+    "scale": {
+      "codepoint": 61897,
+      "source": "src/svg/scale.svg"
+    },
     "search": {
       "codepoint": 61774,
       "source": "src/svg/search.svg"
@@ -630,6 +674,10 @@
       "codepoint": 61835,
       "source": "src/svg/stop.svg"
     },
+    "subtract": {
+      "codepoint": 61898,
+      "source": "src/svg/subtract.svg"
+    },
     "sync": {
       "codepoint": 61844,
       "source": "src/svg/sync.svg"
@@ -649,6 +697,18 @@
     "terminal": {
       "codepoint": 61780,
       "source": "src/svg/terminal.svg"
+    },
+    "text-align-center": {
+      "codepoint": 61899,
+      "source": "src/svg/text-align-center.svg"
+    },
+    "text-align-left": {
+      "codepoint": 61900,
+      "source": "src/svg/text-align-left.svg"
+    },
+    "text-align-right": {
+      "codepoint": 61901,
+      "source": "src/svg/text-align-right.svg"
     },
     "text-size": {
       "codepoint": 61819,
@@ -681,6 +741,10 @@
     "underline": {
       "codepoint": 61870,
       "source": "src/svg/underline.svg"
+    },
+    "union": {
+      "codepoint": 61902,
+      "source": "src/svg/union.svg"
     },
     "unlock": {
       "codepoint": 61801,
