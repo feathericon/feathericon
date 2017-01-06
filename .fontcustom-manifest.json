@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "7922f34024825de916226b559ce28864795cb1511e612009b69644f1a48f87dd",
-    "current": "7922f34024825de916226b559ce28864795cb1511e612009b69644f1a48f87dd"
+    "previous": "a5ff1a19c8cb16269cfefed4ffd9a3ddd7e123ed440ab0e8912d3d9807fadf5f",
+    "current": "a5ff1a19c8cb16269cfefed4ffd9a3ddd7e123ed440ab0e8912d3d9807fadf5f"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -21,6 +21,10 @@
     "align-right": {
       "codepoint": 61847,
       "source": "src/svg/align-right.svg"
+    },
+    "angry": {
+      "codepoint": 61878,
+      "source": "src/svg/angry.svg"
     },
     "app-menu": {
       "codepoint": 61848,
@@ -170,6 +174,10 @@
       "codepoint": 61825,
       "source": "src/svg/compress.svg"
     },
+    "cry": {
+      "codepoint": 61879,
+      "source": "src/svg/cry.svg"
+    },
     "cutlery": {
       "codepoint": 61853,
       "source": "src/svg/cutlery.svg"
@@ -189,6 +197,10 @@
     "disabled": {
       "codepoint": 61727,
       "source": "src/svg/disabled.svg"
+    },
+    "disappointed": {
+      "codepoint": 61880,
+      "source": "src/svg/disappointed.svg"
     },
     "document": {
       "codepoint": 61855,
@@ -317,6 +329,10 @@
     "forward": {
       "codepoint": 61830,
       "source": "src/svg/forward.svg"
+    },
+    "frowing": {
+      "codepoint": 61881,
+      "source": "src/svg/frowing.svg"
     },
     "gamepad": {
       "codepoint": 61841,
@@ -478,6 +494,10 @@
       "codepoint": 61813,
       "source": "src/svg/music.svg"
     },
+    "open-mouth": {
+      "codepoint": 61882,
+      "source": "src/svg/open-mouth.svg"
+    },
     "palette": {
       "codepoint": 61797,
       "source": "src/svg/palette.svg"
@@ -546,6 +566,10 @@
       "codepoint": 61772,
       "source": "src/svg/quote-right.svg"
     },
+    "rage": {
+      "codepoint": 61883,
+      "source": "src/svg/rage.svg"
+    },
     "random": {
       "codepoint": 61833,
       "source": "src/svg/random.svg"
@@ -581,6 +605,14 @@
     "sitemap": {
       "codepoint": 61776,
       "source": "src/svg/sitemap.svg"
+    },
+    "smile": {
+      "codepoint": 61884,
+      "source": "src/svg/smile.svg"
+    },
+    "smile-alt": {
+      "codepoint": 61885,
+      "source": "src/svg/smile-alt.svg"
     },
     "speaker": {
       "codepoint": 61867,
@@ -633,6 +665,10 @@
     "timeline": {
       "codepoint": 61869,
       "source": "src/svg/timeline.svg"
+    },
+    "tired": {
+      "codepoint": 61886,
+      "source": "src/svg/tired.svg"
     },
     "trash": {
       "codepoint": 61783,
