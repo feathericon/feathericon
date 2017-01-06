@@ -22,10 +22,20 @@ script:
   - ls -al build/svg/sprite.feathericon.svg
 
 deploy:
-  provider: npm
-  email: ${NPM_EMAIL}
-  api_key: ${NPM_API_KEY}
-  skip_cleanup: true
-  on:
-    branch: master
-    repo: ${TRAVIS_REPO_SLUG}
+  - provider: npm
+    email: ${NPM_EMAIL}
+    api_key: ${NPM_API_KEY}
+    skip_cleanup: true
+    on:
+      branch: master
+      repo: ${TRAVIS_REPO_SLUG}
+  - provider: script
+    script: bin/deploy.sh
+    skip_cleanup: true
+    on:
+      branch: master
+
+env:
+  global:
+  - GH_REF: github.com/feathericon/feathericon.git
+  - secure: ${GH_TOKEN}
