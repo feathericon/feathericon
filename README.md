@@ -18,11 +18,11 @@
 
 ## Getting Started
 1. Download **[ZIP folder from here](https://github.com/feathericon/feathericon/archive/master.zip)**.
-1. Copy the entire `build/` directory to your project.
+1. Copy the `css/` and `fonts/` directory to your project.
 1. In the `<head>` of your html, reference the location to your `feathericon.min.css`.
 
   ```html
-  <link rel="stylesheet" href="path/to/build/css/feathericon.min.css">
+  <link rel="stylesheet" href="path/to/css/feathericon.min.css">
   ```
 1. Place feathicon with `<i>` tag in your html like this. `fe` class is required to use our icons correctly. Check out [our website](http://feathericon.com) to start using icons!
 
@@ -31,15 +31,18 @@
   ```
 
 ### For developers
-1. Install via [npm](https://npmjs.org).
+#### Node.js projects
+1. Install via [npm](https://npmjs.org) or [yarn](https://yarnpkg.com/).
 
   ```bash
   $ npm install feathericon --save
+  or
+  $ yarn add feathericon
   ```
 1. Copy `fonts/` directory to your project.
 
   ```
-  $ cp -r node_modules/build/fonts/ path/to/fonts
+  $ cp -r node_modules/feathericon/build/fonts/ path/to/fonts
   ```
 1. You can simply point your Sass (SCSS) `include-path` at your `node_modules/` directory. This case is using [gulp-sass](https://www.npmjs.com/package/gulp-sass).
 
@@ -58,6 +61,13 @@
   ```scss
   @import "feathericon";
   ```
+
+#### Ruby on Rails projects
+You can install via [RubyGems](https://rubygems.org/).
+
+Repositories:
+- [feathericon-rails](https://github.com/feathericon/feathericon-rails)
+- [feathericon-sass](https://github.com/feathericon/feathericon-sass) ( using feathericon with Sass ).
 
 ## Customize feathericon
 ### 1. Edit Sketch document
@@ -89,8 +99,6 @@ Node.js comes with npm ([See more](https://docs.npmjs.com/getting-started/instal
 ## FontCustom
 If you want to tweak font settings, edit `fontcustom.yml`. feathericon is using [FontCustom](https://github.com/FontCustom/fontcustom) to build fonts, stylesheets such as `feathericon.css` and `_feathericon.scss`. If you need more information for FontCustom, visit their GitHub Repository.
 
-## For Rails users
-Please visit [feathericon-rails](https://github.com/feathericon/feathericon-rails) or [feathericon-sass](https://github.com/feathericon/feathericon-sass)
 
 ## Bugs, Ideas, Pull Requests
 If you have any ideas or find bugs, please send me Pull Requests or let me know with GitHub Issues :)
