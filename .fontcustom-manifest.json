@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "dd91da1db7eec37aaaa2a4a91c72fca71d54b9141c2e759a20fe620211e32786",
-    "current": "dd91da1db7eec37aaaa2a4a91c72fca71d54b9141c2e759a20fe620211e32786"
+    "previous": "29576c470c16ec79811820cea3fc336fd4bc9ffddb97db75cdcac6394db383b1",
+    "current": "29576c470c16ec79811820cea3fc336fd4bc9ffddb97db75cdcac6394db383b1"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -669,6 +669,14 @@
     "star-o": {
       "codepoint": 61800,
       "source": "src/svg/star-o.svg"
+    },
+    "step-backward": {
+      "codepoint": 61904,
+      "source": "src/svg/step-backward.svg"
+    },
+    "step-forward": {
+      "codepoint": 61905,
+      "source": "src/svg/step-forward.svg"
     },
     "stop": {
       "codepoint": 61835,
