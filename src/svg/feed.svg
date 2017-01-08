@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="13px" height="16px" viewBox="0 0 13 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="feed" fill="#000000">
-            <path d="M2,11 C3.1045,11 4,11.8955 4,13 C4,14.1045 3.1045,15 2,15 C0.8955,15 0,14.1045 0,13 C0,11.8955 0.8955,11 2,11 Z M7,15 C7,8 0,8 0,8 L0,6 C0,6 9,6 9,15 L7,15 Z M11,15 C11,4 0,4 0,4 L3.60822483e-16,2 C3.60822483e-16,2 13,2 13,15 L11,15 Z" id="Shape"></path>
+            <path d="M14,14 C14,6.2680135 7.7319865,0 0,0 L0,2.03788963 C6.38240609,2 12,7.61759391 11.9621104,14 C11.9621104,14 14,14 14,14 Z M10,14 C10,8.4771525 5.5228475,4 2.84217094e-14,4 L2.84217094e-14,6.05492878 C4.17161661,6 8,9.82838339 7.94507122,14 C7.94507122,14 10,14 10,14 Z M2,14 C3.1045695,14 4,13.1045695 4,12 C4,10.8954305 3.1045695,10 2,10 C0.8954305,10 0,10.8954305 0,12 C0,13.1045695 0.8954305,14 2,14 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

@@ -3,7 +3,7 @@
     <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="bookmark" fill="#000000">
-            <path d="M0,1 C0,1 -6.10622664e-16,-4.17457319e-11 1,1.38777878e-17 C1,2.2881573e-10 7,1.38745156e-17 7,1.38777878e-17 C8,1.38777878e-17 8,1 8,1 L8,16 L4,13 L0,16 L0,1 Z M5,2 L6,2 L6,4 L5,4 L5,2 Z M5,5 L6,5 L6,7 L5,7 L5,5 Z" id="Shape"></path>
+            <path d="M0,2 C0,2 -6.10622664e-16,1 1,1 C1,1 7,1 7,1 C8,1 8,2 8,2 L8,15 L4,12 L0,15 L0,2 Z M5,3 L6,3 L6,5 L5,5 L5,3 Z M5,6 L6,6 L6,8 L5,8 L5,6 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

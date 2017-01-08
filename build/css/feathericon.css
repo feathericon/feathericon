@@ -75,6 +75,7 @@
 .fe-coffee:before { content: "\f166"; }
 .fe-columns:before { content: "\f118"; }
 .fe-comment:before { content: "\f119"; }
+.fe-comment-o:before { content: "\f1d2"; }
 .fe-commenting:before { content: "\f11a"; }
 .fe-comments:before { content: "\f11b"; }
 .fe-compress:before { content: "\f181"; }
