@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "29576c470c16ec79811820cea3fc336fd4bc9ffddb97db75cdcac6394db383b1",
-    "current": "29576c470c16ec79811820cea3fc336fd4bc9ffddb97db75cdcac6394db383b1"
+    "previous": "ecdf1f65c8dc7366357752eeebd0595e999a11c5a0ad3bb15d30914573b4eece",
+    "current": "ecdf1f65c8dc7366357752eeebd0595e999a11c5a0ad3bb15d30914573b4eece"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -173,6 +173,10 @@
     "comment": {
       "codepoint": 61721,
       "source": "src/svg/comment.svg"
+    },
+    "comment-o": {
+      "codepoint": 61906,
+      "source": "src/svg/comment-o.svg"
     },
     "commenting": {
       "codepoint": 61722,
