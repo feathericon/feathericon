@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="13px" viewBox="0 0 12 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="food" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cocktail" fill="#000000">
+            <path d="M5,7 L0,2 L0,0.5 C0,0.5 0,2.7038709e-09 0.5,2.7038709e-09 L11.5,2.7038709e-09 C12,2.7038709e-09 12,0.5 12,0.5 L12,2 L7,7 L7,12 L9.5,12 C9.5,12 10,12 10,12.5 C10,13 9.5,13 9.5,13 L2.5,13 C2.5,13 2,13 2,12.5 C2,12 2.49742112,12 2.5,12 L5,12 L5,7 Z M3,3 L9,3 L11,1 L1,1 L3,3 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

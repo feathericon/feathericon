@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="14px" viewBox="0 0 10 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="export" fill="#000000">
+            <path d="M0,5 L3,5 L3,6 L1,6 L1,13 L9,13 L9,6 L7,6 L7,5 L10,5 L10,14 L0,14 L0,5 Z M5.5,12 L4.5,12 L4.5,3 L3,3 L5,0 L7,3 L5.5,3 L5.5,12 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

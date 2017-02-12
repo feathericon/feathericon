@@ -10,6 +10,7 @@ import sketch from 'gulp-sketch';
 import cleanCss from 'gulp-clean-css';
 import rename from 'gulp-rename';
 import svgSprite from 'gulp-svg-sprite';
+import replace from 'gulp-string-replace';
 
 import del from 'del';
 
@@ -35,7 +36,8 @@ gulp.task('export:svg', () => {
       formats: 'svg',
       compact: true
     }))
-    .pipe(gulp.dest(paths.srcSvg));
+    .pipe(gulp.dest(paths.srcSvg))
+    .pipe(gulp.dest(paths.destSvg));
 });
 
 //---------------------------------------------------------------------------
@@ -65,5 +67,7 @@ gulp.task('sprite:svg', () => {
       dirname: './',
       prefix: 'sprite' + '.'
     }))
-    .pipe(gulp.dest(paths.destSvg));
+    .pipe(gulp.dest(paths.srcSprite))
+    .pipe(replace(new RegExp(' fill="#000"', 'g'), ''))
+    .pipe(gulp.dest(paths.destSprite))
 });

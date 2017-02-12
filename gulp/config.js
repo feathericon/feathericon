@@ -14,6 +14,8 @@ export default {
   //svg
   'srcSvg'      : 'src/svg/',
   'destSvg'     : 'build/svg/',
+  'srcSprite'   : 'src/svg/sprite/',
+  'destSprite'  : 'build/svg/sprite/',
   // templates
   'templates'   : 'src/templates/',
   // fonts
