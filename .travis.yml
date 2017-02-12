@@ -19,7 +19,8 @@ script:
   - ls -al build/fonts/feathericon.ttf
   - ls -al build/fonts/feathericon.woff
   - ls -al build/scss/_feathericon.scss
-  - ls -al build/svg/sprite.feathericon.svg
+  - ls -al build/svg/sprite/sprite.feathericon.svg
+  - ls -al build/svg/*.svg
 
 after_script:
   - bash ./bin/deploy.sh
