@@ -30,6 +30,25 @@
   <i class="fe fe-heart"></i>
   ```
 
+### Using SVG sprite
+1. Download **[ZIP folder from here](https://github.com/feathericon/feathericon/archive/release.zip)**.
+1. Copy the `svg/sprite/sprite.feathericon.svg` to your project.
+1. In your html, place like this. You can set specify any `width`, `height`, and `fill` with HTML attributes or CSS. Make sure put the icon name with hash after `.svg` extension.
+
+  ```html
+  <svg width="16px" height="16px" fill="#0099cc" class="icon">
+    <use xlink:href="/<path-to-your>/sprite.feathericon.svg#heart"></use>
+  </svg>
+  ```
+
+  ```css
+    .icon {
+      width: 16px;
+      height: 16px;
+      fill: #0099cc;
+    }
+  ```
+
 ### For developers
 #### Node.js projects
 1. Install via [npm](https://npmjs.org) or [yarn](https://yarnpkg.com/).
