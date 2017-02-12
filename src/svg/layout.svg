@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="14px" height="16px" viewBox="0 0 14 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="10px" viewBox="0 0 14 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs></defs>
     <g id="text-edit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="layout" fill="#000000">
-            <path d="M0,3 L9,3 L9,12 L0,12 L0,3 Z M10,3 L14,3 L14,7 L10,7 L10,3 Z M10,8 L14,8 L14,12 L10,12 L10,8 Z" id="Shape"></path>
+            <path d="M1.13908882e-13,-4.4408921e-16 L9,-4.4408921e-16 L9,10 L1.14033782e-13,10 L1.13908882e-13,-4.4408921e-16 Z M10,1.13242769e-13 C10,1.13242769e-13 14,-4.99580049e-16 14,-4.44068898e-16 C14,-4.99580049e-16 14,3 14,3 L10,3 L10,1.13242769e-13 Z M10,4 L14,4 L14,10 L10,10 L10,4 Z" id="Shape"></path>
         </g>
     </g>
 </svg>
