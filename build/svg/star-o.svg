@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="14px" viewBox="0 0 15 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="shape" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="star-o" fill="#000000">
+            <path d="M7.5,11.6085145 L2.86474508,14 L3.75,8.93475242 L-7.32747196e-15,5.34752416 L5.18237254,4.60851449 L7.5,0 L9.81762746,4.60851449 L15,5.34752416 L11.25,8.93475242 L12.1352549,14 L7.5,11.6085145 Z M7.5,10.4917961 L4.10081306,12.2 L4.75,8.58196606 L2,6.01966016 L5.80040653,5.49179612 L7.5,2.20000005 L9.19959347,5.49179612 L13,6.01966016 L10.25,8.58196606 L10.8991869,12.2 L7.5,10.4917961 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

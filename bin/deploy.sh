@@ -8,6 +8,7 @@ cp -r build/css/ css
 cp -r build/fonts/ fonts
 cp -r build/scss/ scss
 cp -r build/svg/ svg
+cp -r src/feathericon.sketch feathericon.sketch
 
 if [[ "false" != "$TRAVIS_PULL_REQUEST" ]]; then
 	echo "Not deploying pull requests."
@@ -24,9 +25,7 @@ build/
 docs/
 gulp/
 node_modules/
-src/jade/
-src/scss/
-src/templates/
+src/
 .editorconfig
 *.json
 *.yml
