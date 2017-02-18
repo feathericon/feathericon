@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "40066689d4085806eeee74c09c0c18f2ec5714d58a7da7a6c4e8c3097458d541",
-    "current": "40066689d4085806eeee74c09c0c18f2ec5714d58a7da7a6c4e8c3097458d541"
+    "previous": "964d38c25cbf288db8375a0c9a45eb1b10174c11e477eb125f144dc1de642d10",
+    "current": "964d38c25cbf288db8375a0c9a45eb1b10174c11e477eb125f144dc1de642d10"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -162,6 +162,10 @@
       "codepoint": 61719,
       "source": "src/svg/code.svg"
     },
+    "codepen": {
+      "codepoint": 61907,
+      "source": "src/svg/codepen.svg"
+    },
     "coffee": {
       "codepoint": 61798,
       "source": "src/svg/coffee.svg"
@@ -294,6 +298,10 @@
       "codepoint": 61735,
       "source": "src/svg/eye.svg"
     },
+    "facebook": {
+      "codepoint": 61908,
+      "source": "src/svg/facebook.svg"
+    },
     "fast-backward": {
       "codepoint": 61828,
       "source": "src/svg/fast-backward.svg"
@@ -378,9 +386,29 @@
       "codepoint": 61861,
       "source": "src/svg/gear.svg"
     },
+    "git": {
+      "codepoint": 61909,
+      "source": "src/svg/git.svg"
+    },
+    "github": {
+      "codepoint": 61910,
+      "source": "src/svg/github.svg"
+    },
+    "github-alt": {
+      "codepoint": 61911,
+      "source": "src/svg/github-alt.svg"
+    },
     "globe": {
       "codepoint": 61740,
       "source": "src/svg/globe.svg"
+    },
+    "google": {
+      "codepoint": 61912,
+      "source": "src/svg/google.svg"
+    },
+    "google-plus": {
+      "codepoint": 61913,
+      "source": "src/svg/google-plus.svg"
     },
     "hash": {
       "codepoint": 61741,
@@ -413,6 +441,10 @@
     "insert-link": {
       "codepoint": 61862,
       "source": "src/svg/insert-link.svg"
+    },
+    "instagram": {
+      "codepoint": 61914,
+      "source": "src/svg/instagram.svg"
     },
     "intersect": {
       "codepoint": 61895,
@@ -518,6 +550,10 @@
       "codepoint": 61796,
       "source": "src/svg/mention.svg"
     },
+    "messanger": {
+      "codepoint": 61921,
+      "source": "src/svg/messanger.svg"
+    },
     "minus": {
       "codepoint": 61760,
       "source": "src/svg/minus.svg"
@@ -570,6 +606,10 @@
       "codepoint": 61766,
       "source": "src/svg/pie-chart.svg"
     },
+    "pinterest": {
+      "codepoint": 61915,
+      "source": "src/svg/pinterest.svg"
+    },
     "pizza": {
       "codepoint": 61767,
       "source": "src/svg/pizza.svg"
@@ -585,6 +625,10 @@
     "plus": {
       "codepoint": 61768,
       "source": "src/svg/plus.svg"
+    },
+    "pocket": {
+      "codepoint": 61916,
+      "source": "src/svg/pocket.svg"
     },
     "pot": {
       "codepoint": 61866,
@@ -750,6 +794,10 @@
       "codepoint": 61784,
       "source": "src/svg/trophy.svg"
     },
+    "twitter": {
+      "codepoint": 61917,
+      "source": "src/svg/twitter.svg"
+    },
     "underline": {
       "codepoint": 61870,
       "source": "src/svg/underline.svg"
@@ -810,9 +858,21 @@
       "codepoint": 61793,
       "source": "src/svg/wine-glass.svg"
     },
+    "wordpress": {
+      "codepoint": 61918,
+      "source": "src/svg/wordpress.svg"
+    },
+    "wordpress-alt": {
+      "codepoint": 61919,
+      "source": "src/svg/wordpress-alt.svg"
+    },
     "wrench": {
       "codepoint": 61794,
       "source": "src/svg/wrench.svg"
+    },
+    "youtube": {
+      "codepoint": 61920,
+      "source": "src/svg/youtube.svg"
     }
   },
   "options": {
