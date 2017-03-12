@@ -34,6 +34,7 @@
 /**
  * all icons
  */
+.fe-activity:before { content: "\f1e2"; }
 .fe-align-bottom:before { content: "\f1bf"; }
 .fe-align-center:before { content: "\f195"; }
 .fe-align-left:before { content: "\f196"; }
@@ -55,6 +56,7 @@
 .fe-bell:before { content: "\f108"; }
 .fe-birthday-cake:before { content: "\f163"; }
 .fe-bold:before { content: "\f179"; }
+.fe-bolt:before { content: "\f1e3"; }
 .fe-book:before { content: "\f109"; }
 .fe-bookmark:before { content: "\f170"; }
 .fe-browser:before { content: "\f10b"; }
@@ -182,6 +184,7 @@
 .fe-pencil:before { content: "\f144"; }
 .fe-phone:before { content: "\f145"; }
 .fe-picture:before { content: "\f1a9"; }
+.fe-picture-square:before { content: "\f1e4"; }
 .fe-pie-chart:before { content: "\f146"; }
 .fe-pinterest:before { content: "\f1db"; }
 .fe-pizza:before { content: "\f147"; }
@@ -221,6 +224,7 @@
 .fe-tag:before { content: "\f153"; }
 .fe-terminal:before { content: "\f154"; }
 .fe-text-align-center:before { content: "\f1cb"; }
+.fe-text-align-justify:before { content: "\f1e5"; }
 .fe-text-align-left:before { content: "\f1cc"; }
 .fe-text-align-right:before { content: "\f1cd"; }
 .fe-text-size:before { content: "\f17b"; }

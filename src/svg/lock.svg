@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="12px" height="14px" viewBox="0 0 12 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="10px" height="14px" viewBox="0 0 10 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="lock" fill="#000000">
-            <path d="M1.00247329,6 L2.00564456,6 C2.00564456,6 2.00564456,4 2,4 C2,-5.28632427e-09 5,1.4287546e-16 6,0 C7,0 9.99406052,0 10,4 L9.99406045,6 L10.9975267,6 C11.5511774,6 12,6.45303631 12,6.99703014 L12,13.0029699 C12,13.5536144 11.544239,14 10.9975267,14 L1.00247329,14 C0.448822582,14 0,13.5469637 0,13.0029699 L0,6.99703014 C0,6.4463856 0.455760956,6 1.00247329,6 Z M2,8 L2,12 L3,12 L3,8 L2,8 Z M4,4 L4,6 L8,6 L8,4 C8,2 6.5,2 6,2 C5.5,2 4,2 4,4 Z" id="Shape"></path>
+            <path d="M2,6 L2,3 C2,3 2,4.2862638e-16 5,0 C8,0 8,3 8,3 L8,6 L9,6 C10,6 10,7 10,7 L10,13 C10,13 10,14 9,14 L1,14 C2.13162821e-14,14 2.13162821e-14,13 2.13162821e-14,13 L2.13162821e-14,7 C2.13162821e-14,7 2.13162821e-14,6 1,6 L2,6 Z M2,8 L2,12 L3,12 L3,8 L2,8 Z M4,3 L4,6 L6,6 L6,3 C6,3 6,2 5,2 C4,2 4,3 4,3 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

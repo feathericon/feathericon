@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "964d38c25cbf288db8375a0c9a45eb1b10174c11e477eb125f144dc1de642d10",
-    "current": "964d38c25cbf288db8375a0c9a45eb1b10174c11e477eb125f144dc1de642d10"
+    "previous": "acc0563058e904c951d7751c80c3e8c92a33a54b9e4203bb9bdb7ef3789bc095",
+    "current": "acc0563058e904c951d7751c80c3e8c92a33a54b9e4203bb9bdb7ef3789bc095"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -10,6 +10,10 @@
     "build/fonts/feathericon.eot"
   ],
   "glyphs": {
+    "activity": {
+      "codepoint": 61922,
+      "source": "src/svg/activity.svg"
+    },
     "align-bottom": {
       "codepoint": 61887,
       "source": "src/svg/align-bottom.svg"
@@ -93,6 +97,10 @@
     "bold": {
       "codepoint": 61817,
       "source": "src/svg/bold.svg"
+    },
+    "bolt": {
+      "codepoint": 61923,
+      "source": "src/svg/bolt.svg"
     },
     "book": {
       "codepoint": 61705,
@@ -602,6 +610,10 @@
       "codepoint": 61865,
       "source": "src/svg/picture.svg"
     },
+    "picture-square": {
+      "codepoint": 61924,
+      "source": "src/svg/picture-square.svg"
+    },
     "pie-chart": {
       "codepoint": 61766,
       "source": "src/svg/pie-chart.svg"
@@ -758,6 +770,10 @@
       "codepoint": 61899,
       "source": "src/svg/text-align-center.svg"
     },
+    "text-align-justify": {
+      "codepoint": 61925,
+      "source": "src/svg/text-align-justify.svg"
+    },
     "text-align-left": {
       "codepoint": 61900,
       "source": "src/svg/text-align-left.svg"
@@ -883,8 +899,8 @@
     "debug": true,
     "font_ascent": 448,
     "font_descent": 64,
-    "font_design_size": 16,
-    "font_em": 512,
+    "font_design_size": 14,
+    "font_em": 448,
     "font_name": "feathericon",
     "force": true,
     "input": {

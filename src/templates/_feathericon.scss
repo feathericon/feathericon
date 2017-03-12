@@ -28,7 +28,7 @@ $<%= font_name %>-font-path: '<%= @options[:preprocessor_path] %>' !default;
 //
 .fe {
   display: inline-block;
-  font: normal normal normal 16px <%= font_name %>;
+  font: normal normal normal 14px <%= font_name %>;
   font-size: inherit;
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;

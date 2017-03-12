@@ -83,10 +83,10 @@ preprocessor_path: ../fonts/
 # -----------------------------------------------------------------------------
 
 # Size (in pica points) for which your font is designed.
-font_design_size: 16
+font_design_size: 14
 
 # The em size. Setting this will scale the entire font to the given size.
-font_em: 512
+font_em: 448
 
 # The font's ascent and descent. Used to calculate the baseline.
 # font_ascent: 448
