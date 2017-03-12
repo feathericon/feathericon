@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="12px" height="13px" viewBox="0 0 12 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="paper-plane" fill="#000000">
-            <path d="M4.71959345,9.67150802 L9.97494256,2.71063568 L3.58785919,9.07093316 L0.390848293,7.35229996 C-0.124266223,7.07538726 -0.129640242,6.62070237 0.371328526,6.33269211 L11.169998,0.124465529 C11.6717157,-0.163975306 12.040938,0.0660643146 11.9963518,0.637311688 L11.1067428,12.0351637 C11.0621926,12.6059504 10.6111577,12.846483 10.0994084,12.5713794 L7.22251401,10.9977257 L5.31575193,12.9037636 C4.71959345,13.24438 4.71959345,12.5713793 4.71959345,12.5713793 L4.71959345,9.67150802 Z" id="Shape"></path>
+            <polygon id="Shape" points="12 0 7 12 4.95599046 10 4 11 4 9 10 2 3 8 0 5"></polygon>
         </g>
     </g>
 </svg>

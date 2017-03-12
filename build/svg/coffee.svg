@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="14px" height="9px" viewBox="0 0 14 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="12px" height="10px" viewBox="0 0 12 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs></defs>
     <g id="food" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="coffee" fill="#000000">
-            <path d="M11,1 L10.9999914,2 L12,2 C12,2 13,2 13,3.5 C13,5 12,5 12,5 L10.9999915,5 C10.9968073,6.10511657 10.1021797,7 9.0026083,7 L3.9973917,7 C2.89426273,7 2,6.11344516 2,4.99408095 L2,1 C2,1 2,-4.4408921e-16 3,-4.4408921e-16 L10,-4.4408921e-16 C10.9999914,-4.4408921e-16 11,1 11,1 Z M0,8.5 C4.89858741e-16,8 0.5,8 0.5,8 L13.5,8 C13.5,8 14,8 14,8.5 C14,9 13.5,9 13.5,9 L0.5,9 C0.5,9 4.8985872e-16,9 0,8.5 Z" id="Shape"></path>
+            <path d="M10,-4.4408921e-16 L10,1 L11,1 C11,1 12,1 12,3.5 C12,6 11,6 11,6 L10,6 C9.99999994,7 8.9973917,8 8,8 L1.9973917,8 C1,8 0,7 0,5.99408095 L0,-4.4408921e-16 L10,-4.4408921e-16 Z M0,9 L12,9 L12,10 L0,10 L0,9 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

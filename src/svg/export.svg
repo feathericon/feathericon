@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="10px" height="14px" viewBox="0 0 10 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="12px" height="14px" viewBox="0 0 12 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="export" fill="#000000">
-            <path d="M0,5 L3,5 L3,6 L1,6 L1,13 L9,13 L9,6 L7,6 L7,5 L10,5 L10,14 L0,14 L0,5 Z M5.5,12 L4.5,12 L4.5,3 L3,3 L5,0 L7,3 L5.5,3 L5.5,12 Z" id="Shape"></path>
+            <path d="M0,6.00247329 C0,5.44882258 0.455760956,5 1.00247329,5 L3,5 L3,6.00247329 L1.00247329,6.00247329 L1.00247329,13 L11,13 L11,6.00247329 L9,6.00247329 L9,5 L10.9975267,5 C11.5511774,5 12,5.45576096 12,6.00247329 L12,12.9975267 C12,13.5511774 11.544239,14 10.9975267,14 L1.00247329,14 C0.448822582,14 0,13.544239 0,12.9975267 L0,6.00247329 Z M5,11 L5,3 L4,4 L3,3 L6,2.84217094e-14 L9,3 L8,4 L7,3 L7,11 L5,11 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

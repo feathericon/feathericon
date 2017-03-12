@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="12px" height="10px" viewBox="0 0 12 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs></defs>
     <g id="media-player" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="random" fill="#000000">
-            <polygon id="Shape" points="12 4 11 4 8.75 7 11 10 12 10 12 8 16 11 12 14 12 12 10 12 7.5 8.66666667 5 12 0 12 0 10 4 10 6.25 7 4 4 0 4 0 2 5 2 7.5 5.33333333 10 2 12 2 12 0 16 3 12 6 12 4"></polygon>
+            <path d="M9,3 L7,5 L9,7 L10,7 L10,6 L12,8 L10,10 L10,9 L8,9 L6,7 L4,9 L0,9 L0,7 L3,7 L5,5 L3,3 L0,3 L0,1 L4,1 L6,3 L8,1 L10,1 L10,0 L12,2 L10,4 C10,4 10.0245038,3.0490075 10,3 C9.97549625,2.9509925 9,3 9,3 Z" id="Shape"></path>
         </g>
     </g>
 </svg>
