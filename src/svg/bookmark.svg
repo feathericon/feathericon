@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="8px" height="14px" viewBox="0 0 8 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="10px" height="14px" viewBox="0 0 10 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="bookmark" fill="#000000">
-            <path d="M0,1 C0,1 -6.10622664e-16,-4.17457457e-11 1,0 C1,2.28815716e-10 7,-3.27224896e-21 7,0 C8,0 8,1 8,1 L8,14 L4,11 L0,14 L0,1 Z M5,2 L6,2 L6,4 L5,4 L5,2 Z M5,5 L6,5 L6,7 L5,7 L5,5 Z" id="Shape"></path>
+            <path d="M0,1 C0,1 -6.10622664e-16,-4.17457457e-11 1,0 C1,2.28815716e-10 9,0 9,0 C10,0 10,1 10,1 L10,14 L5,11 L0,14 L0,1 Z M7,2 L8,2 L8,4 L7,4 L7,2 Z M7,5 L8,5 L8,7 L7,7 L7,5 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

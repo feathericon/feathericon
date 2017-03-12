@@ -34,6 +34,7 @@
 /**
  * all icons
  */
+.fe-activity:before { content: "\f1e2"; }
 .fe-align-bottom:before { content: "\f1bf"; }
 .fe-align-center:before { content: "\f195"; }
 .fe-align-left:before { content: "\f196"; }
@@ -55,6 +56,7 @@
 .fe-bell:before { content: "\f108"; }
 .fe-birthday-cake:before { content: "\f163"; }
 .fe-bold:before { content: "\f179"; }
+.fe-bolt:before { content: "\f1e3"; }
 .fe-book:before { content: "\f109"; }
 .fe-bookmark:before { content: "\f170"; }
 .fe-browser:before { content: "\f10b"; }
@@ -72,6 +74,7 @@
 .fe-cloud:before { content: "\f115"; }
 .fe-cocktail:before { content: "\f116"; }
 .fe-code:before { content: "\f117"; }
+.fe-codepen:before { content: "\f1d3"; }
 .fe-coffee:before { content: "\f166"; }
 .fe-columns:before { content: "\f118"; }
 .fe-comment:before { content: "\f119"; }
@@ -105,6 +108,7 @@
 .fe-expand:before { content: "\f183"; }
 .fe-export:before { content: "\f16e"; }
 .fe-eye:before { content: "\f127"; }
+.fe-facebook:before { content: "\f1d4"; }
 .fe-fast-backward:before { content: "\f184"; }
 .fe-fast-forward:before { content: "\f185"; }
 .fe-feather:before { content: "\f174"; }
@@ -126,7 +130,12 @@
 .fe-frowing:before { content: "\f1b9"; }
 .fe-gamepad:before { content: "\f191"; }
 .fe-gear:before { content: "\f1a5"; }
+.fe-git:before { content: "\f1d5"; }
+.fe-github:before { content: "\f1d6"; }
+.fe-github-alt:before { content: "\f1d7"; }
 .fe-globe:before { content: "\f12c"; }
+.fe-google:before { content: "\f1d8"; }
+.fe-google-plus:before { content: "\f1d9"; }
 .fe-hash:before { content: "\f12d"; }
 .fe-headphone:before { content: "\f18e"; }
 .fe-heart:before { content: "\f12e"; }
@@ -135,6 +144,7 @@
 .fe-import:before { content: "\f16f"; }
 .fe-info:before { content: "\f130"; }
 .fe-insert-link:before { content: "\f1a6"; }
+.fe-instagram:before { content: "\f1da"; }
 .fe-intersect:before { content: "\f1c7"; }
 .fe-italic:before { content: "\f17a"; }
 .fe-key:before { content: "\f131"; }
@@ -161,6 +171,7 @@
 .fe-medal:before { content: "\f13d"; }
 .fe-megaphone:before { content: "\f13e"; }
 .fe-mention:before { content: "\f164"; }
+.fe-messanger:before { content: "\f1e1"; }
 .fe-minus:before { content: "\f140"; }
 .fe-mobile:before { content: "\f141"; }
 .fe-money:before { content: "\f1a8"; }
@@ -173,11 +184,14 @@
 .fe-pencil:before { content: "\f144"; }
 .fe-phone:before { content: "\f145"; }
 .fe-picture:before { content: "\f1a9"; }
+.fe-picture-square:before { content: "\f1e4"; }
 .fe-pie-chart:before { content: "\f146"; }
+.fe-pinterest:before { content: "\f1db"; }
 .fe-pizza:before { content: "\f147"; }
 .fe-play:before { content: "\f188"; }
 .fe-plug:before { content: "\f18f"; }
 .fe-plus:before { content: "\f148"; }
+.fe-pocket:before { content: "\f1dc"; }
 .fe-pot:before { content: "\f1aa"; }
 .fe-print:before { content: "\f171"; }
 .fe-prototype:before { content: "\f149"; }
@@ -210,6 +224,7 @@
 .fe-tag:before { content: "\f153"; }
 .fe-terminal:before { content: "\f154"; }
 .fe-text-align-center:before { content: "\f1cb"; }
+.fe-text-align-justify:before { content: "\f1e5"; }
 .fe-text-align-left:before { content: "\f1cc"; }
 .fe-text-align-right:before { content: "\f1cd"; }
 .fe-text-size:before { content: "\f17b"; }
@@ -219,6 +234,7 @@
 .fe-tired:before { content: "\f1be"; }
 .fe-trash:before { content: "\f157"; }
 .fe-trophy:before { content: "\f158"; }
+.fe-twitter:before { content: "\f1dd"; }
 .fe-underline:before { content: "\f1ae"; }
 .fe-union:before { content: "\f1ce"; }
 .fe-unlock:before { content: "\f169"; }
@@ -234,4 +250,7 @@
 .fe-watch:before { content: "\f1af"; }
 .fe-watch-alt:before { content: "\f1b0"; }
 .fe-wine-glass:before { content: "\f161"; }
+.fe-wordpress:before { content: "\f1de"; }
+.fe-wordpress-alt:before { content: "\f1df"; }
 .fe-wrench:before { content: "\f162"; }
+.fe-youtube:before { content: "\f1e0"; }
