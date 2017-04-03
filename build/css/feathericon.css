@@ -24,7 +24,7 @@
  */
 .fe {
   display: inline-block;
-  font: normal normal normal 16px feathericon;
+  font: normal normal normal 14px feathericon;
   font-size: inherit;
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
