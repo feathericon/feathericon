@@ -1,8 +1,0 @@
-.glyph
-  ul.glyph__list<% @glyphs.each do |name, value| selector = @options[:css_selector].sub('{{glyph}}', name.to_s) %>
-    li.glyph__item
-      i.fe<%= selector %>.glyph__icon
-      span.glyph__name <%= selector[1..-1].gsub('.', ' ') %>
-      span.glyph__codepoint <%= value[:codepoint].to_s(16) %><% end %>
-        
-    
