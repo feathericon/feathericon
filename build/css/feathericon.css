@@ -35,6 +35,7 @@
  * all icons
  */
 .fe-activity:before { content: "\f1e2"; }
+.fe-add-cart:before { content: "\f1e6"; }
 .fe-align-bottom:before { content: "\f1bf"; }
 .fe-align-center:before { content: "\f195"; }
 .fe-align-left:before { content: "\f196"; }
@@ -63,8 +64,10 @@
 .fe-brush:before { content: "\f10c"; }
 .fe-bug:before { content: "\f10d"; }
 .fe-building:before { content: "\f10e"; }
+.fe-cage:before { content: "\f1e7"; }
 .fe-calendar:before { content: "\f10f"; }
 .fe-camera:before { content: "\f110"; }
+.fe-cart:before { content: "\f1e8"; }
 .fe-check:before { content: "\f111"; }
 .fe-check-circle:before { content: "\f19a"; }
 .fe-check-circle-o:before { content: "\f19b"; }
@@ -82,6 +85,7 @@
 .fe-commenting:before { content: "\f11a"; }
 .fe-comments:before { content: "\f11b"; }
 .fe-compress:before { content: "\f181"; }
+.fe-credit-card:before { content: "\f1e9"; }
 .fe-crop:before { content: "\f1c2"; }
 .fe-cry:before { content: "\f1b7"; }
 .fe-cutlery:before { content: "\f19d"; }
@@ -130,6 +134,7 @@
 .fe-frowing:before { content: "\f1b9"; }
 .fe-gamepad:before { content: "\f191"; }
 .fe-gear:before { content: "\f1a5"; }
+.fe-gift:before { content: "\f1ea"; }
 .fe-git:before { content: "\f1d5"; }
 .fe-github:before { content: "\f1d6"; }
 .fe-github-alt:before { content: "\f1d7"; }
@@ -201,6 +206,7 @@
 .fe-rage:before { content: "\f1bb"; }
 .fe-random:before { content: "\f189"; }
 .fe-reload:before { content: "\f193"; }
+.fe-remove-cart:before { content: "\f1eb"; }
 .fe-rocket:before { content: "\f14d"; }
 .fe-scale:before { content: "\f1c9"; }
 .fe-search:before { content: "\f14e"; }
@@ -208,6 +214,7 @@
 .fe-search-plus:before { content: "\f16b"; }
 .fe-share:before { content: "\f14f"; }
 .fe-shield:before { content: "\f172"; }
+.fe-shopping-bag:before { content: "\f1ec"; }
 .fe-sitemap:before { content: "\f150"; }
 .fe-smile:before { content: "\f1bc"; }
 .fe-smile-alt:before { content: "\f1bd"; }
@@ -234,6 +241,7 @@
 .fe-tired:before { content: "\f1be"; }
 .fe-trash:before { content: "\f157"; }
 .fe-trophy:before { content: "\f158"; }
+.fe-truck:before { content: "\f1ed"; }
 .fe-twitter:before { content: "\f1dd"; }
 .fe-underline:before { content: "\f1ae"; }
 .fe-union:before { content: "\f1ce"; }
@@ -246,6 +254,7 @@
 .fe-users:before { content: "\f15c"; }
 .fe-vector:before { content: "\f15d"; }
 .fe-video:before { content: "\f15e"; }
+.fe-wallet:before { content: "\f1ee"; }
 .fe-warning:before { content: "\f15f"; }
 .fe-watch:before { content: "\f1af"; }
 .fe-watch-alt:before { content: "\f1b0"; }
