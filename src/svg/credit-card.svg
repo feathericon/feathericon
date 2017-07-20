@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="8px" viewBox="0 0 12 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>credit-card</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="e-commerce" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="credit-card" fill="#000000">
+            <path d="M1,1 L11,1 L11,2 L1,2 L1,1 Z M1,3 L11,3 L11,7 L1,7 L1,3 Z M5,5 L7,5 L7,6 L5,6 L5,5 Z M2,5 L4,5 L4,6 L2,6 L2,5 Z M1,0 L11,0 C11.5522847,-1.01453063e-16 12,0.44771525 12,1 L12,7 C12,7.55228475 11.5522847,8 11,8 L1,8 C0.44771525,8 6.76353751e-17,7.55228475 0,7 L0,1 C-6.76353751e-17,0.44771525 0.44771525,1.01453063e-16 1,0 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

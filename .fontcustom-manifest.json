@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "bac26bd6f30778e6ab46a025f5f5d92a9ddf4215b3defd8a5146d0d172d28eb5",
-    "current": "bac26bd6f30778e6ab46a025f5f5d92a9ddf4215b3defd8a5146d0d172d28eb5"
+    "previous": "38d4a09ec71995fef7704eb069debcb31b7f7a8f50c77f58553656fdf369bd22",
+    "current": "38d4a09ec71995fef7704eb069debcb31b7f7a8f50c77f58553656fdf369bd22"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -13,6 +13,10 @@
     "activity": {
       "codepoint": 61922,
       "source": "src/svg/activity.svg"
+    },
+    "add-cart": {
+      "codepoint": 61926,
+      "source": "src/svg/add-cart.svg"
     },
     "align-bottom": {
       "codepoint": 61887,
@@ -126,6 +130,10 @@
       "codepoint": 61710,
       "source": "src/svg/building.svg"
     },
+    "cage": {
+      "codepoint": 61927,
+      "source": "src/svg/cage.svg"
+    },
     "calendar": {
       "codepoint": 61711,
       "source": "src/svg/calendar.svg"
@@ -133,6 +141,10 @@
     "camera": {
       "codepoint": 61712,
       "source": "src/svg/camera.svg"
+    },
+    "cart": {
+      "codepoint": 61928,
+      "source": "src/svg/cart.svg"
     },
     "check": {
       "codepoint": 61713,
@@ -201,6 +213,10 @@
     "compress": {
       "codepoint": 61825,
       "source": "src/svg/compress.svg"
+    },
+    "credit-card": {
+      "codepoint": 61929,
+      "source": "src/svg/credit-card.svg"
     },
     "crop": {
       "codepoint": 61890,
@@ -393,6 +409,10 @@
     "gear": {
       "codepoint": 61861,
       "source": "src/svg/gear.svg"
+    },
+    "gift": {
+      "codepoint": 61930,
+      "source": "src/svg/gift.svg"
     },
     "git": {
       "codepoint": 61909,
@@ -678,6 +698,10 @@
       "codepoint": 61843,
       "source": "src/svg/reload.svg"
     },
+    "remove-cart": {
+      "codepoint": 61931,
+      "source": "src/svg/remove-cart.svg"
+    },
     "rocket": {
       "codepoint": 61773,
       "source": "src/svg/rocket.svg"
@@ -705,6 +729,10 @@
     "shield": {
       "codepoint": 61810,
       "source": "src/svg/shield.svg"
+    },
+    "shopping-bag": {
+      "codepoint": 61932,
+      "source": "src/svg/shopping-bag.svg"
     },
     "sitemap": {
       "codepoint": 61776,
@@ -810,6 +838,10 @@
       "codepoint": 61784,
       "source": "src/svg/trophy.svg"
     },
+    "truck": {
+      "codepoint": 61933,
+      "source": "src/svg/truck.svg"
+    },
     "twitter": {
       "codepoint": 61917,
       "source": "src/svg/twitter.svg"
@@ -857,6 +889,10 @@
     "video": {
       "codepoint": 61790,
       "source": "src/svg/video.svg"
+    },
+    "wallet": {
+      "codepoint": 61934,
+      "source": "src/svg/wallet.svg"
     },
     "warning": {
       "codepoint": 61791,

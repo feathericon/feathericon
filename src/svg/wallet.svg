@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="8px" viewBox="0 0 12 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>wallet</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="e-commerce" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wallet" fill="#000000">
+            <path d="M11,2 L11,1 C11,0.44771525 10.5522847,0 10,0 L1,0 C0.44771525,0 -6.76353751e-17,0.44771525 0,1 L0,7 C6.76353751e-17,7.55228475 0.44771525,8 1,8 L10,8 C10.5522847,8 11,7.55228475 11,7 L11,6 C11.5522847,6 12,5.55228475 12,5 L12,3 C12,2.44771525 11.5522847,2 11,2 Z M9,5 C9.55228475,5 10,4.55228475 10,4 C10,3.44771525 9.55228475,3 9,3 C8.44771525,3 8,3.44771525 8,4 C8,4.55228475 8.44771525,5 9,5 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

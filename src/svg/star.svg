@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="15px" height="14px" viewBox="0 0 15 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>star</title>
+    <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="shape" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="star" fill="#000000">
-            <polygon id="Shape" points="7.5 11.6085145 2.86474508 14 3.75 8.93475242 0 5.34752416 5.18237254 4.60851449 7.5 0 9.81762746 4.60851449 15 5.34752416 11.25 8.93475242 12.1352549 14"></polygon>
+            <polygon id="Shape" points="7.5 11.6085145 2.86474508 14 3.75 8.93475242 2.22044605e-16 5.34752416 5.18237254 4.60851449 7.5 0 9.81762746 4.60851449 15 5.34752416 11.25 8.93475242 12.1352549 14"></polygon>
         </g>
     </g>
 </svg>
