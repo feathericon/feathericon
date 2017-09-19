@@ -22,7 +22,7 @@ no_hash: true
 base64: false
 
 # Forces compilation, even if inputs have not changed
-force: true
+force: false
 
 # Display (possibly useful) debugging messages.
 debug: true
