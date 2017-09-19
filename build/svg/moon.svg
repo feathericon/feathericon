@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>moon</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="weather" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="moon" fill="#000000">
+            <path d="M0,5.99673922 C0,9.3122486 2.6877514,12 6.00326078,12 C8.40086423,12 10.4701862,10.5944598 11.4322093,8.56239659 C10.6150769,9.10865738 9.63277863,9.42717395 8.57608683,9.42717395 C5.73422165,9.42717395 3.43043473,7.12338704 3.43043473,4.28152186 C3.43043473,2.49593114 4.3399274,0.922763814 5.72093264,0 C2.53650464,0.147426485 0,2.77586665 0,5.99673922 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

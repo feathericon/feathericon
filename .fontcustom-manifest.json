@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "38d4a09ec71995fef7704eb069debcb31b7f7a8f50c77f58553656fdf369bd22",
-    "current": "38d4a09ec71995fef7704eb069debcb31b7f7a8f50c77f58553656fdf369bd22"
+    "previous": "04a0a24e1ec36b4187627a24dc512fe75e2452bfbb221d4a85910c057bd6be1f",
+    "current": "04a0a24e1ec36b4187627a24dc512fe75e2452bfbb221d4a85910c057bd6be1f"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -594,6 +594,10 @@
       "codepoint": 61864,
       "source": "src/svg/money.svg"
     },
+    "moon": {
+      "codepoint": 61935,
+      "source": "src/svg/moon.svg"
+    },
     "mouse": {
       "codepoint": 61762,
       "source": "src/svg/mouse.svg"
@@ -774,6 +778,14 @@
       "codepoint": 61898,
       "source": "src/svg/subtract.svg"
     },
+    "sunny-o": {
+      "codepoint": 61936,
+      "source": "src/svg/sunny-o.svg"
+    },
+    "sunrise": {
+      "codepoint": 61937,
+      "source": "src/svg/sunrise.svg"
+    },
     "sync": {
       "codepoint": 61844,
       "source": "src/svg/sync.svg"
@@ -845,6 +857,10 @@
     "twitter": {
       "codepoint": 61917,
       "source": "src/svg/twitter.svg"
+    },
+    "umbrella": {
+      "codepoint": 61938,
+      "source": "src/svg/umbrella.svg"
     },
     "underline": {
       "codepoint": 61870,
@@ -938,7 +954,7 @@
     "font_design_size": 14,
     "font_em": 448,
     "font_name": "feathericon",
-    "force": true,
+    "force": false,
     "input": {
       "templates": "src/templates",
       "vectors": "src/svg"

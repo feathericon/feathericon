@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="10px" viewBox="0 0 14 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>sunrise</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="weather" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sunrise" fill="#000000">
+            <path d="M2,7 L12,7 L12,8 L2,8 L2,7 Z M3,9 L11,9 L11,10 L3,10 L3,9 Z M2.05933941,5 L0,5 L0,6 L14,6 L14,5 L11.2193669,5 L12,5 C12,2.23857625 9.76142375,0 7,0 C4.23857625,0 2,2.23857625 2,5 L2.05933941,5 Z M3,5 C3,2.790861 4.790861,1 7,1 C9.209139,1 11,2.790861 11,5 L3,5 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
