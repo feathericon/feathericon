@@ -1,5 +1,4 @@
-
-![feathericon](https://raw.githubusercontent.com/featherplain/feathericon/master/docs/img_ogp.png "feathericon")
+![feathericon](https://raw.githubusercontent.com/featherplain/feathericon/master/docs/img_feathericon_white.png "feathericon")
 
 <h1 align="center">feathericon</h1>
 <p align="center">feathericon is simple, scalable vector icon font for websites, apps.</p>
@@ -10,7 +9,7 @@
   <a href="https://npmjs.org/packages/feathericon">
     <img src="https://badge.fury.io/js/feathericon.svg" alt="npm version" height="18">
   </a>
-  <a href="https://npmjd.org/packages/feathericon">
+  <a href="https://npmjs.org/packages/feathericon">
     <img src="https://img.shields.io/npm/dm/feathericon.svg?style=flat" alt="npm downloads">
   </a>
 </div>
