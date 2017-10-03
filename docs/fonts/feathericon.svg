@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2017-9-19: Created with FontForge (http://fontforge.org)
+2017-10-3: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170104 at Tue Sep 19 12:16:00 2017
+Created by FontForge 20170104 at Tue Oct  3 16:22:39 2017
  By featherplain
 Copyright (c) 2017, featherplain
 </metadata>
@@ -22,14 +22,13 @@ Copyright (c) 2017, featherplain
     bbox="-0.36 -103 512 448.171"
     underline-thickness="22.4"
     underline-position="-44.8"
-    unicode-range="U+0020-F1F2"
+    unicode-range="U+0020-F1F3"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
  />
     <glyph glyph-name="uniF1A0" unicode="&#xf1a0;" 
-d="M37 119h73s36 0 36 -37s-36 -36 -36 -36h-73s-37 -1 -37 36s37 37 37 37zM220 302h73s36 0 36 -37s-36 -36 -36 -36h-73s-37 -1 -37 36s37 37 37 37zM402 192h73s37 0 37 -37s-37 -36 -37 -36h-73s-36 -1 -36 36s36 37 36 37zM402 82h73v-146h-73v146zM402 448h73v-219
-h-73v219zM219 192h74v-256h-74v256zM219 448h74v-110h-74v110zM37 9h73v-73h-73v73zM37 448h73v-293h-73v293z" />
+d="M302 405v0c9 25 33 43 61 43s51 -18 60 -43h89v-42h-89c-9 -25 -32 -43 -60 -43s-52 18 -61 43h-302v42h302zM89 192v0c9 25 32 43 60 43s52 -18 61 -43h302v-43h-302c-9 -25 -33 -42 -61 -42s-51 17 -60 42h-89v43h89z" />
     <glyph glyph-name="uniF117" unicode="&#xf117;" 
 d="M183 193l-37 -38l-146 147l146 146l37 -37l-110 -109zM329 192l110 110l-110 109l37 37l146 -146l-146 -147z" />
     <glyph glyph-name="uniF172" unicode="&#xf172;" horiz-adv-x="366" 
@@ -123,6 +122,9 @@ c19 0 42 -19 42 -42v-86h128z" />
     <glyph glyph-name="uniF1B8" unicode="&#xf1b8;" 
 d="M256 -27c121 0 219 98 219 219s-98 219 -219 219s-219 -98 -219 -219s98 -219 219 -219zM256 -64c-141 0 -256 115 -256 256s115 256 256 256s256 -115 256 -256s-115 -256 -256 -256zM256 119c73 0 73 -73 73 -73h-36s0 36 -37 36s-37 -36 -37 -36h-36s0 73 73 73z
 M363 242c2 -4 3 -8 3 -13c0 -20 -17 -37 -37 -37s-36 17 -36 37c0 13 7 24 17 30l-17 6v37l109 -37v-36l-39 13v0zM202 259c10 -6 17 -17 17 -30c0 -20 -16 -37 -36 -37s-37 17 -37 37c0 5 1 9 3 13l-39 -13v36l109 37v-37l-17 -6v0z" />
+    <glyph glyph-name="uniF1F3" unicode="&#xf1f3;" 
+d="M299 401c84 -17 149 -82 166 -166h47v-86h-47c-17 -84 -82 -149 -166 -166v-47h-86v47c-84 17 -149 82 -166 166h-47v86h47c17 84 82 149 166 166v47h86v-47v0zM256 21c94 0 171 77 171 171s-77 171 -171 171s-171 -77 -171 -171s77 -171 171 -171zM256 107
+c-47 0 -85 38 -85 85s38 85 85 85s85 -38 85 -85s-38 -85 -85 -85z" />
     <glyph glyph-name="uniF1CF" unicode="&#xf1cf;" horiz-adv-x="366" 
 d="M329 448h37v-512h-37v512zM110 375h146v-366h-146v366zM0 448h37v-512h-37v512z" />
     <glyph glyph-name="uniF146" unicode="&#xf146;" 
