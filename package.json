@@ -11,7 +11,8 @@
     "after:compile": "gulp after:compile",
     "setup": "bash ./bin/setup.sh",
     "webfont": "bash ./bin/webfont.sh",
-    "server": "gulp server"
+    "server": "gulp server",
+    "test": "ava tests/svg.js"
   },
   "repository": {
     "type": "git",
@@ -34,6 +35,7 @@
     ]
   },
   "devDependencies": {
+    "ava": "^0.23.0",
     "babel-preset-env": "^1.6.1",
     "babel-register": "^6.26.0",
     "browser-sync": "^2.18.13",
