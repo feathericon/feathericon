@@ -14,16 +14,7 @@ before_script:
   - npm install
 
 script:
-  - ls -al build/css/feathericon.css
-  - ls -al build/css/feathericon.min.css
-  - ls -al build/fonts/feathericon.eot
-  - ls -al build/fonts/feathericon.svg
-  - ls -al build/fonts/feathericon.ttf
-  - ls -al build/fonts/feathericon.woff
-  - ls -al build/fonts/feathericon.woff2
-  - ls -al build/scss/_feathericon.scss
-  - ls -al build/svg/sprite/sprite.feathericon.svg
-  - ls -al build/svg/*.svg
+  - npm run test
 
 after_script:
   - bash ./bin/deploy.sh
