@@ -31,6 +31,7 @@ nbproject
 .sublime-project
 .sublime-workspace
 .csscomb.json
+package-lock.json
 
 # Folders to ignore
 .hg

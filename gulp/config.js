@@ -25,6 +25,6 @@ export default {
   'srcScss'     : 'src/scss/',
   // css
   'destCss'     : 'build/css/',
-  // jade
-  'srcJade'     : 'src/jade/'
+  // Pug
+  'srcPug'     : 'src/pug/'
 }
