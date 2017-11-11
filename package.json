@@ -12,7 +12,7 @@
     "setup": "bash ./bin/setup.sh",
     "webfont": "bash ./bin/webfont.sh",
     "server": "gulp server",
-    "test": "ava tests/svg.js"
+    "test": "ava tests/index.js"
   },
   "repository": {
     "type": "git",
