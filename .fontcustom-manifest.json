@@ -1,13 +1,14 @@
 {
   "checksum": {
-    "previous": "cc9ffaa49dd1c2a6c6207f767832ebd9021befa1adacdf34ba0977fffe5326e1",
-    "current": "cc9ffaa49dd1c2a6c6207f767832ebd9021befa1adacdf34ba0977fffe5326e1"
+    "previous": "a00a8e4c75d29eb32723882193eb696f75ca308af961c88b877633e77f70f34e",
+    "current": "a00a8e4c75d29eb32723882193eb696f75ca308af961c88b877633e77f70f34e"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
     "build/fonts/feathericon.svg",
     "build/fonts/feathericon.woff",
-    "build/fonts/feathericon.eot"
+    "build/fonts/feathericon.eot",
+    "build/fonts/feathericon.woff2"
   ],
   "glyphs": {
     "activity": {
@@ -951,6 +952,8 @@
     "autowidth": true,
     "base64": false,
     "config": "fontcustom.yml",
+    "copyright": "",
+    "css3": false,
     "css_selector": ".fe-{{glyph}}",
     "debug": true,
     "font_ascent": 448,
@@ -966,7 +969,7 @@
     "no_hash": true,
     "output": {
       "_feathericon.scss": "build/scss",
-      "_icons.jade": "src/jade/inc/modules",
+      "_icons.pug": "src/pug/inc/modules",
       "css": "build/css",
       "fonts": "build/fonts",
       "preview": "build/fonts"
@@ -976,12 +979,12 @@
     "templates": [
       "feathericon.css",
       "_feathericon.scss",
-      "_icons.jade"
+      "_icons.pug"
     ]
   },
   "templates": [
     "build/css/feathericon.css",
     "build/scss/_feathericon.scss",
-    "src/jade/inc/modules/_icons.jade"
+    "src/pug/inc/modules/_icons.pug"
   ]
 }
