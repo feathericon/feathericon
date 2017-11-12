@@ -1,6 +1,6 @@
 {
   "name": "feathericon",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "description": "Simple, scalable vector icon font for websites, apps.",
   "main": "gulpfile.babel.js",
   "author": "featherplain",
