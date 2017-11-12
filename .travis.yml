@@ -14,7 +14,7 @@ before_script:
   - npm install
 
 script:
-  - npm run test
+  - npm test
 
 after_script:
   - bash ./bin/deploy.sh
