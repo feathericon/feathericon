@@ -22,7 +22,7 @@ no_hash: true
 base64: false
 
 # Forces compilation, even if inputs have not changed
-force: true
+force: false
 
 # Display (possibly useful) debugging messages.
 debug: true
@@ -53,7 +53,7 @@ output:
   fonts: build/fonts
   css: build/css
   _feathericon.scss: build/scss
-  _icons.jade: src/jade/inc/modules
+  _icons.pug: src/pug/inc/modules
 
 
 # -----------------------------------------------------------------------------
@@ -73,7 +73,7 @@ output:
 templates:
   - feathericon.css
   - _feathericon.scss
-  - _icons.jade
+  - _icons.pug
 
 preprocessor_path: ../fonts/
 
