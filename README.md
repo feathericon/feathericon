@@ -94,7 +94,10 @@ Repositories:
 
 Open the Sketch document in `src/feathericons.sketch`. Each icon exists as an artboard within the Sketch document. If you’re adding an icon, duplicate one of the artboards and add your shapes to it. **Be sure to give your artboard a name that makes sense**.
 
-### 2. Build icons
+### 2. Update data.json
+If you've added a new icon, you'll need to add a new entry and keywords for it in the `data.json`.
+
+### 3. Build icons
 #### Requires
 - Node.js
 - npm
