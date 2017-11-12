@@ -2,12 +2,8 @@
   "name": "feathericon",
   "url": {
     "featherplain": "https://github.com/featherplain",
-    "pages": "http://feathericon.com",
-    "github": {
-      "root": "https://github.com/feathericon/feathericon",
-      "releases": "https://github.com/feathericon/feathericon/releases",
-      "license": "https://github.com/feathericon/feathericon/blob/master/LICENSE"
-    }
+    "github": "https://github.com/feathericon/feathericon",
+    "pages": "http://feathericon.com"
   },
   "page": {
     "top": {

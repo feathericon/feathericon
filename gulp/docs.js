@@ -6,7 +6,7 @@
 import paths from './config';
 
 import gulp from 'gulp';
-import pug from 'gulp-pug';
+import jade from 'gulp-jade';
 import data from 'gulp-data';
 import plumber from 'gulp-plumber';
 import sass from 'gulp-sass';
@@ -34,11 +34,11 @@ gulp.task('bs:reload', () => {
 //---------------------------------------------------------------------------
 // Jade
 //---------------------------------------------------------------------------
-gulp.task('pug', () => {
-  return gulp.src(paths.srcPug + '*.pug')
+gulp.task('jade', () => {
+  return gulp.src(paths.srcJade + '*.jade')
     .pipe(data(() => require('../setting.json')))
     .pipe(plumber())
-    .pipe(pug({ pretty: true }))
+    .pipe(jade({ pretty: true }))
     .pipe(gulp.dest(paths.docs))
     .pipe(browserSync.reload({ stream: true }));
 });
