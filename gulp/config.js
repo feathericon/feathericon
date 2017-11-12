@@ -14,8 +14,8 @@ export default {
   //svg
   'srcSvg'      : 'src/svg/',
   'destSvg'     : 'build/svg/',
-  'srcSprite'   : 'src/svg-sprite/',
-  'destSprite'  : 'build/svg-sprite/',
+  'srcSprite'   : 'src/svg/sprite/',
+  'destSprite'  : 'build/svg/sprite/',
   // templates
   'templates'   : 'src/templates/',
   // fonts
@@ -25,6 +25,6 @@ export default {
   'srcScss'     : 'src/scss/',
   // css
   'destCss'     : 'build/css/',
-  // Pug
-  'srcPug'     : 'src/pug/'
+  // jade
+  'srcJade'     : 'src/jade/'
 }
