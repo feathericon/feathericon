@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "a4fba81eefda53dee0af1e1c9eb29919e55e3937cd4ba5886c6654a2943b397a",
-    "current": "a4fba81eefda53dee0af1e1c9eb29919e55e3937cd4ba5886c6654a2943b397a"
+    "previous": "dd8659e08686dda4b7106d1119576f21979518a6b10b9753556a4ce436e4b183",
+    "current": "dd8659e08686dda4b7106d1119576f21979518a6b10b9753556a4ce436e4b183"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
