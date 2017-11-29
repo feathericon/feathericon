@@ -219,6 +219,8 @@
 .fe-sitemap:before { content: "\f150"; }
 .fe-smile:before { content: "\f1bc"; }
 .fe-smile-alt:before { content: "\f1bd"; }
+.fe-smile-heart:before { content: "\f1f6"; }
+.fe-smile-plus:before { content: "\f1f5"; }
 .fe-speaker:before { content: "\f1ab"; }
 .fe-star:before { content: "\f151"; }
 .fe-star-o:before { content: "\f168"; }

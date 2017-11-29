@@ -700,5 +700,11 @@
   },
   "youtube": {
     "codepoint": 61920
+  },
+  "smile-heart": {
+    "codepoint": 61942
+  },
+  "smile-plus": {
+    "codepoint": 61941
   }
 }
