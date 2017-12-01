@@ -20,13 +20,13 @@
  * globalMenu
  */
 .globalMenu {
-  float: right;
   display: flex;
   flex-wrap: wrap;
+  // justify-content: center;
   li {
     margin: 0 10px;
     a {
-      color: #fff;
+      color: $colorBlack;
       &:after {
         display: block;
         content: '';

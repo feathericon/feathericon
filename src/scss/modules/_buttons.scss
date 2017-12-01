@@ -9,7 +9,7 @@
   text-align: center;
   padding: 0.75rem 1rem 0.8rem 1rem;
   margin: 0 auto 20px auto;
-  border-radius: 8px;
+  border-radius: 4px;
   line-height: 1.1;
 }
 
@@ -17,7 +17,6 @@
   @extend %btnBase;
   margin: 0 auto 20px auto;
   text-decoration: none;
-  box-shadow: 0 2px 0 darken($colorCyan, 10%);
   &--white {
     background: #fff;
     color: $colorGreen;
@@ -35,12 +34,21 @@
       color: $colorGreen;
     }
   }
-}
-.m-btn-download {
-  width: 200px;
-  font-weight: 600;
-  &:before {
-    @include fe('\f120', $valign: text-bottom);
-    margin-right: 5px;
+  &--black {
+    background: $colorBlack;
+    border: 1px solid $colorBlack;
+    color: #fff;
+    &:hover {
+      background: #fff;
+      color: $colorBlack;
+    }
+  }
+  &.download {
+    width: 200px;
+    font-weight: 600;
+    &:before {
+      @include fe('\f120', $valign: text-bottom);
+      margin-right: 5px;
+    }
   }
 }

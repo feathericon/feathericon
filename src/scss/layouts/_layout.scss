@@ -6,8 +6,6 @@
 .l-cover {
   padding-bottom: 40px;
   text-align: center;
-  background-color: $colorCyan;
-  color: #fff;
   &__inner {
     @extend %gridBase;
   }
