@@ -9,6 +9,7 @@
  */
 .l-header {
   margin-bottom: 40px;
+  padding: 40px;
 }
 
 /**
@@ -19,11 +20,17 @@
     font-size: 48px;
     margin-top: 0;
     margin-bottom: 10px;
+    line-height: 1;
     a {
-      color: #fff;
+      display: inline-block;
+      color: $colorBlack;
+      line-height: 1;
     }
   }
   &__description {
     margin-top: 0;
+    margin-bottom: 32px;
+    color: transparentize($colorBlack, 0.3);
+    font-weight: 400;
   }
 }
