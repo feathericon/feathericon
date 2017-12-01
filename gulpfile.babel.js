@@ -25,7 +25,7 @@ gulp.task('after:compile', () => {
 gulp.task('watch', () => {
   gulp.watch([paths.srcSvg],                  ['sprite:svg']);
   gulp.watch([paths.docs     + '*.html'],     ['bs:reload']);
-  gulp.watch([paths.srcJade  + '**/*.pug'],   ['pug']);
+  gulp.watch([paths.srcPug  + '**/*.pug'],    ['pug']);
   gulp.watch([paths.srcScss  + '**/*.scss'],  ['sass']);
 });
 

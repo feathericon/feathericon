@@ -15,38 +15,30 @@
   }
   &__item {
     @extend %clearfix;
-    width: 25%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20%;
     margin-bottom: 32px;
     padding: 5px 10px;
     list-style-type: none;
-    transition: .3s;
-    &:hover {
-      background-color: $colorCyan;
-      i, span {
-        color: #fff;
-      }
-    }
   }
   &__icon {
-    display: block;
-    float: left;
-    vertical-align: baseline;
-    color: #444;
+    color: transparentize($colorBlack, 0.1);
+    font-size: 28px;
+    margin-bottom: 12px;
   }
   &__name,
   &__codepoint {
-    margin-left: 26px;
-    display: block;
     line-height: 1;
   }
   &__name {
-    color: #444;
+    color: transparentize($colorBlack, 0.2);
     font-size: 14px;
     margin-bottom: 4px;
   }
   &__codepoint {
-    color: $colorGreen;
+    color: transparentize($colorBlack, 0.4);
     font-size: 12px;
-    font-style: italic;
   }
 }
