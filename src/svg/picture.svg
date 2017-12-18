@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="14px" height="10px" viewBox="0 0 14 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>picture</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="text-edit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="picture" fill-rule="nonzero" fill="#000000">
+        <g id="picture" fill="#000000" fill-rule="nonzero">
             <path d="M1,9 C1,8.98990431 12.9931545,8.99540286 12.9931545,8.99540286 C12.9998968,8.99540286 13,1 13,1 C13,1.01009569 1.00684547,1.00459714 1.00684547,1.00459714 C1.00010318,1.00459714 1,9 1,9 Z M0,1 C0,0 1,0 1,0 L13,0 C13,0 14,0 14,1 L14,9 C14,10 13,10 13,10 L1,10 C1,10 0,10 0,9 L0,1 Z M4,5 L6,7 L10,3 L12,5 L12,8 L2,8 L2,7 L4,5 Z M3,4 C3.55228475,4 4,3.55228475 4,3 C4,2.44771525 3.55228475,2 3,2 C2.44771525,2 2,2.44771525 2,3 C2,3.55228475 2.44771525,4 3,4 Z" id="Shape"></path>
         </g>
     </g>
