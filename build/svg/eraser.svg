@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="10px" height="14px" viewBox="0 0 10 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>eraser</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="production" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="eraser" fill="#000000">
-            <path d="M9,10 L9,10 L9,13.0001925 C9,13.5523709 8.54696369,14 8.00296986,14 L1.99703014,14 C1.4463856,14 1,13.5562834 1,13.0001925 L1,10 L0.995397568,10 C0.445654671,10 0,9.5443356 0,9.00460243 L0,0.995397568 C0,0.445654671 0.455664396,0 0.995397568,0 L9.00460243,0 C9.55434533,0 10,0.455664396 10,0.995397568 L10,9.00460243 C10,9.55434533 9.5443356,10 9.00460243,10 L9,10 Z M2,10 L2,13 L8,13 L8,10 L2,10 Z" id="Shape"></path>
+            <path d="M9,10 L9,13.0001925 C9,13.5523709 8.54696369,14 8.00296986,14 L1.99703014,14 C1.4463856,14 1,13.5562834 1,13.0001925 L1,10 L0.995397568,10 C0.445654671,10 0,9.5443356 0,9.00460243 L0,0.995397568 C0,0.445654671 0.455664396,0 0.995397568,0 L9.00460243,0 C9.55434533,0 10,0.455664396 10,0.995397568 L10,9.00460243 C10,9.55434533 9.5443356,10 9.00460243,10 L9,10 Z M2,10 L2,13 L8,13 L8,10 L2,10 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

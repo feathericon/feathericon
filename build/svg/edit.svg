@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>edit</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="text-edit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="edit" fill-rule="nonzero" fill="#000000">
+        <g id="edit" fill="#000000" fill-rule="nonzero">
             <path d="M11,1.70530257e-13 L11,1.00448823 L1,1.00448823 L1,11 L11,11 L11,12 L1,12 C0,12 0,11 0,11 L0,1 C0,1 0,1.64410152e-13 1,1.90753663e-13 C1,1.70530257e-13 11,1.70530257e-13 11,1.70530257e-13 Z M10,2 L11.9973755,4 L8,8 L6,5.99914551 L10,2 Z M5,7 L7,9 L5,9 L5,7 Z" id="Shape"></path>
         </g>
     </g>

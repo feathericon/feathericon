@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>pie-chart</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="pie-chart" fill="#000000">
-            <path d="M5,2 L5,2 L5,7 L10,7 C10,9.76142375 7.76142375,12 5,12 C2.23857625,12 0,9.76142375 0,7 C0,4.23857625 2.23857625,2 5,2 Z M6,-4.4408921e-16 C9.3137085,-4.4408921e-16 12,2.6862915 12,6 L6,6 L6,-4.4408921e-16 L6,-4.4408921e-16 Z" id="Shape"></path>
+            <path d="M5,2 L5,7 L10,7 C10,9.76142375 7.76142375,12 5,12 C2.23857625,12 0,9.76142375 0,7 C0,4.23857625 2.23857625,2 5,2 Z M6,-4.4408921e-16 C9.3137085,-4.4408921e-16 12,2.6862915 12,6 L6,6 L6,-4.4408921e-16 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

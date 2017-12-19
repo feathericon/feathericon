@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>google</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="brand" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="google" fill-rule="nonzero" fill="#000000">
+        <g id="google" fill="#000000" fill-rule="nonzero">
             <path d="M6.993,8.33 L6.993,5.726 L13.545,5.726 C13.643,6.167 13.72,6.58 13.72,7.161 C13.72,11.158 11.039,14 7,14 C3.136,14 0,10.864 0,7 C0,3.136 3.136,0 7,0 C8.89,0 10.472,0.693 11.683,1.827 L9.695,3.759 C9.191,3.283 8.309,2.723 7,2.723 C4.683,2.723 2.793,4.648 2.793,7.007 C2.793,9.366 4.683,11.291 7,11.291 C9.681,11.291 10.668,9.436 10.85,8.337 L6.993,8.337 L6.993,8.33 Z" id="Shape-Copy"></path>
         </g>
     </g>
