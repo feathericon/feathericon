@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2017-12-18: Created with FontForge (http://fontforge.org)
+2018-2-21: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170925 at Mon Dec 18 18:14:01 2017
+Created by FontForge 20170925 at Wed Feb 21 10:12:56 2018
  By Megumi Hano
 
 </metadata>
@@ -22,7 +22,7 @@ Created by FontForge 20170925 at Mon Dec 18 18:14:01 2017
     bbox="-0.36 -103 512 448.287"
     underline-thickness="22.4"
     underline-position="-44.8"
-    unicode-range="U+0020-F1F6"
+    unicode-range="U+0020-F1F7"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -171,6 +171,8 @@ c-17 7 -31 16 -45 30s-23 28 -30 45c-6 16 -10 35 -11 62s-2 36 -2 106s1 79 2 106s5
 c-4 -9 -7 -23 -8 -48c-1 -27 -2 -35 -2 -103s1 -76 2 -103c1 -25 4 -39 8 -48c5 -12 11 -20 20 -29s17 -15 29 -20c9 -4 23 -7 48 -8c27 -1 35 -2 103 -2s76 1 103 2c25 1 39 4 48 8c12 5 20 11 29 20s15 17 20 29c4 9 7 23 8 48c1 27 2 35 2 103s-1 76 -2 103
 c-1 25 -4 39 -8 48c-5 12 -11 20 -20 29s-17 15 -29 20c-9 4 -23 7 -48 8c-27 1 -35 2 -103 2zM256 107c47 0 85 38 85 85s-38 85 -85 85s-85 -38 -85 -85s38 -85 85 -85zM256 323c73 0 131 -58 131 -131s-58 -131 -131 -131s-131 58 -131 131s58 131 131 131zM423 329
 c0 -17 -13 -31 -30 -31s-31 14 -31 31s14 30 31 30s30 -13 30 -30z" />
+    <glyph glyph-name="beginner" unicode="&#xf1f7;" 
+d="M43 404v-341l213 -80v340zM57 445l199 -75l199 75c22 8 46 -3 54 -26c2 -5 3 -10 3 -15v-341c0 -19 -11 -35 -28 -41l-213 -81c-9 -4 -21 -4 -30 0l-213 81c-17 6 -28 22 -28 41v341c0 24 19 44 43 44c5 0 9 -1 14 -3z" />
     <glyph glyph-name="picture" unicode="&#xf1a9;" 
 d="M37 119h438v292h-438v-292zM0 411c0 37 37 37 37 37h438s37 0 37 -37v-292c0 -37 -37 -37 -37 -37h-438s-37 0 -37 37v292zM146 265l73 -73l147 146l73 -73v-110h-366v37zM110 302c-20 0 -37 16 -37 36s17 37 37 37s36 -17 36 -37s-16 -36 -36 -36z" />
     <glyph glyph-name="globe" unicode="&#xf12c;" 
