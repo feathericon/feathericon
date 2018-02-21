@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "ce3fc9cbc24ebec3aae6fafda474e7d16952d04dfc4d2680ef59de8bfa8da8a5",
-    "current": "ce3fc9cbc24ebec3aae6fafda474e7d16952d04dfc4d2680ef59de8bfa8da8a5"
+    "previous": "5dec186ec2f8395c3f6cbf95fde157ee87f78125b2c7fc07fc62c0fae081e081",
+    "current": "5dec186ec2f8395c3f6cbf95fde157ee87f78125b2c7fc07fc62c0fae081e081"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -90,6 +90,10 @@
     "beer": {
       "codepoint": 61703,
       "source": "src/svg/beer.svg"
+    },
+    "beginner": {
+      "codepoint": 61943,
+      "source": "src/svg/beginner.svg"
     },
     "bell": {
       "codepoint": 61704,
