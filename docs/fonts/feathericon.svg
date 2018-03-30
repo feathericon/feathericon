@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2018-2-21: Created with FontForge (http://fontforge.org)
+2018-3-30: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170925 at Wed Feb 21 10:12:56 2018
+Created by FontForge 20170925 at Fri Mar 30 11:49:16 2018
  By Megumi Hano
 
 </metadata>
@@ -22,7 +22,7 @@ Created by FontForge 20170925 at Wed Feb 21 10:12:56 2018
     bbox="-0.36 -103 512 448.287"
     underline-thickness="22.4"
     underline-position="-44.8"
-    unicode-range="U+0020-F1F7"
+    unicode-range="U+0020-F1F8"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -429,6 +429,9 @@ d="M0 448l219 -146l-219 -147v293zM219 448l220 -146l-220 -147v293zM439 448h73v-29
 d="M127 434c8 -10 31 -38 39 -48s23 -30 -23 -70c-28 -24 -30 -51 48 -148c76 -95 103 -99 130 -74c47 40 62 22 70 12l39 -49c8 -10 23 -29 -19 -74s-43 -54 -68 -43s-123 57 -216 172c-93 116 -119 226 -125 253s2 26 52 62s65 17 73 7z" />
     <glyph glyph-name="flag" unicode="&#xf129;" horiz-adv-x="475" 
 d="M37 341c-21 8 -37 28 -37 52c0 30 25 55 55 55s55 -25 55 -55c0 -24 -16 -44 -37 -52v-405h-36v405zM110 338h365v-219h-365v219z" />
+    <glyph glyph-name="train" unicode="&#xf1f8;" horiz-adv-x="439" 
+d="M73 9c-40 0 -73 33 -73 73v293c0 40 33 73 73 73h293c40 0 73 -33 73 -73v-293c0 -40 -33 -73 -73 -73l36 -36v-37h-109v73h-147v-73h-109v37zM73 82c20 0 37 17 37 37s-17 36 -37 36s-36 -16 -36 -36s16 -37 36 -37zM366 82c20 0 36 17 36 37s-16 36 -36 36
+s-37 -16 -37 -36s17 -37 37 -37zM73 375v-183h293v183h-293z" />
     <glyph glyph-name="link" unicode="&#xf136;" 
 d="M128 288v-32c-32 0 -128 0 -128 96s96 96 96 96h160s96 0 96 -96s-96 -96 -96 -96v32s64 0 64 64s-64 64 -64 64h-160s-64 0 -64 -64s64 -64 96 -64zM384 320v32c32 0 128 0 128 -96s-96 -96 -96 -96h-160s-96 0 -96 96s96 96 96 96v-32s-64 0 -64 -64s64 -64 64 -64h160
 s64 0 64 64s-64 64 -96 64z" />
