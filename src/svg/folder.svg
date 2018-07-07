@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="14px" height="12px" viewBox="0 0 14 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <title>folder</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="folder" fill="#000000">
-            <path d="M1,12 L13,12 C14,12 14,11 14,11 L14,3 C14,3 14,2 13,2 L7,2 L7,1 C7,0 6,0 6,0 L3,0 C3,0 2,0 2,1 C2.00067687,1.01840769 2,2 2,2 L1,2 C0,2 0,3 0,3 L0,11 C0,11 0,12 1,12 Z" id="Shape"></path>
+        <g id="folder" fill="#000000" fill-rule="nonzero">
+            <path d="M11,5 L19,5 C20.1045695,5 21,5.8954305 21,7 L21,19 C21,20.1045695 20.1045695,21 19,21 L5,21 C3.8954305,21 3,20.1045695 3,19 C3,9.66666667 3,5 3,5 C3,3.9000001 3.9000001,3 5,3 C5,3 6.33333333,3 9,3 L11,5 Z M5,7 L5,19 L19,19 L19,7 L5,7 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

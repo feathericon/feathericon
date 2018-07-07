@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <title>diamond</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="shape" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="diamond" fill="#000000">
-            <path d="M8,1 L8.5,1 L10.5,4 L9,4 L8,1 Z M4,1 L3.5,1 L1.5,4 L3,4 L4,1 Z M6,12 L0,4 L3,0 L9,0 L12,4 L6,12 Z M5,1 L6.99693544,1 L8,4 L4,4 L5,1 Z M5,5 L6.99693544,5 L6,10 L5,5 Z M2,5 L4,5 L5,9 L2,5 Z M10,5 L8,5 L7,9 L10,5 Z" id="Shape"></path>
+        <g id="diamond" fill="#000000" fill-rule="nonzero">
+            <path d="M12,17.8759001 L18.6261763,9.92448856 L16.163932,5 L7.83606798,5 L5.3738237,9.92448856 L12,17.8759001 Z M6.6,3 L17.4,3 L21,10.2 L12,21 L3,10.2 L6.6,3 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

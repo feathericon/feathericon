@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="14px" height="10px" viewBox="0 0 14 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <title>picture</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="text-edit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="picture" fill="#000000" fill-rule="nonzero">
-            <path d="M1,9 C1,8.98990431 12.9931545,8.99540286 12.9931545,8.99540286 C12.9998968,8.99540286 13,1 13,1 C13,1.01009569 1.00684547,1.00459714 1.00684547,1.00459714 C1.00010318,1.00459714 1,9 1,9 Z M0,1 C0,0 1,0 1,0 L13,0 C13,0 14,0 14,1 L14,9 C14,10 13,10 13,10 L1,10 C1,10 0,10 0,9 L0,1 Z M4,5 L6,7 L10,3 L12,5 L12,8 L2,8 L2,7 L4,5 Z M3,4 C3.55228475,4 4,3.55228475 4,3 C4,2.44771525 3.55228475,2 3,2 C2.44771525,2 2,2.44771525 2,3 C2,3.55228475 2.44771525,4 3,4 Z" id="Shape"></path>
+            <path d="M4,6 L4,18 L20,18 L20,6 L4,6 Z M4,4 L20,4 C21.1045695,4 22,4.8954305 22,6 L22,18 C22,19.1045695 21.1045695,20 20,20 L4,20 C2.8954305,20 2,19.1045695 2,18 L2,6 C2,4.8954305 2.8954305,4 4,4 Z M7.5,11 C8.32842712,11 9,10.3284271 9,9.5 C9,8.67157288 8.32842712,8 7.5,8 C6.67157288,8 6,8.67157288 6,9.5 C6,10.3284271 6.67157288,11 7.5,11 Z M7,14 L9,12 L11,14 L15,10 L18,13 L18,16 L7,16 L7,14 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

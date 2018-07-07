@@ -28,7 +28,7 @@ $feathericon-font-path: '../fonts/' !default;
 //
 .fe {
   display: inline-block;
-  font: normal normal normal 14px feathericon;
+  font: normal normal normal 16px feathericon;
   font-size: inherit;
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
@@ -211,7 +211,6 @@ $feathericon-font-path: '../fonts/' !default;
 .fe-quote-right:before { content: "\f14c"; }
 .fe-rage:before { content: "\f1bb"; }
 .fe-random:before { content: "\f189"; }
-.fe-reload:before { content: "\f193"; }
 .fe-remove-cart:before { content: "\f1eb"; }
 .fe-rocket:before { content: "\f14d"; }
 .fe-scale:before { content: "\f1c9"; }

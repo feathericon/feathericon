@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <title>cocktail</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="food" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="cocktail" fill="#000000">
-            <path d="M5,7 L0,2 L0,0 L12,0 L12,2 L7,7 L7,11 L10,11 L10,12 L2,12 C2,12 1.99742112,11 2,11 L5,11 L5,7 Z M3,3 L9,3 L11,1 L1,1 L3,3 Z" id="Shape"></path>
+        <g id="cocktail" fill="#000000" fill-rule="nonzero">
+            <path d="M13,19 L16,19 C16.5522847,19 17,19.4477153 17,20 C17,20.5522847 16.5522847,21 16,21 L8,21 C7.44771525,21 7,20.5522847 7,20 C7,19.4477153 7.44771525,19 8,19 L11,19 L11,12.25 L4.8,7.6 C4.29638831,7.22229124 4,6.62951461 4,6 L4,5 C4,3.8954305 4.8954305,3 6,3 L18,3 C19.1045695,3 20,3.8954305 20,5 L20,6 C20,6.62951461 19.7036117,7.22229124 19.2,7.6 L13,12.25 L13,19 Z M6,5 L6,6 L12,10 L18,6 L18,5 L6,5 Z" id="Shape"></path>
         </g>
     </g>
 </svg>
