@@ -17,8 +17,8 @@
 </div>
 <p align="center">Website: <a href="http://feathericon.com">http://feathericon.com</a></p>
 
-feathericon v1.0.0-beta is now available - the brand new design icons 🎉🎉
-You can also use [old version](https://github.com/feathericon/feathericon/releases/tag/v0.11.0).
+<p align="center">feathericon v1.0.0-beta is now available - the brand new design icons 🎉🎉<br>
+You can also use [old version](https://github.com/feathericon/feathericon/releases/tag/v0.11.0).</p>
 
 ## Getting Started
 ### Basic
