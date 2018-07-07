@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <title>activity</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="activity" fill="#000000">
-            <path d="M0,4 L1,4 L1,10 L0,10 L0,4 Z M3,6 L4,6 L4,10 L3,10 L3,6 Z M6,2 L7,2 L7,10 L6,10 L6,2 Z M9,0 L10,0 L10,10 L9,10 L9,0 Z" id="Shape"></path>
+            <path d="M11,19 C11,19.5522847 10.5522847,20 10,20 C9.44771525,20 9,19.5522847 9,19 L9,8 C9,7.44771525 9.44771525,7 10,7 C10.5522847,7 11,7.44771525 11,8 L11,19 Z M7,19 C7,19.5522847 6.55228475,20 6,20 C5.44771525,20 5,19.5522847 5,19 L5,12 C5,11.4477153 5.44771525,11 6,11 C6.55228475,11 7,11.4477153 7,12 L7,19 Z M13,19 L13,10 C13,9.44771525 13.4477153,9 14,9 C14.5522847,9 15,9.44771525 15,10 L15,19 C15,19.5522847 14.5522847,20 14,20 C13.4477153,20 13,19.5522847 13,19 Z M17,5 C17,4.44771525 17.4477153,4 18,4 C18.5522847,4 19,4.44771525 19,5 L19,19 C19,19.5522847 18.5522847,20 18,20 C17.4477153,20 17,19.5522847 17,19 L17,5 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

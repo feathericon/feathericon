@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="6px" height="12px" viewBox="0 0 6 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <title>bolt</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="weather" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="bolt" fill="#000000">
-            <polygon id="Shape" points="5 0 2 3.25260652e-19 -4.4408921e-16 6 3 6 2 12 6 4 3 4"></polygon>
+            <polygon id="Shape" points="18 2 10 2 6 13 10 13 8 22 17 9 12.0048185 9"></polygon>
         </g>
     </g>
 </svg>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="10px" height="14px" viewBox="0 0 10 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <title>distribute-horizontally</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="production" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="distribute-horizontally" fill="#000000">
-            <path d="M9,0 L10,0 L10,14 L9,14 L9,0 Z M3,2 L7,2 L7,12 L3,12 L3,2 Z M0,0 L1,0 L1,14 L0,14 L0,0 Z" id="Shape"></path>
+            <path d="M7,21 C7,21.5522847 6.55228475,22 6,22 C5.44771525,22 5,21.5522847 5,21 L5,3 C5,2.44771525 5.44771525,2 6,2 C6.55228475,2 7,2.44771525 7,3 L7,21 Z M19,21 C19,21.5522847 18.5522847,22 18,22 C17.4477153,22 17,21.5522847 17,21 L17,3 C17,2.44771525 17.4477153,2 18,2 C18.5522847,2 19,2.44771525 19,3 L19,21 Z M14,17 C14,18.1045695 13.1045695,19 12,19 C10.8954305,19 10,18.1045695 10,17 L10,7 C10,5.8954305 10.8954305,5 12,5 C13.1045695,5 14,5.8954305 14,7 L14,17 Z" id="Shape"></path>
         </g>
     </g>
 </svg>
