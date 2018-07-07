@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "261a4eee96853face8c5e1cf4a687d824d5ad369f2279ed8b899253768434203",
-    "current": "261a4eee96853face8c5e1cf4a687d824d5ad369f2279ed8b899253768434203"
+    "previous": "5d770b60cc956fb871ddeada37b265373b6c0ca639ca37458583f89ee33296da",
+    "current": "5d770b60cc956fb871ddeada37b265373b6c0ca639ca37458583f89ee33296da"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -973,7 +973,7 @@
     "font_design_size": 24,
     "font_em": 448,
     "font_name": "feathericon",
-    "force": false,
+    "force": true,
     "input": {
       "templates": "src/templates",
       "vectors": "src/svg"
