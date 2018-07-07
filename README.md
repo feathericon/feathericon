@@ -8,10 +8,10 @@
   <a href="https://travis-ci.org/feathericon/feathericon">
     <img src="https://travis-ci.org/feathericon/feathericon.svg?branch=master" alt="Build Status">
   </a>
-  <a href="https://www.npmjs.com/packages/feathericon">
+  <a href="https://www.npmjs.com/package/feathericon">
     <img src="https://badge.fury.io/js/feathericon.svg" alt="npm version" height="18">
   </a>
-  <a href="https://www.npmjs.com/packages/feathericon">
+  <a href="https://www.npmjs.com/package/feathericon">
     <img src="https://img.shields.io/npm/dm/feathericon.svg?style=flat" alt="npm downloads">
   </a>
 </div>
