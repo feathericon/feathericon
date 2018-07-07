@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="12px" height="14px" viewBox="0 0 12 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <title>align-top</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="production" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="align-top" fill="#000000">
-            <path d="M7,4 L10,4 L10,14 L7,14 L7,4 Z M2,4 L5,4 L5,10 L2,10 L2,4 Z M5.67879077e-14,0 L12,0 L12,2 L5.67879077e-14,2 L5.67879077e-14,0 Z" id="Shape"></path>
+            <path d="M4.8,3 L19.2,3 C19.6418278,3 20,3.44771525 20,4 C20,4.55228475 19.6418278,5 19.2,5 L4.8,5 C4.3581722,5 4,4.55228475 4,4 C4,3.44771525 4.3581722,3 4.8,3 Z M7,9 C7,7.8954305 7.8954305,7 9,7 C10.1045695,7 11,7.8954305 11,9 L11,19 C11,20.1045695 10.1045695,21 9,21 C7.8954305,21 7,20.1045695 7,19 L7,9 Z M13,9 C13,7.8954305 13.8954305,7 15,7 C16.1045695,7 17,7.8954305 17,9 L17,15 C17,16.1045695 16.1045695,17 15,17 C13.8954305,17 13,16.1045695 13,15 L13,9 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

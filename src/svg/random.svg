@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="12px" height="10px" viewBox="0 0 12 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <title>random</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="media-player" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="random" fill="#000000">
-            <path d="M9,3 L7,5 L9,7 L10,7 L10,6 L12,8 L10,10 L10,9 L8,9 L6,7 L4,9 L0,9 L0,7 L3,7 L5,5 L3,3 L0,3 L0,1 L4,1 L6,3 L8,1 L10,1 L10,0 L12,2 L10,4 C10,4 10.0245038,3.0490075 10,3 C9.97549625,2.9509925 9,3 9,3 Z" id="Shape"></path>
+            <path d="M4,17 C3.44771525,17 3,16.5522847 3,16 C3,15.4477153 3.44771525,15 4,15 L6,15 L9,12 L6,9 L4,9 C3.45000005,9 3,8.55245148 3,8.00122564 C3,7.44999981 3.45000005,7 4,7 L7,7 L11,11 L15,7 L17,7 L17,5 L21,8.00122564 L17,11 L17,9 L16,9 L13,12 L16,15 L17,15 L17,13 L21,16 L17,19 L17,17 L15,17 L11,13 L7,17 L4,17 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

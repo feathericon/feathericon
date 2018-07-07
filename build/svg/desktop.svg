@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="14px" height="12px" viewBox="0 0 14 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <title>desktop</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="devices" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="desktop" fill="#000000">
-            <path d="M5.99809103,11 L5.99809105,10.0009766 L1,10.0009766 C1,10.0009766 5.32907052e-15,10 0,9 C0,9 3.55271368e-15,0.953812795 3.55271368e-15,1 C3.55271368e-15,5.86113824e-10 1,5.86000137e-10 1,5.86000137e-10 L13,0 C13,0 14,5.86000137e-10 14,1 C14,1 14,9 14,9 C14,10.0009766 13,10.0009766 13,10.0009766 L8,10.0009766 L8,11 L10,11 C10,11 10,12 9,12 L5,12 C4,12 4,11 4,11 L5.99809103,11 Z M1,1 L1,9 L13,9 L13,1 L1,1 Z" id="shape"></path>
+            <path d="M13,18 L15,18 C15.5522847,18 16,18.4477153 16,19 C16,19.5522847 15.5522847,20 15,20 L9,20 C8.44771525,20 8,19.5522847 8,19 C8,18.4477153 8.44771525,18 9,18 L11,18 L11,16 L4,16 C2.8954305,16 2,15.1045695 2,14 L2,6 C2,4.8954305 2.8954305,4 4,4 L20,4 C21.1045695,4 22,4.8954305 22,6 L22,14 C22,15.1045695 21.1045695,16 20,16 L13,16 L13,18 Z M4,6 L4,14 L20,14 L20,6 L4,6 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

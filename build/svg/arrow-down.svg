@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="10px" height="7px" viewBox="0 0 10 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <title>arrow-down</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="directional" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="arrow-down" fill="#000000">
-            <polygon id="Shape" points="9 0 5 3.999 1 0 0 0.99933 4.99999994 5.99933 10 0.99933"></polygon>
+            <polygon id="Shape" points="6 7 12 13 18 7 20 9 12 17 4 9"></polygon>
         </g>
     </g>
 </svg>

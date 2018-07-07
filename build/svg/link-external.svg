@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <title>link-external</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="link-external" fill="#000000">
-            <path d="M3.05311332e-16,8.99999999 L0,2.99999999 C0,1.99999999 1,1.99999999 1,1.99999999 L4,1.99999999 L4,3 L1,3 L1,9 L7,9 L7,6 L8,6.00001811 L8,9 C8,9.99999999 7,9.99999999 7,9.99999999 L1,9.99999999 C1,9.99999999 3.05311332e-16,9.99999999 3.05311332e-16,8.99999999 Z M9.00000001,2 L5.00000001,6 L4.00000001,5 L8.00000001,1 L5,1 L5,0 L10,4.9106319e-09 L10,5 L9.00000001,5 L9.00000001,2 Z" id="Shape"></path>
+            <path d="M6,8 C9.33333333,8 11,8 11,8 C11,8 11,8.66666667 11,10 L6,10 L6,18 L14,18 L14,13 L16,13 L16,18 C16,19.1045695 15.1045695,20 14,20 L6,20 C4.8954305,20 4,19.1045695 4,18 L4,10 C4,8.8954305 4.8954305,8 6,8 Z M16.613961,6 L12,6 L12,4 L20,4 L20,12 L18,12 L18,7.44238816 L12.6642136,12.7781746 L11.25,11.363961 L16.613961,6 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

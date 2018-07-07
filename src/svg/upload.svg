@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="10px" height="12px" viewBox="0 0 10 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <title>upload</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="upload" fill="#000000">
-            <path d="M2,7 L1,6 L5,2 L9,6 L8,7 L6,5 L6,12 L4,12 L4,5 L2,7 Z M0,0 L10,0 L10,1 L0,1 L0,0 Z" id="Shape"></path>
+            <path d="M13,5.82842712 L13,17 L11,17 L11,5.82842712 L7.75735931,9.07106781 L6.34314575,7.65685425 L12,2 L17.6568542,7.65685425 L16.2426407,9.07106781 L13,5.82842712 Z M5,19 L19,19 C19.5522847,19 20,19.4477153 20,20 C20,20.5522847 19.5522847,21 19,21 L5,21 C4.44771525,21 4,20.5522847 4,20 C4,19.4477153 4.44771525,19 5,19 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

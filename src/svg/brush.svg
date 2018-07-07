@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <title>brush</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="production" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="brush" fill="#000000">
-            <path d="M2,12 L-4.11337631e-14,12 C-4.11337631e-14,12 -5.69266856e-14,10.4715339 -5.69266856e-14,10 C-5.69266856e-14,8.8954305 0.8954305,8 2,8 C3.1045695,8 4,8.8954305 4,10 C4,11.1045695 3.1045695,12 2,12 Z M11.0045395,0 L12,1 L5,9 L3,7 L11.0045395,0 Z" id="Shape"></path>
+            <path d="M5.26109556,16.011267 C5.09492833,16.30288 5,16.6403542 5,17 C5,18.1045695 5.8954305,19 7,19 C7.35964583,19 7.69711995,18.9050717 7.98873295,18.7389044 C7.87662134,19.9214636 6.94074982,20.8640407 5.76123928,20.9865147 C5.67537602,20.9954303 5.58822166,21 5.5,21 L3,21 L3,18.5 C3,17.1998702 3.99245122,16.1315399 5.26109556,16.011267 Z M19,3 C20.1000004,3 21,4.00584923 21,5 C21,5 16.6666667,9.33333333 8,18 L6,16 C14.6666667,7.33333333 19,3 19,3 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

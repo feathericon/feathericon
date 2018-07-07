@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="14px" height="10px" viewBox="0 0 14 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <title>book</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="book" fill="#000000">
-            <path d="M13,9 C14,9 14,8 14,8 L14,1 C14,1 14,4.19580317e-08 13,3.97903932e-13 C13,4.1958035e-08 8,0 8,0 L7,1 L6,0 C6,0 0.9999996,4.1958035e-08 1,3.97903932e-13 C2.84184568e-14,4.19580317e-08 2.84184568e-14,1 2.84184568e-14,1 L2.84184568e-14,8 C2.84184568e-14,8 5.22585447e-17,9 1,9 L6,9 C6,9.48326585 6.5,9.99938495 7,9.99938495 C7.5,9.99938495 8,9.48324916 8,9 L13,9 Z M9,2 L12,2 L12,3 L9,3 L9,2 Z M9,4 L12,4 L12,5 L9,5 L9,4 Z M9,6 L12,6 L12,7 L9,7 L9,6 Z M2,2 L5,2 L5,3 L2,3 L2,2 Z M2,4 L5,4 L5,5 L2,5 L2,4 Z M2,6 L5,6 L5,7 L2,7 L2,6 Z M1,1 L5,1 L6,2 L6,8 L1,8 L1,1 Z M8,2 L9,1 L13,1 L13,7.989605 L8,7.989605 L8,2 Z" id="Shape"></path>
+        <g id="book" fill="#000000" fill-rule="nonzero">
+            <path d="M13,16.0056677 L20,15.9589048 L20,5.99176953 L14.8295635,5.99886367 L13.0155542,7.8128729 L13,16.0056677 Z M11,7.8128729 L9.17880413,6.03818338 L4,6.00275313 L4,15.9589048 L11,16.0056513 L11,7.8128729 Z M10,4.04375471 L12,6 L14,4 L19.9972559,3.99177141 C21.1018243,3.99025588 21.9984826,4.88445696 21.9999981,5.98902542 L22,15.9589048 C22,17.0581347 21.1128866,17.9513379 20.0136825,17.958858 L14,18 L12.0040931,20 L10,18 L3.98631753,17.958858 C2.88711335,17.9513379 2,17.0581347 2,15.9589048 L2,6.00275313 C2,4.89818363 2.8954305,4.00275313 4,4.00275313 C4.00304058,4.00275313 6.00304058,4.01642032 10,4.04375471 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <title>logout</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="logout" fill="#000000" fill-rule="nonzero">
-            <path d="M12,1.00247329 L12,3 L10.9975267,3 L10.9975267,1.00247329 L1,1.00247329 L1,10.9975267 L10.9975267,11 L10.9975267,9 L12,9 L12,10.9975267 C12,11.544239 11.5511774,12 10.9975267,12 L1.00247329,12 C0.455760956,12 1.77635684e-15,11.5511774 1.77635684e-15,10.9975267 L1.77635684e-15,1.00247329 C1.77635684e-15,0.455760956 0.448822582,0 1.00247329,0 L10.9975267,0 C11.544239,0 12,0.448822582 12,1.00247329 Z M3,5 L9,5 L7,3 L8,2 L12,6 L8,10 L7,9 L9,7 L3,7 L3,5 Z" id="Shape"></path>
+        <g id="logout" fill="#000000">
+            <path d="M3,5 C3,3.9000001 3.9000001,3 5,3 C5,3 7.66666667,3 13,3 L13,5 L5,5 L5,19 L13,19 L13,21 C7.66666667,21 5,21 5,21 C3.9000001,21 3,20.1000004 3,19 C3,9.6236114 3,5 3,5 Z M17.1757866,11 L14.6402527,8.46446609 L16.0544662,7.05025253 L21.0042137,12 L16.0544662,16.9497475 L14.6402527,15.5355339 L17.1757866,13 L10.5900002,13 L10.5900002,11 L17.1757866,11 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

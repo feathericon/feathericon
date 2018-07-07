@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <title>magic</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="magic" fill="#000000">
-            <path d="M1,3 L3,1 L14,12 L12,14 L1,3 Z M9.5,1 L10,1.99929345 L11,2.5 L10,2.99607448 L9.5,4 L9,3 L8,2.5 L9,2 L9.5,1 Z M7,0 L7.33333333,0.666195636 L8,1 L7.33333333,1.33071632 L7,2 L6.66666667,1.33333333 L6,1 L6.66666667,0.666666667 L7,0 Z M12,0 L12.3333333,0.666195636 L13,1 L12.3333333,1.33071632 L12,2 L11.6666667,1.33333333 L11,1 L11.6666667,0.666666667 L12,0 Z M1,6 L1.33333333,6.66619564 L2,7 L1.33333333,7.33071632 L1,8 L0.666666667,7.33333333 L0,7 L0.666666667,6.66666667 L1,6 Z" id="Shape"></path>
+            <path d="M3,5 L5,3 L21,19 L19,21 L3,5 Z M13,5 L14,3 L15,5 L17,6 L15,7 L14,9 L13,7 L11,6 L13,5 Z M5,15 L6,13 L7,15 L9,16 L7,17 L6,19 L5,17 L3,16 L5,15 Z M4,9 L5,10 L4,11 L3,10 L4,9 Z M18,10 L19,11 L18,12 L17,11 L18,10 Z" id="Shape"></path>
         </g>
     </g>
 </svg>
