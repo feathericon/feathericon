@@ -1,4 +1,6 @@
 ![feathericon](https://raw.githubusercontent.com/featherplain/feathericon/master/docs/img_feathericon_white.png "feathericon")
+<br>
+![feathericon](https://raw.githubusercontent.com/featherplain/feathericon/master/docs/img_feathericon_green.png "feathericon")
 
 <h1 align="center">feathericon</h1>
 <p align="center">feathericon is simple, scalable vector icon font for websites, apps.</p>
@@ -6,16 +8,20 @@
   <a href="https://travis-ci.org/feathericon/feathericon">
     <img src="https://travis-ci.org/feathericon/feathericon.svg?branch=master" alt="Build Status">
   </a>
-  <a href="https://npmjs.org/packages/feathericon">
+  <a href="https://www.npmjs.com/packages/feathericon">
     <img src="https://badge.fury.io/js/feathericon.svg" alt="npm version" height="18">
   </a>
-  <a href="https://npmjs.org/packages/feathericon">
+  <a href="https://www.npmjs.com/packages/feathericon">
     <img src="https://img.shields.io/npm/dm/feathericon.svg?style=flat" alt="npm downloads">
   </a>
 </div>
 <p align="center">Website: <a href="http://feathericon.com">http://feathericon.com</a></p>
 
+feathericon v1.0.0-beta is now available - the brand new design icons 🎉🎉
+You can also use [old version](https://github.com/feathericon/feathericon/releases/tag/v0.11.0).
+
 ## Getting Started
+### Basic
 1. Download **[ZIP folder from here](https://github.com/feathericon/feathericon/archive/release.zip)**.
 1. Copy the `css/` and `fonts/` directory to your project.
 1. In the `<head>` of your html, reference the location to your `feathericon.min.css`.
@@ -50,7 +56,7 @@
 
 ### For developers
 #### Node.js projects
-1. Install via [npm](https://npmjs.org) or [yarn](https://yarnpkg.com/).
+1. Install via [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/).
 
   ```bash
   $ npm install feathericon --save
@@ -125,4 +131,4 @@ If you want to tweak font settings, edit `fontcustom.yml`. feathericon is using 
 If you have any ideas or find bugs, please send me Pull Requests or let me know with GitHub Issues :)
 
 ## License
-[MIT](https://github.com/featherplain/feathericon/blob/master/LICENSE) (C) 2016 Megumi Hano
+[MIT](https://github.com/featherplain/feathericon/blob/master/LICENSE) (C) 2018 Megumi Hano
