@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <title>eject</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="media-player" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="eject" fill="#000000">
-            <path d="M5.00021982,0 L10.0004394,6.00043384 L0,6.00043384 L5.00021982,0 Z M0,8 L10,8 L10,10 L0,10 L0,8 Z" id="Shape"></path>
+            <path d="M7,16 L17,16 C17.5522847,16 18,16.4477153 18,17 C18,17.5522847 17.5522847,18 17,18 L7,18 C6.44771525,18 6,17.5522847 6,17 C6,16.4477153 6.44771525,16 7,16 Z M12.9728048,6.43468402 L17.8035021,12.4827254 C18.1617019,12.9311921 18.0165127,13.5371155 17.4792132,13.8360933 C17.2871449,13.9429687 17.0614725,14 16.8306352,14 L7.16924054,14 C6.52348682,14 6,13.5630624 6,13.0240725 C6,12.8314001 6.06832811,12.6430386 6.19637361,12.4827254 L11.0270709,6.43468402 C11.3852706,5.98621736 12.1112163,5.86503267 12.6485158,6.16401044 C12.7769596,6.23548235 12.8871756,6.32747616 12.9728048,6.43468402 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

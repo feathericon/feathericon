@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <title>picture-square</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="text-edit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="picture-square" fill="#000000" fill-rule="nonzero">
-            <path d="M1,13 C1,12.9848565 12.9931545,12.9931043 12.9931545,12.9931043 C12.9998968,12.9931043 13,1 13,1 C13,1.01514354 1.00684547,1.00689571 1.00684547,1.00689571 C1.00010318,1.00689571 1,13 1,13 Z M0,1 C0,0 1,0 1,0 L13,0 C13,0 14,0 14,1 L14,13 C14,14 13,14 13,14 L1,14 C1,14 0,14 0,13 L0,1 Z M4,8 L6,10 L10,6 L12,8 L12,12 L2,12 L2,10 L4,8 Z M4.5,6 C5.32842712,6 6,5.32842712 6,4.5 C6,3.67157288 5.32842712,3 4.5,3 C3.67157288,3 3,3.67157288 3,4.5 C3,5.32842712 3.67157288,6 4.5,6 Z" id="Shape"></path>
+            <path d="M5,5 L5,19 L19,19 L19,5 L5,5 Z M5,3 L19,3 C20.1045695,3 21,3.8954305 21,5 L21,19 C21,20.1045695 20.1045695,21 19,21 L5,21 C3.8954305,21 3,20.1045695 3,19 L3,5 C3,3.8954305 3.8954305,3 5,3 Z M8.5,10 C9.32842712,10 10,9.32842712 10,8.5 C10,7.67157288 9.32842712,7 8.5,7 C7.67157288,7 7,7.67157288 7,8.5 C7,9.32842712 7.67157288,10 8.5,10 Z M7,14 L9,12 L11,14 L14,11 L17,14 L17,17 L7,17 L7,14 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

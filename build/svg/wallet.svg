@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="12px" height="8px" viewBox="0 0 12 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <title>wallet</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="e-commerce" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="wallet" fill="#000000">
-            <path d="M11,2 L11,1 C11,0.44771525 10.5522847,0 10,0 L1,0 C0.44771525,0 -6.76353751e-17,0.44771525 0,1 L0,7 C6.76353751e-17,7.55228475 0.44771525,8 1,8 L10,8 C10.5522847,8 11,7.55228475 11,7 L11,6 C11.5522847,6 12,5.55228475 12,5 L12,3 C12,2.44771525 11.5522847,2 11,2 Z M9,5 C9.55228475,5 10,4.55228475 10,4 C10,3.44771525 9.55228475,3 9,3 C8.44771525,3 8,3.44771525 8,4 C8,4.55228475 8.44771525,5 9,5 Z" id="Shape"></path>
+            <path d="M20,9 C21.1000004,9 22,9.89999962 22,11 C22,11 22,13 22,13 C22,14.1000004 21.1000004,15 20,15 L20,18 C20,19.1045695 19.1045695,20 18,20 L4,20 C2.8954305,20 2,19.1045695 2,18 L2,6 C2,4.8954305 2.8954305,4 4,4 L18,4 C19.1045695,4 20,4.8954305 20,6 L20,9 Z M18,9 L18,6 L4,6 L4,18 L18,18 L18,15 L16,15 C14.8999996,15 14,13.8999996 14,13 C14,13 14,11.0324063 14,11.0324063 C14,9.89999962 14.8999996,9 16,9 L18,9 Z M16,13 L18,13 L18,11 L16,11 L16,13 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

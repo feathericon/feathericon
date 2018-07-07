@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "465500aa8b4d736ff1b4a9736ececf429edaec7493d66d18fd1a80987d083c70",
-    "current": "465500aa8b4d736ff1b4a9736ececf429edaec7493d66d18fd1a80987d083c70"
+    "previous": "261a4eee96853face8c5e1cf4a687d824d5ad369f2279ed8b899253768434203",
+    "current": "261a4eee96853face8c5e1cf4a687d824d5ad369f2279ed8b899253768434203"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -703,10 +703,6 @@
       "codepoint": 61833,
       "source": "src/svg/random.svg"
     },
-    "reload": {
-      "codepoint": 61843,
-      "source": "src/svg/reload.svg"
-    },
     "remove-cart": {
       "codepoint": 61931,
       "source": "src/svg/remove-cart.svg"
@@ -974,7 +970,7 @@
     "debug": true,
     "font_ascent": 448,
     "font_descent": 64,
-    "font_design_size": 14,
+    "font_design_size": 24,
     "font_em": 448,
     "font_name": "feathericon",
     "force": false,

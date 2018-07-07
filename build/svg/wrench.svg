@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <title>wrench</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="wrench" fill="#000000">
-            <path d="M5.8714647,3.8714647 L12,10 L10,12 L3.8714647,5.8714647 C3.5956751,5.95505439 3.30308635,6 3,6 C1.34314575,6 0,4.65685425 0,3 C0,2.69691365 0.0449456115,2.4043249 0.128535303,2.1285353 L2,4 L4,2 L2.13181962,0.12754192 C2.40664742,0.0445895746 2.69811648,0 3,0 C4.65685425,0 6,1.34314575 6,3 C6,3.30308635 5.95505439,3.5956751 5.8714647,3.8714647 Z M9.5,10 C9.77614237,10 10,9.77614237 10,9.5 C10,9.22385763 9.77614237,9 9.5,9 C9.22385763,9 9,9.22385763 9,9.5 C9,9.77614237 9.22385763,10 9.5,10 Z" id="Shape"></path>
+            <path d="M14,11.5839563 L14,20 C14,21.1045695 13.1045695,22 12,22 C10.8954305,22 10,21.1045695 10,20 L10,11.5839563 C8.23409522,10.8123997 7,9.05031904 7,7 C7,4.23857625 9.23857625,2 12,2 C12.1315701,2 12.2619533,2.00508183 12.390964,2.01505992 L10,6 L14,8 L16.214708,4.30882001 C16.7118201,5.08574024 17,6.00921611 17,7 C17,9.05031904 15.7659048,10.8123997 14,11.5839563 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="10px" height="14px" viewBox="0 0 10 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <title>underline</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="text-edit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="underline" fill="#000000">
-            <path d="M-5.70654635e-14,0 L2,0.00494849747 C2,0.00494849747 1.99695322,4.28776934 1.99695322,6 C1.99695322,7.71223066 3.49345817,9 4.99513506,9 C6.49681194,9 8,7.7634768 8,6 C8,4.2365232 8,0 8,0 L10,0 C10,0 10,3 10,6 C10,9 7.5,11 5,11 C2.5,11 -5.70654635e-14,9 -5.70654635e-14,6 L-5.70654635e-14,0 Z M-2.22044605e-16,12 L10,12 L10,14 L-2.22044605e-16,14 L-2.22044605e-16,12 Z" id="Shape"></path>
+            <path d="M17,21 L7,21 C6.44771525,21 6,20.5522847 6,20 C6,19.4477153 6.44771525,19 7,19 L17,19 C17.5522847,19 18,19.4477153 18,20 C18,20.5522847 17.5522847,21 17,21 Z M18,4 L18,11 C18,14.3137085 15.3137085,17 12,17 C8.6862915,17 6,14.3137085 6,11 L6,4 C6,3.44771525 6.44771525,3 7,3 C7.55228475,3 8,3.44771525 8,4 L8,11 C8,13.21 9.78999996,15 12,15 C14.21,15 16,13.21 16,11 L16,4 C16,3.44771525 16.4477153,3 17,3 C17.5522847,3 18,3.44771525 18,4 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

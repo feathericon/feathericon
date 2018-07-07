@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="14px" height="10px" viewBox="0 0 14 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
     <title>sunrise</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="weather" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="sunrise" fill="#000000">
-            <path d="M2,7 L12,7 L12,8 L2,8 L2,7 Z M3,9 L11,9 L11,10 L3,10 L3,9 Z M2.05933941,5 L0,5 L0,6 L14,6 L14,5 L11.2193669,5 L12,5 C12,2.23857625 9.76142375,0 7,0 C4.23857625,0 2,2.23857625 2,5 L2.05933941,5 Z M3,5 C3,2.790861 4.790861,1 7,1 C9.209139,1 11,2.790861 11,5 L3,5 Z" id="Shape"></path>
+        <g id="sunrise" fill="#000000" fill-rule="nonzero">
+            <path d="M21,15 L3,15 C2.44771525,15 2,14.5522847 2,14 C2,13.4477153 2.44771525,13 3,13 L4,13 C4,8.581722 7.581722,5 12,5 C16.418278,5 20,8.581722 20,13 L21,13 C21.5522847,13 22,13.4477153 22,14 C22,14.5522847 21.5522847,15 21,15 Z M18,19 L6,19 C5.44771525,19 5,18.5522847 5,18 C5,17.4477153 5.44771525,17 6,17 L18,17 C18.5522847,17 19,17.4477153 19,18 C19,18.5522847 18.5522847,19 18,19 Z M6,13 L18,13 C18,9.6862915 15.3137085,7 12,7 C8.6862915,7 6,9.6862915 6,13 Z" id="Shape"></path>
         </g>
     </g>
 </svg>
