@@ -23,7 +23,7 @@ gulp.task('clean', del.bind(null, [
   paths.destFonts  + '*.*',
   paths.destScss   + '*.scss',
   paths.destCss    + '*.css',
-  paths.srcJade    + 'inc/modules/_icons.jade'
+  paths.srcPug    + 'inc/modules/_icons.pug'
 ]));
 
 //---------------------------------------------------------------------------
