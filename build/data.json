@@ -709,5 +709,11 @@
   },
   "train": {
     "codepoint": 61944
+  },
+  "donut": {
+    "codepoint": 61945
+  },
+  "rice-cracker": {
+    "codepoint": 61946
   }
 }
