@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170925 at Sun Jul  8 14:39:18 2018
+Created by FontForge 20170925 at Sun Jul  8 16:47:06 2018
  By Megumi Hano
 
 </metadata>
@@ -22,7 +22,7 @@ Created by FontForge 20170925 at Sun Jul  8 14:39:18 2018
     bbox="-0.75 -21.25 427.25 405.25"
     underline-thickness="22.4"
     underline-position="-44.8"
-    unicode-range="U+0020-F1FA"
+    unicode-range="U+0020-F1FB"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -91,6 +91,9 @@ d="M171 341h170c24 0 43 -18 43 -42v-256c0 -24 -19 -43 -43 -43h-298c-24 0 -43 19 
 d="M0 277h299l-150 -170z" />
     <glyph glyph-name="columns" unicode="&#xf118;" 
 d="M43 363h341c24 0 43 -19 43 -43v-256c0 -24 -19 -43 -43 -43h-341c-24 0 -43 19 -43 43v256c0 24 19 43 43 43zM299 320v-256h85v256h-85zM43 320v-256h85v256h-85zM171 320v-256h85v256h-85z" />
+    <glyph glyph-name="apron" unicode="&#xf1fb;" horiz-adv-x="341" 
+d="M121 277l-21 -128h-57v-128h256v128h-58l-21 128h-99zM128 384v-64h85v64c0 12 10 21 22 21s21 -9 21 -21v-64l21 -128h22c24 0 42 -19 42 -43v-128c0 -24 -18 -42 -42 -42h-256c-24 0 -43 18 -43 42v128c0 24 19 43 43 43h21l21 128v64c0 12 10 21 22 21s21 -9 21 -21z
+M85 107h171v-43h-171v43z" />
     <glyph glyph-name="coffee" unicode="&#xf166;" horiz-adv-x="384" 
 d="M21 85h342c12 0 21 -9 21 -21s-9 -21 -21 -21h-342c-12 0 -21 9 -21 21s9 21 21 21zM299 299h21c24 0 43 -19 43 -43s-19 -43 -43 -43h-21h-2c-10 -49 -53 -85 -105 -85h-43c-59 0 -106 48 -106 107v64c0 24 18 42 42 42h171c24 0 43 -18 43 -42zM85 299v-64
 c0 -35 29 -64 64 -64h43c35 0 64 29 64 64v64h-171z" />

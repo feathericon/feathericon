@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>apron</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="food" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="apron" fill="#000000" fill-rule="nonzero">
+            <path d="M9.69425418,8 L8.69425418,14 L6,14 L6,20 L18,20 L18,14 L15.3057458,14 L14.3057458,8 L9.69425418,8 Z M10,3 L10,6 L14,6 L14,3 C14,2.44771525 14.4477153,2 15,2 C15.5522847,2 16,2.44771525 16,3 L16,6 L17,12 L18,12 C19.1045695,12 20,12.8954305 20,14 L20,20 C20,21.1045695 19.1045695,22 18,22 L6,22 C4.8954305,22 4,21.1045695 4,20 L4,14 C4,12.8954305 4.8954305,12 6,12 L7,12 L8,6 L8,3 C8,2.44771525 8.44771525,2 9,2 C9.55228475,2 10,2.44771525 10,3 Z M8,16 L16,16 L16,18 L8,18 L8,16 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
