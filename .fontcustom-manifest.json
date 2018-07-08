@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "5d770b60cc956fb871ddeada37b265373b6c0ca639ca37458583f89ee33296da",
-    "current": "5d770b60cc956fb871ddeada37b265373b6c0ca639ca37458583f89ee33296da"
+    "previous": "1b44a502bb33608ed89ec5ca2f9f6307d435bc5f203c07ee5d2daa9be4fee7ca",
+    "current": "1b44a502bb33608ed89ec5ca2f9f6307d435bc5f203c07ee5d2daa9be4fee7ca"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -270,6 +270,10 @@
     "document": {
       "codepoint": 61855,
       "source": "src/svg/document.svg"
+    },
+    "donut": {
+      "codepoint": 61945,
+      "source": "src/svg/donut.svg"
     },
     "download": {
       "codepoint": 61728,
@@ -707,6 +711,10 @@
       "codepoint": 61931,
       "source": "src/svg/remove-cart.svg"
     },
+    "rice-cracker": {
+      "codepoint": 61946,
+      "source": "src/svg/rice-cracker.svg"
+    },
     "rocket": {
       "codepoint": 61773,
       "source": "src/svg/rocket.svg"
@@ -973,7 +981,7 @@
     "font_design_size": 24,
     "font_em": 448,
     "font_name": "feathericon",
-    "force": true,
+    "force": false,
     "input": {
       "templates": "src/templates",
       "vectors": "src/svg"

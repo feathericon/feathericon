@@ -99,6 +99,7 @@
 .fe-distribute-horizontally:before { content: "\f1cf"; }
 .fe-distribute-vertically:before { content: "\f1c5"; }
 .fe-document:before { content: "\f19f"; }
+.fe-donut:before { content: "\f1f9"; }
 .fe-download:before { content: "\f120"; }
 .fe-drop-down:before { content: "\f121"; }
 .fe-drop-left:before { content: "\f122"; }
@@ -208,6 +209,7 @@
 .fe-rage:before { content: "\f1bb"; }
 .fe-random:before { content: "\f189"; }
 .fe-remove-cart:before { content: "\f1eb"; }
+.fe-rice-cracker:before { content: "\f1fa"; }
 .fe-rocket:before { content: "\f14d"; }
 .fe-scale:before { content: "\f1c9"; }
 .fe-search:before { content: "\f14e"; }
