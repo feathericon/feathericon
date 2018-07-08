@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "f1678c595a811196da8c214e3a33a51fb2de274305eb7049df27dff3154556ce",
-    "current": "f1678c595a811196da8c214e3a33a51fb2de274305eb7049df27dff3154556ce"
+    "previous": "dca7ccb07ed78c39c25f3d606c1931ce4d1fe597b4874b4846d9a501bf91deb7",
+    "current": "dca7ccb07ed78c39c25f3d606c1931ce4d1fe597b4874b4846d9a501bf91deb7"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -619,6 +619,10 @@
       "codepoint": 61813,
       "source": "src/svg/music.svg"
     },
+    "octpus": {
+      "codepoint": 61948,
+      "source": "src/svg/octpus.svg"
+    },
     "open-mouth": {
       "codepoint": 61882,
       "source": "src/svg/open-mouth.svg"
@@ -774,6 +778,10 @@
     "speaker": {
       "codepoint": 61867,
       "source": "src/svg/speaker.svg"
+    },
+    "squid": {
+      "codepoint": 61949,
+      "source": "src/svg/squid.svg"
     },
     "star": {
       "codepoint": 61777,
