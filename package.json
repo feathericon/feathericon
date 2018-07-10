@@ -11,7 +11,7 @@
     "after:compile": "gulp after:compile",
     "setup": "bash ./bin/setup.sh",
     "webfont": "bash ./bin/webfont.sh",
-    "server": "gulp server",
+    "start": "gulp server",
     "test": "ava tests/index.js"
   },
   "repository": {
