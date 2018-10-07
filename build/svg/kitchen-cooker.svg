@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>kitchen-cooker</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
     <g id="food" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="kitchen-cooker" fill="#000000" fill-rule="nonzero">
             <path d="M4.26756439,20 L4,20 C2.8954305,20 2,19.1045695 2,18 L2,6 C2,4.8954305 2.8954305,4 4,4 L20,4 C21.1045695,4 22,4.8954305 22,6 L22,18 C22,19.1045695 21.1045695,20 20,20 L19.7324356,20 C19.3866262,20.5978014 18.7402824,21 18,21 C17.2597176,21 16.6133738,20.5978014 16.2675644,20 L7.73243561,20 C7.38662619,20.5978014 6.74028236,21 6,21 C5.25971764,21 4.61337381,20.5978014 4.26756439,20 Z M4,6 L4,18 L20,18 L20,6 L4,6 Z M6,12 L18,12 L18,16 L6,16 L6,12 Z M6,8 L11,8 L11,10 L6,10 L6,8 Z M10,13 L10,14 L14,14 L14,13 L10,13 Z M14,10 C13.4477153,10 13,9.55228475 13,9 C13,8.44771525 13.4477153,8 14,8 C14.5522847,8 15,8.44771525 15,9 C15,9.55228475 14.5522847,10 14,10 Z M17,10 C16.4477153,10 16,9.55228475 16,9 C16,8.44771525 16.4477153,8 17,8 C17.5522847,8 18,8.44771525 18,9 C18,9.55228475 17.5522847,10 17,10 Z" id="Shape"></path>

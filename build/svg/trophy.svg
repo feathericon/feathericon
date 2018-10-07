@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>trophy</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
     <g id="event" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="trophy" fill="#000000">
             <path d="M6.20703249,9 L6,9 C4.8954305,9 4,8.1045695 4,7 C4,5.8954305 4.8954305,5 6,5 L6,4 C6,2.8954305 6.8954305,2 8,2 L16,2 C17.1045695,2 18,2.8954305 18,4 L18,5 C19.1045695,5 20,5.8954305 20,7 C20,8.1045695 19.1045695,9 18,9 L17.7929675,9 C17.1837508,11.1539554 15.2951592,12.7707506 13,12.9775785 L13,17 L14,17 C15.1045695,17 16,17.8954305 16,19 L16,20 L17,20 C17.5522847,20 18,20.4477153 18,21 C18,21.5522847 17.5522847,22 17,22 L7,22 C6.44771525,22 6,21.5522847 6,21 C6,20.4477153 6.44771525,20 7,20 L8,20 L8,19 C8,17.8954305 8.8954305,17 10,17 L11,17 L11,12.9775785 C8.70484079,12.7707506 6.81624919,11.1539554 6.20703249,9 Z M8,4 L8,7.5 C8,9.43299662 9.56700338,11 11.5,11 L12.5,11 C14.4329966,11 16,9.43299662 16,7.5 L16,4 L8,4 Z" id="Shape"></path>

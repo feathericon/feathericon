@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>bold</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
     <g id="text-edit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="bold" fill="#000000">
             <path d="M5,20 C5,20 5,4 5,4 C5,2.9000001 5.9000001,2 7,2 C7,2 8.66666667,2 12,2 C15,2 17.9655172,3.4000001 18,6.91891892 C18,8.75675676 17.0689655,10.6486486 15.4682396,11.2432432 L15.4682396,11.3783784 C17.5009074,11.8918919 19,13.4054054 19,16.1081081 C19,17.1299184 18.7971525,18.0125222 18.4267395,18.7607762 C17.3373286,20.9614441 15.0906889,22 12,22 C8.66666667,22 7,22 7,22 C5.9000001,22 5,21.1000004 5,20 Z M8,19 L12,19 C14.5662432,19 16,17.8000002 16,16 C16,14.1999998 14.5916515,13 12,13 L8,13 L8,19 Z M8,10 L11,10 C13.3883848,10 15,9.14999962 15,7.44999981 C15,5.75 13.5,5 10.9963702,5 L8,5 L8,10 Z" id="Shape"></path>

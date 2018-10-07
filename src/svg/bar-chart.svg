@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>bar-chart</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="bar-chart" fill="#000000">
             <path d="M5,19 L20,19 C20.5522847,19 21,19.4477153 21,20 C21,20.5522847 20.5522847,21 20,21 L4,21 C3.44771525,21 3,20.5522847 3,20 L3,12 C3,11.4477153 3.44771525,11 4,11 C4.55228475,11 5,11.4477153 5,12 L5,19 Z M10,15 C10,15.5522847 9.55228475,16 9,16 C8.44771525,16 8,15.5522847 8,15 L8,6 C8,5.44771525 8.44771525,5 9,5 C9.55228475,5 10,5.44771525 10,6 L10,15 Z M12,15 L12,8 C12,7.44771525 12.4477153,7 13,7 C13.5522847,7 14,7.44771525 14,8 L14,15 C14,15.5522847 13.5522847,16 13,16 C12.4477153,16 12,15.5522847 12,15 Z M16,4 C16,3.44771525 16.4477153,3 17,3 C17.5522847,3 18,3.44771525 18,4 L18,15 C18,15.5522847 17.5522847,16 17,16 C16.4477153,16 16,15.5522847 16,15 L16,4 Z" id="Shape"></path>

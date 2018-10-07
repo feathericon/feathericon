@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>pencil</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="pencil" fill="#000000">
             <path d="M3,18 L14.9997108,6 L18,9 L6,21 L3,21 L3,18 Z M16,5 L17.9997108,3 L21,6 L18.9989741,8.00102587 L16,5 Z" id="Shape"></path>

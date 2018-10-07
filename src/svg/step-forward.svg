@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>step-forward</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
     <g id="production" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="step-forward" fill="#000000" fill-rule="nonzero">
             <path d="M13,9 L13,19 L20,19 C20.5522847,19 21,19.4477153 21,20 C21,20.5522847 20.5522847,21 20,21 L4,21 C3.44771525,21 3,20.5522847 3,20 C3,19.4477153 3.44771525,19 4,19 L11,19 L11,9 L8.76002006,9 C8.34027257,9 8,8.67999596 8,8.28525098 C8,8.14414166 8.04441407,8.0061896 8.12764515,7.88877955 L11.3675847,3.31835356 C11.6004187,2.98990588 12.0722919,2.90115273 12.4215429,3.12011785 C12.5050328,3.17246239 12.5766746,3.23983674 12.6323345,3.31835356 L15.8722741,7.88877955 C16.1051081,8.21722723 16.0107335,8.66099299 15.6614824,8.87995811 C15.5366358,8.95823148 15.3899461,9 15.2398992,9 L13,9 Z M20,13 C20.5522847,13 21,13.4477153 21,14 C21,14.5522847 20.5522847,15 20,15 L15,15 L15,13 L20,13 Z M8,13 L9,13 L9,15 L4,15 C3.44771525,15 3,14.5522847 3,14 C3,13.4477153 3.44771525,13 4,13 L8,13 Z" id="Shape"></path>

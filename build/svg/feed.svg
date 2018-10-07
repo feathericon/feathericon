@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>feed</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="feed" fill="#000000">
             <path d="M6,19 C6.55228475,19 7,18.5522847 7,18 C7,17.4477153 6.55228475,17 6,17 C5.44771525,17 5,17.4477153 5,18 C5,18.5522847 5.44771525,19 6,19 Z M6,21 C4.34314575,21 3,19.6568542 3,18 C3,16.3431458 4.34314575,15 6,15 C7.65685425,15 9,16.3431458 9,18 C9,19.6568542 7.65685425,21 6,21 Z M18.9710764,21 C18.4726521,12.4075035 11.5924965,5.52734787 3,5.02892358 L3,3 C12.9411255,3 21,11.0588745 21,21 L18.9710764,21 Z M13.9589262,21 C13.4779778,15.1702028 8.82979715,10.5220222 3,10.0410738 L3,8 C10.1797017,8 16,13.8202983 16,21 L13.9589262,21 Z" id="Shape"></path>

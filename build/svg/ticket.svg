@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>ticket</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
     <g id="event" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="ticket" fill="#000000">
             <path d="M2,10 L2,8 C2,6.8954305 2.8954305,6 4,6 L20,6 C21.1045695,6 22,6.8954305 22,8 L22,10 C20.8954305,10 20,10.8954305 20,12 C20,13.1045695 20.8954305,14 22,14 L22,16 C22,17.1045695 21.1045695,18 20,18 L4,18 C2.8954305,18 2,17.1045695 2,16 L2,14 C3.1045695,14 4,13.1045695 4,12 C4,10.8954305 3.1045695,10 2,10 Z M5,8 L5,16 L19,16 L19,8 L5,8 Z M7,10 L17,10 L17,14 L7,14 L7,10 Z" id="Shape"></path>

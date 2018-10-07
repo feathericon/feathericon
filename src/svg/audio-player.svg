@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>audio-player</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
     <g id="devices" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="audio-player" fill="#000000">
             <path d="M18,20 C18,21.1045695 17.1045695,22 16,22 L8,22 C6.8954305,22 6,21.1045695 6,20 L6,4 C6,2.8954305 6.8954305,2 8,2 L16,2 C17.1045695,2 18,2.8954305 18,4 L18,20 Z M12,20 C14.209139,20 16,18.209139 16,16 C16,13.790861 14.209139,12 12,12 C9.790861,12 8,13.790861 8,16 C8,18.209139 9.790861,20 12,20 Z M8,4 L8,10 L16,10 L16,4 L8,4 Z M12,18 C13.1045695,18 14,17.1045695 14,16 C14,14.8954305 13.1045695,14 12,14 C10.8954305,14 10,14.8954305 10,16 C10,17.1045695 10.8954305,18 12,18 Z" id="Shape"></path>

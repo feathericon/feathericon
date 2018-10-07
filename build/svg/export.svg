@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>export</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="export" fill="#000000">
             <path d="M13,5.82842712 L13,17 L11,17 L11,5.82842712 L7.75735931,9.07106781 L6.34314575,7.65685425 L12,2 L17.6568542,7.65685425 L16.2426407,9.07106781 L13,5.82842712 Z M4,16 L6,16 L6,20 L18,20 L18,16 L20,16 C20,17.3333333 20,18.6666667 20,20 C20,21.1000004 19.1000004,22 18,22 C18,22 6,22 6,22 C4.9000001,22 4,21.037204 4,20 C4,20 4,18.6666667 4,16 Z" id="Shape"></path>

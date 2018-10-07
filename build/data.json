@@ -724,5 +724,29 @@
   },
   "squid": {
     "codepoint": 61949
+  },
+  "notice-active": {
+    "codepoint": 61952
+  },
+  "notice-off": {
+    "codepoint": 61953
+  },
+  "notice-on": {
+    "codepoint": 61954
+  },
+  "notice-push": {
+    "codepoint": 61955
+  },
+  "bus": {
+    "codepoint": 61950
+  },
+  "car": {
+    "codepoint": 61951
+  },
+  "taxi": {
+    "codepoint": 61956
+  },
+  "vr": {
+    "codepoint": 61957
   }
 }

@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>play</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
     <g id="media-player" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="play" fill="#000000" fill-rule="nonzero">
             <path d="M6,5.91163459 C6,5.75685126 6.03697696,5.60461753 6.10744507,5.46928446 C6.33662312,5.02915104 6.85711733,4.8703993 7.27000143,5.11470253 L17.5597696,11.2031511 C17.6995651,11.285868 17.8148031,11.4087114 17.8923989,11.5577331 C18.1215769,11.9978665 17.9726537,12.552712 17.5597696,12.7970152 L7.27000143,18.8854638 C7.14304703,18.9605827 7.00023832,19 6.85503786,19 C6.38281349,19 6,18.5919218 6,18.0885318 L6,5.91163459 Z" id="Shape"></path>

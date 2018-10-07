@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>music</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="music" fill="#000000">
             <path d="M20,4 L20,17 C20,18.6568542 18.6568542,20 17,20 C15.3431458,20 14,18.6568542 14,17 C14,15.3431458 15.3431458,14 17,14 C17.3506354,14 17.6872211,14.0601542 18,14.1707057 L18,6 L10,6 L10,19 C10,20.6568542 8.65685425,22 7,22 C5.34314575,22 4,20.6568542 4,19 C4,17.3431458 5.34314575,16 7,16 C7.35063542,16 7.68722107,16.0601542 8,16.1707057 L8,4 C8,2.8954305 8.8954305,2 10,2 L18,2 C19.1045695,2 20,2.8954305 20,4 Z" id="Shape"></path>

@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "dca7ccb07ed78c39c25f3d606c1931ce4d1fe597b4874b4846d9a501bf91deb7",
-    "current": "dca7ccb07ed78c39c25f3d606c1931ce4d1fe597b4874b4846d9a501bf91deb7"
+    "previous": "17cac733785bd16aef9b43abd10bf4a56f4bcd10aed24ebd507b98103dd5696d",
+    "current": "17cac733785bd16aef9b43abd10bf4a56f4bcd10aed24ebd507b98103dd5696d"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -139,6 +139,10 @@
       "codepoint": 61710,
       "source": "src/svg/building.svg"
     },
+    "bus": {
+      "codepoint": 61950,
+      "source": "src/svg/bus.svg"
+    },
     "cage": {
       "codepoint": 61927,
       "source": "src/svg/cage.svg"
@@ -150,6 +154,10 @@
     "camera": {
       "codepoint": 61712,
       "source": "src/svg/camera.svg"
+    },
+    "car": {
+      "codepoint": 61951,
+      "source": "src/svg/car.svg"
     },
     "cart": {
       "codepoint": 61928,
@@ -619,6 +627,22 @@
       "codepoint": 61813,
       "source": "src/svg/music.svg"
     },
+    "notice-active": {
+      "codepoint": 61952,
+      "source": "src/svg/notice-active.svg"
+    },
+    "notice-off": {
+      "codepoint": 61953,
+      "source": "src/svg/notice-off.svg"
+    },
+    "notice-on": {
+      "codepoint": 61954,
+      "source": "src/svg/notice-on.svg"
+    },
+    "notice-push": {
+      "codepoint": 61955,
+      "source": "src/svg/notice-push.svg"
+    },
     "octpus": {
       "codepoint": 61948,
       "source": "src/svg/octpus.svg"
@@ -835,6 +859,10 @@
       "codepoint": 61939,
       "source": "src/svg/target.svg"
     },
+    "taxi": {
+      "codepoint": 61956,
+      "source": "src/svg/taxi.svg"
+    },
     "terminal": {
       "codepoint": 61780,
       "source": "src/svg/terminal.svg"
@@ -942,6 +970,10 @@
     "video": {
       "codepoint": 61790,
       "source": "src/svg/video.svg"
+    },
+    "vr": {
+      "codepoint": 61957,
+      "source": "src/svg/vr.svg"
     },
     "wallet": {
       "codepoint": 61934,
