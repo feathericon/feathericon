@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>umbrella</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
     <g id="weather" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="umbrella" fill="#000000">
             <path d="M13,20 C13,21.1045695 12.1045695,22 11,22 C9.8954305,22 9,21.1045695 9,20 C9,18.8954305 9.8954305,18 11,18 L11,13 L3,13 C3,8.36744635 6.50004954,4.55237307 11,4.05492878 L11,3 C11,2.44771525 11.4477153,2 12,2 C12.5522847,2 13,2.44771525 13,3 L13,4.05492878 C17.4999505,4.55237307 21,8.36744635 21,13 L13,13 L13,20 Z M5.28987868,11 L18.7101213,11 C17.8495721,8.10851105 15.1710206,6 12,6 C8.82897936,6 6.15042787,8.10851105 5.28987868,11 Z" id="Shape"></path>

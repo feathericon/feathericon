@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>target</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="target" fill="#000000" fill-rule="nonzero">
             <path d="M19.9381062,13 C19.4868586,16.6187173 16.6187173,19.4868586 13,19.9381062 L13,22 L11,22 L11,19.9381062 C7.38128266,19.4868586 4.51314142,16.6187173 4.06189375,13 L2,13 L2,11 L4.06189375,11 C4.51314142,7.38128266 7.38128266,4.51314142 11,4.06189375 L11,2 L13,2 L13,4.06189375 C16.6187173,4.51314142 19.4868586,7.38128266 19.9381062,11 L22,11 L22,13 L19.9381062,13 Z M12,18 C15.3137085,18 18,15.3137085 18,12 C18,8.6862915 15.3137085,6 12,6 C8.6862915,6 6,8.6862915 6,12 C6,15.3137085 8.6862915,18 12,18 Z M12,15 C13.6568542,15 15,13.6568542 15,12 C15,10.3431458 13.6568542,9 12,9 C10.3431458,9 9,10.3431458 9,12 C9,13.6568542 10.3431458,15 12,15 Z" id="Shape"></path>

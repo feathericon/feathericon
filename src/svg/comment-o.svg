@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>comment-o</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="comment-o" fill="#000000" fill-rule="nonzero">
             <path d="M5,21 L5,16.843038 C3.74920013,15.3831855 3,13.5242246 3,11.5 C3,6.80557963 7.02943725,3 12,3 C16.9705627,3 21,6.80557963 21,11.5 C21,16.1944204 16.9705627,20 12,20 C10.2641033,20 8.64299134,19.535851 7.26820965,18.7317903 L5,21 Z M12,18 C15.8659932,18 19,15.0898509 19,11.5 C19,7.91014913 15.8659932,5 12,5 C8.13400675,5 5,7.91014913 5,11.5 C5,15.0898509 8.13400675,18 12,18 Z" id="Shape"></path>

@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>truck</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
     <g id="vehicles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="truck" fill="#000000">
             <path d="M10,18 C10,19.6568542 8.65685425,21 7,21 C5.34314575,21 4,19.6568542 4,18 C2.8954305,18 2,17.1045695 2,16 L2,6 C2,4.8954305 2.8954305,4 4,4 L15.0012524,4 C16.1051302,4 17,4.89486977 17,5.99874757 L19.9999999,6.00000006 C22,6.00027669 21.999499,8.89562614 21.999499,10 L22,16 C22,17.1045695 21.1045695,18 20,18 L19,18 C19,19.6568542 17.6568542,21 16,21 C14.3431458,21 13,19.6568542 13,18 L10,18 Z M4,6 L4,15 L15,15 L15,6 L4,6 Z M17,8 L17,12 L20,12 L20,8 L17,8 Z M16,19 C16.5522847,19 17,18.5522847 17,18 C17,17.4477153 16.5522847,17 16,17 C15.4477153,17 15,17.4477153 15,18 C15,18.5522847 15.4477153,19 16,19 Z M7,19 C7.55228475,19 8,18.5522847 8,18 C8,17.4477153 7.55228475,17 7,17 C6.44771525,17 6,17.4477153 6,18 C6,18.5522847 6.44771525,19 7,19 Z" id="Shape"></path>

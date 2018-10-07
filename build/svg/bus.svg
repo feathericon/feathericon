@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>bus</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="vehicles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bus" fill="#000000" fill-rule="nonzero">
+            <path d="M16,19 L8,19 C8,20.1045695 7.1045695,21 6,21 C4.8954305,21 4,20.1045695 4,19 L4,5 C4,3.8954305 4.8954305,3 6,3 L18,3 C19.1045695,3 20,3.8954305 20,5 L20,19 C20,20.1045695 19.1045695,21 18,21 C16.8954305,21 16,20.1045695 16,19 Z M17,15 C17.5522847,15 18,14.5522847 18,14 C18,13.4477153 17.5522847,13 17,13 C16.4477153,13 16,13.4477153 16,14 C16,14.5522847 16.4477153,15 17,15 Z M7,15 C7.55228475,15 8,14.5522847 8,14 C8,13.4477153 7.55228475,13 7,13 C6.44771525,13 6,13.4477153 6,14 C6,14.5522847 6.44771525,15 7,15 Z M6,5 L6,11 L18,11 L18,5 L6,5 Z" id="-Shape"></path>
+        </g>
+    </g>
+</svg>

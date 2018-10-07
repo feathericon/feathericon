@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>tag</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="tag" fill="#000000" fill-rule="nonzero">
             <path d="M4.98111634,14.8866981 L9.11330194,19.0188837 L19.0188837,9.11330194 L19.0188837,4.98111634 L14.8866981,4.98111634 L4.98111634,14.8866981 Z M13.4858373,3.58025554 C13.8573686,3.20872416 14.3612733,3 14.8866981,3 L19.0188837,3 C20.113024,3 21,3.886976 21,4.98111634 L21,9.11330194 C21,9.63872666 20.7912758,10.1426314 20.4197445,10.5141627 L10.5141627,20.4197445 C9.74048869,21.1934185 8.4861152,21.1934185 7.71244114,20.4197445 L3.58025554,16.2875589 C2.80658149,15.5138848 2.80658149,14.2595113 3.58025554,13.4858373 L13.4858373,3.58025554 Z M16,9 C16.5522847,9 17,8.55228475 17,8 C17,7.44771525 16.5522847,7 16,7 C15.4477153,7 15,7.44771525 15,8 C15,8.55228475 15.4477153,9 16,9 Z" id="Shape"></path>

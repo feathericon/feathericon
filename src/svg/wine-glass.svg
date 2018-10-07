@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>wine-glass</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
     <g id="food" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="wine-glass" fill="#000000">
             <path d="M9,20 L11,20 L11,14 C8.790861,14 7,12.209139 7,10 L7,4 C7,2.8954305 7.8954305,2 9,2 L15,2 C16.1045695,2 17,2.8954305 17,4 L17,10 C17,12.209139 15.209139,14 13,14 L13,20 L15,20 C15.5522847,20 16,20.4477153 16,21 C16,21.5522847 15.5522847,22 15,22 L9,22 C8.44771525,22 8,21.5522847 8,21 C8,20.4477153 8.44771525,20 9,20 Z M9,4 L9,10 C9,11.1045695 9.8954305,12 11,12 L13,12 C14.1045695,12 15,11.1045695 15,10 L15,4 L9,4 Z" id="Shape"></path>

@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>compress</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
     <g id="media-player" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="compress" fill="#000000">
             <path d="M18,12 L12,12 L12,6 L14,8 L17,5 L19,7 L16,10 L18,12 Z M6,12 L12,12 L12,18 L10,16 L7,19 L5,17 L8,14 L6,12 Z" id="Shape"></path>

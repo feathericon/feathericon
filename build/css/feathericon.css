@@ -66,9 +66,11 @@
 .fe-brush:before { content: "\f10c"; }
 .fe-bug:before { content: "\f10d"; }
 .fe-building:before { content: "\f10e"; }
+.fe-bus:before { content: "\f1fe"; }
 .fe-cage:before { content: "\f1e7"; }
 .fe-calendar:before { content: "\f10f"; }
 .fe-camera:before { content: "\f110"; }
+.fe-car:before { content: "\f1ff"; }
 .fe-cart:before { content: "\f1e8"; }
 .fe-check:before { content: "\f111"; }
 .fe-check-circle:before { content: "\f19a"; }
@@ -186,6 +188,10 @@
 .fe-moon:before { content: "\f1ef"; }
 .fe-mouse:before { content: "\f142"; }
 .fe-music:before { content: "\f175"; }
+.fe-notice-active:before { content: "\f200"; }
+.fe-notice-off:before { content: "\f201"; }
+.fe-notice-on:before { content: "\f202"; }
+.fe-notice-push:before { content: "\f203"; }
 .fe-octpus:before { content: "\f1fc"; }
 .fe-open-mouth:before { content: "\f1ba"; }
 .fe-palette:before { content: "\f165"; }
@@ -240,6 +246,7 @@
 .fe-tablet:before { content: "\f152"; }
 .fe-tag:before { content: "\f153"; }
 .fe-target:before { content: "\f1f3"; }
+.fe-taxi:before { content: "\f204"; }
 .fe-terminal:before { content: "\f154"; }
 .fe-text-align-center:before { content: "\f1cb"; }
 .fe-text-align-justify:before { content: "\f1e5"; }
@@ -267,6 +274,7 @@
 .fe-users:before { content: "\f15c"; }
 .fe-vector:before { content: "\f15d"; }
 .fe-video:before { content: "\f15e"; }
+.fe-vr:before { content: "\f205"; }
 .fe-wallet:before { content: "\f1ee"; }
 .fe-warning:before { content: "\f15f"; }
 .fe-watch:before { content: "\f1af"; }

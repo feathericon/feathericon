@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>quote-right</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
     <g id="text-edit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="quote-right" fill="#000000">
             <path d="M17,11 C14.790861,11 13,9.209139 13,7 C13,4.790861 14.790861,3 17,3 C19.209139,3 21,4.78999996 21,7 C21,8.47333336 19.6666667,13.14 17,21 L15,21 C16.3333333,14.3333333 17,11 17,11 Z M7,11 C4.790861,11 3,9.209139 3,7 C3,4.790861 4.790861,3 7,3 C9.209139,3 11,4.78999996 11,7 C11,8.47333336 9.66666667,13.14 7,21 L5,21 C6.33333333,14.3333333 7,11 7,11 Z" id="Shape"></path>

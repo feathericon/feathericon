@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>diamond</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
     <g id="shape" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="diamond" fill="#000000" fill-rule="nonzero">
             <path d="M12,17.8759001 L18.6261763,9.92448856 L16.163932,5 L7.83606798,5 L5.3738237,9.92448856 L12,17.8759001 Z M6.6,3 L17.4,3 L21,10.2 L12,21 L3,10.2 L6.6,3 Z" id="Shape"></path>

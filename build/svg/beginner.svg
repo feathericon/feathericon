@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>beginner</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="beginner" fill="#000000" fill-rule="nonzero">
             <path d="M12,7.52868728 L5,5.09046866 L5,15.4620258 L12,18.712984 L12,7.52868728 Z M5.63245553,3.10781386 L12,5.32573749 L18.3675445,3.10781386 C19.4154311,2.74281719 20.5480711,3.33459371 20.8973666,4.42958373 C20.9653442,4.64268362 21,4.86584165 21,5.09046866 L21,15.4620258 C21,16.2879314 20.534533,17.0363701 19.8122769,17.3718021 L12,21 L4.18772307,17.3718021 C3.46546704,17.0363701 3,16.2879314 3,15.4620258 L3,5.09046866 C3,3.93624784 3.8954305,3.000567 5,3.000567 C5.21496419,3.000567 5.42852259,3.03678056 5.63245553,3.10781386 Z" id="Shape"></path>

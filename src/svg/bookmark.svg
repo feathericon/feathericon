@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>bookmark</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="bookmark" fill="#000000" fill-rule="nonzero">
             <path d="M18,4 L6,4 L6,18.763932 L12,15.763932 L18,18.763932 L18,4 Z M6,2 L18,2 C19.1045695,2 20,2.8954305 20,4 L20,22 L12,18 L4,22 L4,4 C4,2.8954305 4.8954305,2 6,2 Z M14,6 L16,6 L16,12 L14,12 L14,6 Z" id="shape"></path>

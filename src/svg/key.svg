@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>key</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="key" fill="#000000" fill-rule="nonzero">
             <path d="M11.8999819,11 L22,11 C22,13.6691449 22,15.0037174 22,15.0037174 C22,15.5500002 21.5499992,16 21,16 C20.4500008,16 20,15.5500002 20,15.0037174 C20,15.0037174 20,14.3358116 20,13 L18,13 C18,14.3333333 18,15 18,15 C18,15.5500002 17.5499992,16 17,16 C16.4500008,16 16,15.5500002 16,15 C16,15 16,14.3333333 16,13 L11.8999819,13 C11.4367116,15.2822403 9.41895791,17 7,17 C4.23857625,17 2,14.7614237 2,12 C2,9.23857625 4.23857625,7 7,7 C9.41895791,7 11.4367116,8.71775968 11.8999819,11 Z M7,15 C8.65685425,15 10,13.6568542 10,12 C10,10.3431458 8.65685425,9 7,9 C5.34314575,9 4,10.3431458 4,12 C4,13.6568542 5.34314575,15 7,15 Z" id="Shape"></path>

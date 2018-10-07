@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>magic</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="magic" fill="#000000">
             <path d="M3,5 L5,3 L21,19 L19,21 L3,5 Z M13,5 L14,3 L15,5 L17,6 L15,7 L14,9 L13,7 L11,6 L13,5 Z M5,15 L6,13 L7,15 L9,16 L7,17 L6,19 L5,17 L3,16 L5,15 Z M4,9 L5,10 L4,11 L3,10 L4,9 Z M18,10 L19,11 L18,12 L17,11 L18,10 Z" id="Shape"></path>

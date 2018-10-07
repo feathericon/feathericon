@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>hash</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
     <g id="shape" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="hash" fill="#000000">
             <path d="M10,15 L14,15 L14,9 L10,9 L10,15 Z M10,17 L10,20 C10,20.5522847 9.55228475,21 9,21 C8.44771525,21 8,20.5522847 8,20 L8,17 L5,17 C4.44771525,17 4,16.5522847 4,16 C4,15.4477153 4.44771525,15 5,15 L8,15 L8,9 L5,9 C4.44771525,9 4,8.55228475 4,8 C4,7.44771525 4.44771525,7 5,7 L8,7 L8,4 C8,3.44771525 8.44771525,3 9,3 C9.55228475,3 10,3.44771525 10,4 L10,7 L14,7 L14,4 C14,3.44771525 14.4477153,3 15,3 C15.5522847,3 16,3.44771525 16,4 L16,7 L19,7 C19.5522847,7 20,7.44771525 20,8 C20,8.55228475 19.5522847,9 19,9 L16,9 L16,15 L19,15 C19.5522847,15 20,15.4477153 20,16 C20,16.5522847 19.5522847,17 19,17 L16,17 L16,20 C16,20.5522847 15.5522847,21 15,21 C14.4477153,21 14,20.5522847 14,20 L14,17 L10,17 Z" id="Shape"></path>
