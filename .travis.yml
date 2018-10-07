@@ -4,9 +4,6 @@ node_js:
   - '8'
   - '10'
 
-branches:
-  - develop
-
 before_script:
   - npm install
 
