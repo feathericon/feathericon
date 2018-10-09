@@ -14,6 +14,9 @@
   <a href="https://www.npmjs.com/package/feathericon">
     <img src="https://img.shields.io/npm/dm/feathericon.svg?style=flat" alt="npm downloads">
   </a>
+  <a href="https://www.jsdelivr.com/package/npm/feathericon">
+    <img src="https://data.jsdelivr.com/v1/package/npm/feathericon/badge" alt="jsDeliver">
+  </a>
 </div>
 <p align="center">Website: <a href="http://feathericon.com">http://feathericon.com</a></p>
 
