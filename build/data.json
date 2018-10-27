@@ -748,5 +748,20 @@
   },
   "vr": {
     "codepoint": 61957
+  },
+  "bread": {
+    "codepoint": 61958
+  },
+  "frying-pan": {
+    "codepoint": 61959
+  },
+  "mitarashi-dango": {
+    "codepoint": 61960
+  },
+  "tumbler-glass": {
+    "codepoint": 61961
+  },
+  "yaki-dango": {
+    "codepoint": 61962
   }
 }

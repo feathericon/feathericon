@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "17cac733785bd16aef9b43abd10bf4a56f4bcd10aed24ebd507b98103dd5696d",
-    "current": "17cac733785bd16aef9b43abd10bf4a56f4bcd10aed24ebd507b98103dd5696d"
+    "previous": "7e94e94c2e56c8a9565963dbe97c1f6a683b7b9e6ab5822fe092ec27dbb9ed09",
+    "current": "7e94e94c2e56c8a9565963dbe97c1f6a683b7b9e6ab5822fe092ec27dbb9ed09"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -122,6 +122,10 @@
     "bookmark": {
       "codepoint": 61808,
       "source": "src/svg/bookmark.svg"
+    },
+    "bread": {
+      "codepoint": 61958,
+      "source": "src/svg/bread.svg"
     },
     "browser": {
       "codepoint": 61707,
@@ -423,6 +427,10 @@
       "codepoint": 61881,
       "source": "src/svg/frowing.svg"
     },
+    "frying-pan": {
+      "codepoint": 61959,
+      "source": "src/svg/frying-pan.svg"
+    },
     "gamepad": {
       "codepoint": 61841,
       "source": "src/svg/gamepad.svg"
@@ -606,6 +614,10 @@
     "minus": {
       "codepoint": 61760,
       "source": "src/svg/minus.svg"
+    },
+    "mitarashi-dango": {
+      "codepoint": 61960,
+      "source": "src/svg/mitarashi-dango.svg"
     },
     "mobile": {
       "codepoint": 61761,
@@ -919,6 +931,10 @@
       "codepoint": 61933,
       "source": "src/svg/truck.svg"
     },
+    "tumbler-glass": {
+      "codepoint": 61961,
+      "source": "src/svg/tumbler-glass.svg"
+    },
     "twitter": {
       "codepoint": 61917,
       "source": "src/svg/twitter.svg"
@@ -1006,6 +1022,10 @@
     "wrench": {
       "codepoint": 61794,
       "source": "src/svg/wrench.svg"
+    },
+    "yaki-dango": {
+      "codepoint": 61962,
+      "source": "src/svg/yaki-dango.svg"
     },
     "youtube": {
       "codepoint": 61920,

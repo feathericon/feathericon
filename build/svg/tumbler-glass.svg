@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>tumbler-glass</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="food" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tumbler-glass" fill="#000000" fill-rule="nonzero">
+            <path d="M7,3 L17,3 C18.1045695,3 19,3.8954305 19,5 L19,15 C19,18.3137085 16.3137085,21 13,21 L11,21 C7.6862915,21 5,18.3137085 5,15 L5,5 C5,3.8954305 5.8954305,3 7,3 Z M7,5 L7,14 L17,14 L17,5 L7,5 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
