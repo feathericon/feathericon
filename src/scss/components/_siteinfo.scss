@@ -1,22 +1,8 @@
 @charset "utf-8";
 
 /* -------------------------------------------------------------- */
-/* footer
+/* Siteinfo
 /* -------------------------------------------------------------- */
-.footerMenu {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-  li {
-    margin: 0 10px;
-    a {
-      color: $colorGrayDarken;
-      font-size: 0.85rem;
-    }
-  }
-}
-
 .siteinfo {
   padding: 40px 0;
   background-color: $colorGrayLighten;

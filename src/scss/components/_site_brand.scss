@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+/* -------------------------------------------------------------- */
+/* Site Brand
+/* -------------------------------------------------------------- */
+.siteBrand {
+  &__title {
+    font-size: 24px;
+    margin: 0;
+    line-height: 1;
+    a {
+      display: inline-block;
+      color: $colorBlack;
+      line-height: 1;
+    }
+  }
+}

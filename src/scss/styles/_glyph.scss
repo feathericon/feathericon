@@ -4,7 +4,7 @@
 /* top
 /* -------------------------------------------------------------- */
 .glyph {
-  max-width: 840px;
+  max-width: $maxWidth;
   margin: 0 auto;
   &__list {
     display: flex;
@@ -16,16 +16,18 @@
   &__item {
     @extend %clearfix;
     display: flex;
+    flex: 1 0 200px;
     flex-direction: column;
     align-items: center;
-    width: 20%;
-    margin-bottom: 32px;
-    padding: 5px 10px;
+    margin: 12px 12px 20px 12px;
+    padding: 16px;
     list-style-type: none;
+    background-color: lighten($colorGrayLighten, 2%);
+    border-radius: 8px;
   }
   &__icon {
-    color: transparentize($colorBlack, 0.1);
-    font-size: 28px;
+    color: $colorBlack;
+    font-size: 1.8rem;
     margin-bottom: 12px;
   }
   &__name,
@@ -33,12 +35,12 @@
     line-height: 1;
   }
   &__name {
-    color: transparentize($colorBlack, 0.2);
-    font-size: 14px;
-    margin-bottom: 4px;
+    color: $colorBlack;
+    font-size: 1rem;
+    margin-bottom: 8px;
   }
   &__codepoint {
     color: transparentize($colorBlack, 0.4);
-    font-size: 12px;
+    font-size: 0.8rem;
   }
 }

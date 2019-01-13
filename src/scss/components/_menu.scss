@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+/* -------------------------------------------------------------- */
+/* Menu
+/* -------------------------------------------------------------- */
+.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 0;
+  li {
+    margin: 0 10px;
+    a {
+      color: $colorBlack;
+      font-size: 1rem;
+      &:hover {
+        color: $colorCyan;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 40em) {
+   .menu {
+     display: none;
+   }
+ }
