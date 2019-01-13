@@ -3,34 +3,15 @@
 /* -------------------------------------------------------------- */
 /* header
 /* -------------------------------------------------------------- */
-
-/**
- * l-header
- */
 .l-header {
-  margin-bottom: 40px;
-  padding: 40px;
-}
-
-/**
- * siteBrand
- */
-.siteBrand {
-  &__title {
-    font-size: 48px;
-    margin-top: 0;
-    margin-bottom: 10px;
-    line-height: 1;
-    a {
-      display: inline-block;
-      color: $colorBlack;
-      line-height: 1;
-    }
-  }
-  &__description {
-    margin-top: 0;
-    margin-bottom: 32px;
-    color: transparentize($colorBlack, 0.3);
-    font-weight: 400;
+  padding: 24px;
+  border-bottom: 1px solid $colorGrayLighten;
+  &__inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: $maxWidth;
+    margin: 0 auto;
   }
 }

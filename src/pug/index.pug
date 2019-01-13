@@ -8,8 +8,15 @@ block body
   #fb-root
   include inc/scripts/_facebook
   include inc/layouts/_header
+  .l-cover
+    .l-cover__inner
+      p.siteDescription= page.top.description
+      ul.checkList
+        each val in ['Sketch file', 'svg files', 'font files', 'HTML code']
+          li= val
+      a.button(href="https://github.com/feathericon/feathericon/archive/release.zip", class="button--green download") Download
   .l-main
-    include inc/modules/_icons
+    include inc/components/_icons
   include inc/layouts/_footer
 block append scriptFooter
   script(async='', defer='', src='https://buttons.github.io/buttons.js')

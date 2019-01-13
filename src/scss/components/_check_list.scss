@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+/* -------------------------------------------------------------- */
+/* Check List
+/* -------------------------------------------------------------- */
+.checkList {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  max-width: 460px;
+  margin: 16px auto 32px auto;
+  > li {
+    flex: 1 0 100px;
+    color: transparentize($colorBlack, .2);
+    &:before {
+      @include fe('\f19a', $valign: middle);
+      margin-right: 8px;
+      color: $colorCyan;
+    }
+  }
+}

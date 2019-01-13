@@ -18,12 +18,14 @@
     <img src="https://data.jsdelivr.com/v1/package/npm/feathericon/badge" alt="jsDeliver">
   </a>
 </div>
-<p align="center">Website: <a href="http://feathericon.com">http://feathericon.com</a></p>
+<p align="center">Website: <a href="https://feathericon.com/">https://feathericon.com/</a></p>
 
 <p align="center">feathericon v1.0.0 is now available - the brand new design icons 🎉🎉<br>
 You can also use <a href="https://github.com/feathericon/feathericon/releases/tag/v0.11.0">old version</a>.</p>
 
 ## Getting Started
+feathericon contains Sketch file, svg files, css / scss files and font files.
+
 ### Basic
 1. Download **[ZIP folder from here](https://github.com/feathericon/feathericon/archive/release.zip)**.
 1. Copy the `css/` and `fonts/` directory to your project.
@@ -32,7 +34,7 @@ You can also use <a href="https://github.com/feathericon/feathericon/releases/ta
   ```html
   <link rel="stylesheet" href="path/to/css/feathericon.min.css">
   ```
-1. Place feathicon with `<i>` tag in your html like this. `fe` class is required to use our icons correctly. Check out [our website](http://feathericon.com) to start using icons!
+1. Place feathicon with `<i>` tag in your html like this. `fe` class is required to use our icons correctly. Check out [our website](https://feathericon.com/) to start using icons!
 
   ```html
   <i class="fe fe-heart"></i>

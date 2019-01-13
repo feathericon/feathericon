@@ -5,7 +5,7 @@
 //----------------------------------------------------------------------------
 $colorCyan          : #2bdade;
 $colorGreen         : #1ba1ab;
-$colorBlack         : #4a4a4a;
+$colorBlack         : #3a3a3a;
 $colorGray          : #c1c0c1;
 $colorGrayDarken    : #9b9b9b;
 $colorGrayLighten   : #f1f1f1;
@@ -19,7 +19,7 @@ $imgPath           : '../images/';
 //----------------------------------------------------------------------------
 // font
 //----------------------------------------------------------------------------
-$fontFamily         : 'Lato', Sans-Serif;
+$fontFamily         : "Nunito","Noto Sans JP",sans-serif;
 $fontFamilyCode     : Menlo, Consolas, Courier, sans-serif;
 
 @mixin fe($glyph: '\f101', $fontSize: inherit, $valign: baseline) {
