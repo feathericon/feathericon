@@ -3,7 +3,7 @@
 <a href="https://sketch.cloud/s/YJAlO" rel="nofollow">
   <img src="https://raw.githubusercontent.com/featherplain/feathericon/master/docs/img_feathericon_white.png" alt="feathericon">
 </a>
-<br>
+<br><br>
 <a href="https://travis-ci.org/feathericon/feathericon">
   <img src="https://travis-ci.org/feathericon/feathericon.svg?branch=master" alt="Build Status">
 </a>
@@ -17,7 +17,7 @@
   <img src="https://data.jsdelivr.com/v1/package/npm/feathericon/badge" alt="jsDeliver">
 </a>
 
-<br>
+<br><br>
 
 feathericon is simply generic vector icon collection. The vectors for all the icons are stored in a [Sketch file](https://sketch.cloud/s/YJAlO).
 <br>
