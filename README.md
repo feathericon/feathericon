@@ -1,5 +1,4 @@
 # feathericon
-
 <a href="https://sketch.cloud/s/YJAlO" rel="nofollow">
   <img src="https://raw.githubusercontent.com/featherplain/feathericon/master/docs/img_feathericon_white.png" alt="feathericon">
 </a>
@@ -16,9 +15,7 @@
 <a href="https://www.jsdelivr.com/package/npm/feathericon">
   <img src="https://data.jsdelivr.com/v1/package/npm/feathericon/badge" alt="jsDeliver">
 </a>
-
 <br><br>
-
 feathericon is simply generic vector icon collection. The vectors for all the icons are stored in a [Sketch file](https://sketch.cloud/s/YJAlO).
 <br>
 Website: <a href="https://feathericon.com/">https://feathericon.com/</a>
@@ -39,6 +36,8 @@ feathericon contains Sketch file, svg files, css / scss files and font files.
   ```html
   <i class="fe fe-heart"></i>
   ```
+
+You can use feathericon with CDN files on [jsdeliver](https://www.jsdelivr.com/package/npm/feathericon).
 
 ### Using SVG sprite
 1. Download **[ZIP folder from here](https://github.com/feathericon/feathericon/archive/release.zip)**.
