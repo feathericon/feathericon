@@ -16,7 +16,7 @@
   <img src="https://data.jsdelivr.com/v1/package/npm/feathericon/badge" alt="jsDeliver">
 </a>
 <br><br>
-feathericon is simply generic vector icon collection. The vectors for all the icons are stored in a [Sketch file](https://sketch.cloud/s/YJAlO).
+feathericon is simply generic vector icon collection. The vectors for all the icons are stored in a <a href="https://sketch.cloud/s/YJAlO">Sketch file</a>.
 <br>
 Website: <a href="https://feathericon.com/">https://feathericon.com/</a>
 
