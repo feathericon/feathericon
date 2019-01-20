@@ -1,27 +1,24 @@
-![feathericon](https://raw.githubusercontent.com/featherplain/feathericon/master/docs/img_feathericon_white.png "feathericon")
+# feathericon
+<a href="https://sketch.cloud/s/YJAlO" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/featherplain/feathericon/master/docs/img_feathericon_white.png" alt="feathericon">
+</a>
+<br><br>
+<a href="https://travis-ci.org/feathericon/feathericon">
+  <img src="https://travis-ci.org/feathericon/feathericon.svg?branch=master" alt="Build Status">
+</a>
+<a href="https://www.npmjs.com/package/feathericon">
+  <img src="https://badge.fury.io/js/feathericon.svg" alt="npm version" height="18">
+</a>
+<a href="https://www.npmjs.com/package/feathericon">
+  <img src="https://img.shields.io/npm/dm/feathericon.svg?style=flat" alt="npm downloads">
+</a>
+<a href="https://www.jsdelivr.com/package/npm/feathericon">
+  <img src="https://data.jsdelivr.com/v1/package/npm/feathericon/badge" alt="jsDeliver">
+</a>
+<br><br>
+feathericon is simply generic vector icon collection. The vectors for all the icons are stored in a <a href="https://sketch.cloud/s/YJAlO">Sketch file</a>.
 <br>
-![feathericon](https://raw.githubusercontent.com/featherplain/feathericon/master/docs/img_feathericon_green.png "feathericon")
-
-<h1 align="center">feathericon</h1>
-<p align="center">feathericon is simple, scalable vector icon font for websites, apps.</p>
-<div align="center">
-  <a href="https://travis-ci.org/feathericon/feathericon">
-    <img src="https://travis-ci.org/feathericon/feathericon.svg?branch=master" alt="Build Status">
-  </a>
-  <a href="https://www.npmjs.com/package/feathericon">
-    <img src="https://badge.fury.io/js/feathericon.svg" alt="npm version" height="18">
-  </a>
-  <a href="https://www.npmjs.com/package/feathericon">
-    <img src="https://img.shields.io/npm/dm/feathericon.svg?style=flat" alt="npm downloads">
-  </a>
-  <a href="https://www.jsdelivr.com/package/npm/feathericon">
-    <img src="https://data.jsdelivr.com/v1/package/npm/feathericon/badge" alt="jsDeliver">
-  </a>
-</div>
-<p align="center">Website: <a href="https://feathericon.com/">https://feathericon.com/</a></p>
-
-<p align="center">feathericon v1.0.0 is now available - the brand new design icons 🎉🎉<br>
-You can also use <a href="https://github.com/feathericon/feathericon/releases/tag/v0.11.0">old version</a>.</p>
+Website: <a href="https://feathericon.com/">https://feathericon.com/</a>
 
 ## Getting Started
 feathericon contains Sketch file, svg files, css / scss files and font files.
@@ -39,6 +36,8 @@ feathericon contains Sketch file, svg files, css / scss files and font files.
   ```html
   <i class="fe fe-heart"></i>
   ```
+
+You can use feathericon with CDN files on [jsdeliver](https://www.jsdelivr.com/package/npm/feathericon).
 
 ### Using SVG sprite
 1. Download **[ZIP folder from here](https://github.com/feathericon/feathericon/archive/release.zip)**.
