@@ -18,7 +18,7 @@
 <br><br>
 feathericon is simply generic vector icon collection. The vectors for all the icons are stored in a <a href="https://sketch.cloud/s/YJAlO">Sketch file</a>.
 <br>
-Website: <a href="https://feathericon.com/">https://feathericon.com/</a>
+Website: <a href="https://feathericon.github.io/feathericon/">https://feathericon.github.io/feathericon/</a>
 
 ## Getting Started
 feathericon contains Sketch file, svg files, css / scss files and font files.
@@ -31,7 +31,7 @@ feathericon contains Sketch file, svg files, css / scss files and font files.
   ```html
   <link rel="stylesheet" href="path/to/css/feathericon.min.css">
   ```
-1. Place feathicon with `<i>` tag in your html like this. `fe` class is required to use our icons correctly. Check out [our website](https://feathericon.com/) to start using icons!
+1. Place feathicon with `<i>` tag in your html like this. `fe` class is required to use our icons correctly. Check out [our website](https://feathericon.github.io/feathericon/) to start using icons!
 
   ```html
   <i class="fe fe-heart"></i>
