@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>phone</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="phone" fill="#000000">
+            <path d="M4.02423425,9 L4,8.93098559 C3.46039217,7.38416195 3,5.26999998 3,4 C3,3.45000005 3.45000005,3 4,3 C4,3 5,3 7,3 C8.1045695,3 9,3.8954305 9,5 L9,7 C9,8.1045695 8.1045695,9 7,9 L6.16303409,9 C7.78656377,13.0107978 10.9892022,16.2134362 15,17.8369659 L15,17 C15,15.8954305 15.8954305,15 17,15 L19,15 C20.1045695,15 21,15.8954305 21,17 C21,19 21,20 21,20 C21,20.4500008 20.4500008,21 20,21 C18.2745185,21 16.5606013,20.5444146 15,20 C9.88551931,18.1680562 5.83194377,14.1144807 4.02423425,9 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>laptop</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="devices" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="laptop" fill="#000000" fill-rule="nonzero">
+            <path d="M21,20 L3,20 C2.44771525,20 2,19.5522847 2,19 C2,18.4477153 2.44771525,18 3,18 L21,18 C21.5522847,18 22,18.4477153 22,19 C22,19.5522847 21.5522847,20 21,20 Z M5,6 L5,14 L19,14 L19,6 L5,6 Z M5,4 L19,4 C20.1045695,4 21,4.8954305 21,6 L21,14 C21,15.1045695 20.1045695,16 19,16 L5,16 C3.8954305,16 3,15.1045695 3,14 L3,6 C3,4.8954305 3.8954305,4 5,4 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

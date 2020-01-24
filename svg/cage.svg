@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>cage</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="e-commerce" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cage" fill="#000000">
+            <path d="M14,4.34141142 C16.3303847,5.16508423 18,7.38756235 18,10 L18,19 L18.5,19 C19.3284271,19 20,19.6715729 20,20.5 C20,21.3284271 19.3284271,22 18.5,22 L5.5,22 C4.67157288,22 4,21.3284271 4,20.5 C4,19.6715729 4.67157288,19 5.5,19 L6,19 L6,10 C6,7.38756235 7.66961525,5.16508423 10,4.34141142 L10,4 C10,2.8954305 10.8954305,2 12,2 C13.1045695,2 14,2.8954305 14,4 L14,4.34141142 Z M16,11 L16,14 L13,14 L13,11 L16,11 Z M16,9 L13,9 L13,6 C14.4672399,6.37764145 15.6223585,7.53276008 16,9 Z M8,11 L11,11 L11,14 L8,14 L8,11 Z M8,9 C8.37764145,7.53276008 9.53276008,6.37764145 11,6 L11,9 L8,9 Z M16,16 L16,19 L13,19 L13,16 L16,16 Z M8,16 L11,16 L11,19 L8,19 L8,16 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

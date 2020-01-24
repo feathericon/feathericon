@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>heart-o</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="shape" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="heart-o" fill="#000000">
+            <path d="M12,20 C9.79485241,19.5208288 3,15.7600002 3,9 C3,6.23857625 5.23857625,4 8,4 C9.63559896,4 11.0877712,4.7853431 12,5.99951255 C12.9122288,4.7853431 14.364401,4 16,4 C18.7614237,4 21,6.23857625 21,9 C21,15.7600002 14.2051476,19.5208288 12,20 Z M12,18 C15.1201618,17.0695021 19,13.195286 19,9 C19,7.34314575 17.6568542,6 16,6 C14.6951991,6 13.3618658,6.83333333 12,8.5 C10.6381342,6.83333333 9.3048009,6 8,6 C6.34314575,6 5,7.34314575 5,9 C5,13.195286 8.87983821,17.0695021 12,18 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>money</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="money" fill="#000000" fill-rule="nonzero">
+            <path d="M4,5 L20,5 C21.1045695,5 22,5.8954305 22,7 L22,17 C22,18.1045695 21.1045695,19 20,19 L4,19 C2.8954305,19 2,18.1045695 2,17 L2,7 C2,5.8954305 2.8954305,5 4,5 Z M18,7 L6,7 C6,8.1045695 5.1045695,9 4,9 L4,15 C5.1045695,15 6,15.8954305 6,17 L18,17 C18,15.8954305 18.8954305,15 20,15 L20,9 C18.8954305,9 18,8.1045695 18,7 Z M8,9 L10,9 L10,15 L8,15 L8,9 Z M14,13 C14.5522847,13 15,12.5522847 15,12 C15,11.4477153 14.5522847,11 14,11 C13.4477153,11 13,11.4477153 13,12 C13,12.5522847 13.4477153,13 14,13 Z M14,15 C12.3431458,15 11,13.6568542 11,12 C11,10.3431458 12.3431458,9 14,9 C15.6568542,9 17,10.3431458 17,12 C17,13.6568542 15.6568542,15 14,15 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

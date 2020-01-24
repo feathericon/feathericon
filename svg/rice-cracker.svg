@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>rice-cracker</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="food" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="rice-cracker" fill="#000000" fill-rule="nonzero">
+            <path d="M12,22 C6.4771525,22 2,17.5228475 2,12 C2,6.4771525 6.4771525,2 12,2 C17.5228475,2 22,6.4771525 22,12 C22,17.5228475 17.5228475,22 12,22 Z M7,18.245371 L7,13 C7,11.8954305 7.8954305,11 9,11 L15,11 C16.1045695,11 17,11.8954305 17,13 L17,18.245371 C18.828925,16.7792499 20,14.5263846 20,12 C20,7.581722 16.418278,4 12,4 C7.581722,4 4,7.581722 4,12 C4,14.5263846 5.17107503,16.7792499 7,18.245371 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

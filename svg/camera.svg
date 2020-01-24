@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>camera</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="devices" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="camera" fill="#000000">
+            <path d="M5,21 C3.8954305,21 3,20.1045695 3,19 C3,18.2597176 3,5.74028236 3,5 C3,3.8954305 3.8954305,3 5,3 C5.74028236,3 18.2597176,3 19,3 C20.1045695,3 21,3.8954305 21,5 C21,5.74028236 21,18.2597176 21,19 C21,20.1045695 20.1045695,21 19,21 C18.2597176,21 5.74028236,21 5,21 Z M17,5 L17,7 L19,7 L19,5 L17,5 Z M12,17 C14.7614237,17 17,14.7614237 17,12 C17,9.23857625 14.7614237,7 12,7 C9.23857625,7 7,9.23857625 7,12 C7,14.7614237 9.23857625,17 12,17 Z M12,15 C13.6568542,15 15,13.6568542 15,12 C15,10.3431458 13.6568542,9 12,9 C10.3431458,9 9,10.3431458 9,12 C9,13.6568542 10.3431458,15 12,15 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

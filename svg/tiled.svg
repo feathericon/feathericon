@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>tiled</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="text-edit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tiled" fill="#000000" fill-rule="nonzero">
+            <path d="M6,4 L18,4 C19.1045695,4 20,4.8954305 20,6 L20,18 C20,19.1045695 19.1045695,20 18,20 L6,20 C4.8954305,20 4,19.1045695 4,18 L4,6 C4,4.8954305 4.8954305,4 6,4 Z M13,13 L13,18 L18,18 L18,13 L13,13 Z M6,13 L6,18 L11,18 L11,13 L6,13 Z M13,6 L13,11 L18,11 L18,6 L13,6 Z M6,6 L6,11 L11,11 L11,6 L6,6 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

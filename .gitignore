@@ -1,0 +1,13 @@
+bin
+build/
+docs/
+gulp/
+node_modules/
+src/
+.editorconfig
+*.json
+*.yml
+gulpfile.babel.js
+.DS_store
+*.log
+.npmignore

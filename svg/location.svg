@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>location</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="location" fill="#000000" fill-rule="nonzero">
+            <path d="M12,19 C12.4366122,19 13.4785451,17.8129606 14.411352,15.6882291 C15.3570828,13.5340597 16,10.8736393 16,9.35294118 C16,6.92412619 14.1827697,5 12,5 C9.81723029,5 8,6.92412619 8,9.35294118 C8,10.8736393 8.64291718,13.5340597 9.58864802,15.6882291 C10.5214549,17.8129606 11.5633878,19 12,19 Z M12,21 C8.6862915,21 6,12.8615737 6,9.35294118 C6,5.84430865 8.6862915,3 12,3 C15.3137085,3 18,5.84430865 18,9.35294118 C18,12.8615737 15.3137085,21 12,21 Z M12,11 C13.1045695,11 14,10.1045695 14,9 C14,7.8954305 13.1045695,7 12,7 C10.8954305,7 10,7.8954305 10,9 C10,10.1045695 10.8954305,11 12,11 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

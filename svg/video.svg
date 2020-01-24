@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>video</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="devices" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="video" fill="#000000">
+            <path d="M15,9.64903369 L20.6460629,7.512375 C21.1625978,7.31690094 21.7397952,7.5771722 21.9352692,8.09370713 C21.9780681,8.20680208 22,8.32672187 22,8.44764423 L22,15.5569995 C22,16.1092843 21.5522847,16.5569995 21,16.5569995 C20.880088,16.5569995 20.7611536,16.5354326 20.6488766,16.4933287 L15,14.375 L15,16 C15,17.1045695 14.1045695,18 13,18 L4,18 C2.8954305,18 2,17.1045695 2,16 L2,8 C2,6.8954305 2.8954305,6 4,6 L13,6 C14.1045695,6 15,6.8954305 15,8 L15,9.64903369 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

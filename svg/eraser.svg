@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>eraser</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="production" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="eraser" fill="#000000">
+            <path d="M18,4 L18,20 C18,21.1045695 17.1045695,22 16,22 L8,22 C6.8954305,22 6,21.1045695 6,20 L6,4 C6,2.8954305 6.8954305,2 8,2 L16,2 C17.1045695,2 18,2.8954305 18,4 Z M8,4 L8,8 L16,8 L16,4 L8,4 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>medal</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="event" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="medal" fill="#000000">
+            <path d="M12,22 C8.13400675,22 5,18.8659932 5,15 C5,11.1340068 8.13400675,8 12,8 C15.8659932,8 19,11.1340068 19,15 C19,18.8659932 15.8659932,22 12,22 Z M12,20 C14.7614237,20 17,17.7614237 17,15 C17,12.2385763 14.7614237,10 12,10 C9.23857625,10 7,12.2385763 7,15 C7,17.7614237 9.23857625,20 12,20 Z M12,8 C11.4477153,8 11,7.55228475 11,7 C11,6.44771525 11.4477153,6 12,6 C12.5522847,6 13,6.44771525 13,7 C13,7.55228475 12.5522847,8 12,8 Z M9,2 L11,2 C11,4.66666667 11,6 11,6 C9.89999962,6 9,5.0999999 9,4 C9,4 9,3.33333333 9,2 Z M13,2 L15,2 C15,3.33333333 15,4 15,4 C15,5.0999999 14.1000004,6 13,6 C13,6 13,4.66666667 13,2 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

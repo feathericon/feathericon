@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>wrench</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wrench" fill="#000000">
+            <path d="M14,11.5839563 L14,20 C14,21.1045695 13.1045695,22 12,22 C10.8954305,22 10,21.1045695 10,20 L10,11.5839563 C8.23409522,10.8123997 7,9.05031904 7,7 C7,4.23857625 9.23857625,2 12,2 C12.1315701,2 12.2619533,2.00508183 12.390964,2.01505992 L10,6 L14,8 L16.214708,4.30882001 C16.7118201,5.08574024 17,6.00921611 17,7 C17,9.05031904 15.7659048,10.8123997 14,11.5839563 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

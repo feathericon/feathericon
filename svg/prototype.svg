@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>prototype</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="production" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="prototype" fill="#000000">
+            <path d="M9,12 L6.73243561,12 C6.38662619,12.5978014 5.74028236,13 5,13 C3.8954305,13 3,12.1045695 3,11 C3,9.8954305 3.8954305,9 5,9 C5.74028236,9 6.38662619,9.40219863 6.73243561,10 L9,10 L9,5 C9,3.8954305 9.8954305,3 11,3 L19,3 C20.1045695,3 21,3.8954305 21,5 L21,19 C21,20.1045695 20.1045695,21 19,21 L11,21 C9.8954305,21 9,20.1045695 9,19 L9,12 Z M11,12 L11,19 L19,19 L19,5 L11,5 L11,10 L13.2675644,10 C13.6133738,9.40219863 14.2597176,9 15,9 C16.1045695,9 17,9.8954305 17,11 C17,12.1045695 16.1045695,13 15,13 C14.2597176,13 13.6133738,12.5978014 13.2675644,12 L11,12 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

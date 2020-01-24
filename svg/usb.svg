@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>usb</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="devices" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="usb" fill="#000000" fill-rule="nonzero">
+            <path d="M10,4 L10,8 L16,8 L16,4 L10,4 Z M14,10 L14,14 L16,14 L16,10 L14,10 Z M10,2 L16,2 C17.1045695,2 18,2.8954305 18,4 L18,20 C18,21.1045695 17.1045695,22 16,22 L10,22 C8.8954305,22 8,21.1045695 8,20 L8,4 C8,2.8954305 8.8954305,2 10,2 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

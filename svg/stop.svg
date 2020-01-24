@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>stop</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="media-player" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="stop" fill="#000000" fill-rule="nonzero">
+            <path d="M7,5 L17,5 C18.1045695,5 19,5.8954305 19,7 L19,17 C19,18.1045695 18.1045695,19 17,19 L7,19 C5.8954305,19 5,18.1045695 5,17 L5,7 C5,5.8954305 5.8954305,5 7,5 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

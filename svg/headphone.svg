@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>headphone</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="devices" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="headphone" fill="#000000">
+            <path d="M19,13 C20.1045695,13 21,13.8954305 21,15 L21,19 C21,20.1045695 20.1045695,21 19,21 C17.8954305,21 17,20.1045695 17,19 L17,10 C17,7.23857625 14.7614237,5 12,5 C9.23857625,5 7,7.23857625 7,10 L7,19 C7,20.1045695 6.1045695,21 5,21 C3.8954305,21 3,20.1045695 3,19 L3,15 C3,13.8954305 3.8954305,13 5,13 L5,10 C5,6.13400675 8.13400675,3 12,3 C15.8659932,3 19,6.13400675 19,10 L19,13 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

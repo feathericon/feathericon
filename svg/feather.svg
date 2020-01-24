@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>feather</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="feather" fill="#000000">
+            <path d="M5.99252809,17.8771424 C5.9974605,17.9174041 6,17.9584055 6,18 L6,21 C6,21.5522847 5.55228475,22 5,22 C4.44771525,22 4,21.5522847 4,21 L4,18 C4,9.163444 11.163444,2 20,2 C20,10.1618099 13.8887683,16.8962651 5.99252809,17.8771424 Z M6.16663906,15.8333609 C12.163656,14.9016638 16.9016638,10.163656 17.8333609,4.16663906 C11.836344,5.0983362 7.0983362,9.83634397 6.16663906,15.8333609 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
