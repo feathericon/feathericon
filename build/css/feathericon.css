@@ -11,6 +11,7 @@
   font-family: 'feathericon';
   src: url('../fonts/feathericon.eot');
   src: url('../fonts/feathericon.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/feathericon.woff2') format('woff2'),
     url('../fonts/feathericon.woff') format('woff'),
     url('../fonts/feathericon.ttf') format('truetype'),
     url('../fonts/feathericon.svg') format('svg');
